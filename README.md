@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Brother Square-Toes’—Rewards and Fairies
 
-‘Brother Square-Toes’—Rewards and Fairies)
-
-If you can keep your head when all about you   
+```If you can keep your head when all about you   
     Are losing theirs and blaming it on you,   
 If you can trust yourself when all men doubt you,
     But make allowance for their doubting too;   
@@ -36,4 +34,4 @@ If neither foes nor loving friends can hurt you,
 If you can fill the unforgiving minute
     With sixty seconds’ worth of distance run,   
 Yours is the Earth and everything that’s in it,   
-    And—which is more—you’ll be a Man, my son!
+    And—which is more—you’ll be a Man, my son!```
