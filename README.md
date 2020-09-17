@@ -1,6 +1,5 @@
-# Brother Square-Toes’—Rewards and Fairies
+# If By Rudyard Kipling
 
-```
 If you can keep your head when all about you   
     Are losing theirs and blaming it on you,   
 If you can trust yourself when all men doubt you,
@@ -36,10 +35,10 @@ If you can fill the unforgiving minute
     With sixty seconds’ worth of distance run,   
 Yours is the Earth and everything that’s in it,   
     And—which is more—you’ll be a Man, my son!
-```
+
  
- #  Annabel Lee By Edgar Allan Poe
-```
+#  Annabel Lee By Edgar Allan Poe
+
 It was many and many a year ago,
    In a kingdom by the sea,
 That a maiden there lived whom you may know
@@ -86,4 +85,4 @@ And so, all the night-tide, I lie down by the side
    Of my darling—my darling—my life and my bride,
    In her sepulchre there by the sea—
    In her tomb by the sounding sea.
-```
+
