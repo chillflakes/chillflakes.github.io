@@ -38,7 +38,6 @@
 > And—which is more—you’ll be a Man, my son!__*
 
 <br>
-</br>
 
 #  Annabel Lee By Edgar Allan Poe
 
@@ -90,7 +89,6 @@
 >In her tomb by the sounding sea.
 
 <br>
-</br>
 
 # Somewhere I have never travelled,gladly beyond by E.E Cummings
 
