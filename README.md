@@ -1,6 +1,6 @@
-# Quotes
+
 <details>
-  <summary># Quotes</summary>
+  <summary>---------- Quotes ----------</summary>
 <pre>
 "My wealth, let son and bretheren part. Some things they cannot share.
 My work well done, my noble heart, these are only mine to wear." - Jabir
