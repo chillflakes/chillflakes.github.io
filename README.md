@@ -1,6 +1,6 @@
-# Quotes
+# 
 <details>
-  <summary></summary>
+  <summary>Quotes</summary>
   <pre>
   
 > "My wealth, let son and bretheren part. Some things they cannot share.
