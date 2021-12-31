@@ -2,7 +2,8 @@
 <details>
   <summary>Click to expand!</summary>
   <pre>
-  > "My wealth, let son and bretheren part. Some things they cannot share.
+  
+> "My wealth, let son and bretheren part. Some things they cannot share.
 My work well done, my noble heart, these are only mine to wear." - Jabir
 
 > ”My heart trembles like a poor leaf.\
@@ -503,7 +504,7 @@ Of being only what I appear to be.” ― Fernando Pessoa, Poems of Fernando Pes
 > “Read the best books first, or you may not have a chance to read them at all.” ― Henry David Thoreau, A Week on the Concord and Merrimack Rivers
 
 > “These are the days that must happen to you.” ― Walt Whitman
-
 </pre>
+
 
 </details>
