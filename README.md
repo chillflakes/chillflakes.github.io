@@ -1,6 +1,6 @@
 # Quotes
 <details>
-  <summary>Click to expand!</summary>
+  <summary></summary>
   <pre>
   
 > "My wealth, let son and bretheren part. Some things they cannot share.
