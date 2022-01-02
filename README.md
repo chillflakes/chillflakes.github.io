@@ -19,7 +19,12 @@ My work well done, my noble heart, these are only mine to wear." - Jabir
 > ## Big Block
 > > Small Block Inside
 
+<details>
+  <summary>---------- Quotes ----------</summary>
+
 > ## Quotes
 > > "The mathematics clearly called for a set of underlying elementary objects-at that time we needed three types of them-elementary objects that could be combined three at a time in different ways to make all the heavy particles we knew. ... I needed a name for them and called them quarks, after the taunting cry of the gulls, "Three quarks for Muster mark," from Finnegan's Wake by the Irish writer James Joyce." - Murray Gell-Mann
 > 
 > > Second one
+
+</details>
