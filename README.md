@@ -1289,18 +1289,6 @@
 > > But does a Human Form Display\
 > > To those who Dwell in Realms of day
 
-> # Quotes
->  
-> > "My wealth, let son and bretheren part. Some things they cannot share.
-> > My work well done, my noble heart, these are only mine to wear." - Jabir
->  
->  
->  
-> > ”My heart trembles like a poor leaf.\
-> > The planets whirl in my dreams.\
-> > The stars press against my window.\
-> > I rotate in my sleep.\
-> > My bed is a warm planet.” - Marvin Mercer 
 
 > # Quotes
 >  
