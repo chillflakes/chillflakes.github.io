@@ -1,3 +1,27 @@
+> ## Invictus by William Ernest Henley 
+>  
+> > Out of the night that covers me,   
+> >   Black as the Pit from pole to pole,   
+> > I thank whatever gods may be   
+> >   For my unconquerable soul.   
+> >  
+> > In the fell clutch of circumstance 
+> >   I have not winced nor cried aloud.   
+> > Under the bludgeonings of chance   
+> >   My head is bloody, but unbowed.   
+> >  
+> > Beyond this place of wrath and tears   
+> >   Looms but the Horror of the shade, 
+> > And yet the menace of the years   
+> >   Finds, and shall find, me unafraid.   
+> >  
+> > It matters not how strait the gate,   
+> >   How charged with punishments the scroll,   
+> > I am the master of my fate:
+> >   I am the captain of my soul.
+
+---
+
 > ## If By Rudyard Kipling
 >
 > > If you can keep your head when all about you\
@@ -35,6 +59,8 @@
 > > With sixty seconds’ worth of distance run,\
 > > Yours is the Earth and everything that’s in it,\
 > > And—which is more—you’ll be a Man, my son!__*
+
+---
 
 > ##  Annabel Lee By Edgar Allan Poe
 >  
@@ -86,6 +112,8 @@
 > >In her sepulchre there by the sea—\
 > >In her tomb by the sounding sea.
 
+---
+
 > # Somewhere I have never travelled,gladly beyond by E.E Cummings
 > 
 >
@@ -113,6 +141,8 @@
 > > and opens;only something in me understands\
 > > the voice of your eyes is deeper than all roses)\
 > > nobody,not even the rain,has such small hands__*
+
+---
 
 > # At the British War Cemetery, Bayeux (From Charles Causley)
 >
@@ -146,6 +176,8 @@
 > > Like a spendthrift lover.\
 > > All we ask Is the one gift you cannot give.
 
+---
+
 > # The Road Not Taken by Robert Frost
 >
 > > Two roads diverged in a yellow wood,\
@@ -172,6 +204,8 @@
 > > I took the one less traveled by,\
 > > And that has made all the difference.__*
 
+---
+
 > # Gather ye Rosebuds by  Robert Herrick
 >
 > > "Gather ye rose-buds while ye may,\
@@ -193,6 +227,8 @@
 > > And while ye may, go marry;\
 > > For having lost but once your prime,\
 > > You may forever tarry."
+
+---
 
 > # Psalm of life by William Wordsworth
 >
@@ -241,6 +277,8 @@
 > > Still achieving, still pursuing,\
 > >               Learn to labor and to wait.
 
+---
+
 > #  Fire and Ice By Robert Frost
 >
 > > Some say the world will end in fire,\
@@ -252,6 +290,8 @@
 > > To say that for destruction ice\
 > > Is also great\
 > > And would suffice.
+
+---
 
 > #  Alone by Edgar Allan Poe
 >
@@ -277,6 +317,8 @@
 > > And the cloud that took the form\
 > > (When the rest of Heaven was blue)\
 > > Of a demon in my view—
+
+---
 
 > #  Tithonus
 > > Tithonus was a Trojan prince in Greek mythology, son of King Laomedon of Troy and the water nymph Strymo.
@@ -368,6 +410,8 @@
 > > I earth in earth forget these empty courts,\
 > > And thee returning on thy silver wheels."
 
+---
+
 > #  Tolkien Gateway
 >
 > > “I sit beside the fire and think\
@@ -400,6 +444,8 @@
 > > I listen for returning feet\
 > > And voices at the door”
 
+---
+
 > #   A Boundless Moment, By Robert Frost 
 >
 > > He halted in the wind, and - what was that\
@@ -416,6 +462,8 @@
 > > Myself as one his own pretense deceives;\
 > > And then I said the truth (and we moved on).\
 > > A young beech clinging to its last year's leaves. 
+
+---
 
 > #  Childe Harold's Pilgrimage by George Gordon Byron
 >
@@ -449,6 +497,8 @@
 > >    His petty hope in some near port or bay,\
 > > And dashest him again to earth: —there let him lay.
 
+---
+
 > #  Do not go gentle into that good night by Dylan Thomas
 >
 > > "Do not go gentle into that good night,\
@@ -476,6 +526,8 @@
 > > Do not go gentle into that good night.\
 > > Rage, rage against the dying of the light."
 
+---
+
 > #  The Prowling Bee by Emily Dickinson
 >
 > > Cocoon above! Cocoon below!\
@@ -491,6 +543,8 @@
 > > A moment to interrogate,\
 > > Then wiser than a "Surrogate,"\
 > > The Universe to know! 
+
+---
 
 > #   To His Coy Mistress By Andrew Marvell
 >
@@ -544,6 +598,8 @@
 > > Thus, though we cannot make our sun\
 > > Stand still, yet we will make him run.
 
+---
+
 > #    Ae Fond Kiss By Robert Burns
 >
 > > Ae fond kiss, and then we sever;\
@@ -572,6 +628,8 @@
 > > Ae fareweel, alas, forever!\
 > > Deep in heart-wrung tears   I'll pledge thee,\
 > > Warring sighs and groans I'll wage thee!
+
+---
 
 > #  Mortality by William Knox
 >  
@@ -645,6 +703,8 @@
 > > From the gilded saloon to the bier and the shroud\
 > > Oh, why should the spirit of mortal be proud? 
 
+---
+
 > #  The Suicide's Soliloquy by Abraham Lincoln
 >  
 > > Here, where the lonely hooting owl\
@@ -691,6 +751,8 @@
 > > Which drives me to this end;\
 > > I draw and kiss the bloody dart,\
 > > My last—my only friend! 
+
+---
 
 > #  To You by Walt Whitman
 >  
@@ -751,6 +813,8 @@
 > > Through birth, life, death, burial, the means are provided, nothing is scanted,\
 > > Through angers, losses, ambition, ignorance, ennui, what you are picks its way.
 
+---
+
 > #   A Daughter of Eve By Christina Rossetti
 >  
 > > A fool I was to sleep at noon,\
@@ -770,6 +834,8 @@
 > > Stripp'd bare of hope and everything,\
 > > No more to laugh, no more to sing,\
 > > I sit alone with sorrow.
+
+---
 
 > #  A Legacy by Johann Wolfgang von Goethe
 >  
@@ -818,6 +884,8 @@
 > > To lead where the elect shall follow-this\
 > > And this alone is worth a hero's choice. 
 
+---
+
 > # Longing is like the seed by Emily Dickinson
 >  
 > > Longing is like the Seed\
@@ -829,6 +897,8 @@
 > > Each Circumstance unknown,\
 > > What Constancy must be achieved\
 > > Before it see the Sun!
+
+---
 
 > # Cosmic Gall by John Updike
 >  
@@ -854,6 +924,8 @@
 > > And pierce the lover and his lass\
 > > From underneath the bed-you call\
 > > It wonderful; I call it crass." 
+
+---
 
 > # I know why the caged bird sings by Maya Angelou
 >  
@@ -889,6 +961,8 @@
 > > But longed for still and his\
 > > Tune is heard on the distant hill\
 > > For the caged bird sings of freedom.
+
+---
 
 > # My Vocation by Toru Dutt
 >  
@@ -941,6 +1015,8 @@
 > > Still — still comes that reply,\
 > > Chant poor little thing. 
 
+---
+
 > #  A Drinking Song By William Butler Yeats
 >  
 > > Wine comes in at the mouth\
@@ -949,6 +1025,8 @@
 > > Before we grow old and die.\
 > > I lift the glass to my mouth,\
 > > I look at you, and I sigh.
+
+---
 
 > #  Blood on the Risers (American Paratrooper Song)
 >  
@@ -998,6 +1076,8 @@
 > > He was a mess, they picked him up and poured him from his boots.\
 > > And he ain't gonna jump no more.
 
+---
+
 > #  The Season of Youth by Wiliam Knox
 >  
 > > Rejoice, mortal man, in the noon of thy prime!\
@@ -1019,6 +1099,8 @@
 > > But muse on the power and the progress of time;\
 > > For thy life shall depart with the joy it hath given,\
 > > And a judgment of justice awaits thee in heaven.__*
+
+---
 
 > #  Ulysses by Alfred Lord Tennyson
 >  
@@ -1095,6 +1177,8 @@
 > > Made weak by time and fate, but strong in will\
 > > To strive, to seek, to find, and not to yield.__*
 
+---
+
 > # Sorrow of Love by William Bulter Yeats
 >  
 > > The quarrel of the sparrows in the eaves, \
@@ -1112,6 +1196,8 @@
 > > And the loud chaunting of the unquiet leaves \
 > > Are shaken with earth's old and weary cry. 
 
+---
+
 > # There is a solitude of space by Emily Dickinson
 >  
 > > "There is a solitude of space\
@@ -1122,6 +1208,8 @@
 > > That polar privacy\
 > > A soul admitted to itself—\
 > > Finite infinity." 
+
+---
 
 > # Auguries of Innocence by William Blake
 >  
@@ -1289,13 +1377,15 @@
 > > But does a Human Form Display\
 > > To those who Dwell in Realms of day
 
+---
+
 
 > # Quotes
 >  
 > > "My wealth, let son and bretheren part. Some things they cannot share.
 > > My work well done, my noble heart, these are only mine to wear." - Jabir
 >  
->  
+>  ---
 >  
 > > ”My heart trembles like a poor leaf.\
 > > The planets whirl in my dreams.\
@@ -1303,139 +1393,139 @@
 > > I rotate in my sleep.\
 > > My bed is a warm planet.” - Marvin Mercer 
 >  
->  
+>  ---
 >  
 > > "Silence alone is great; all else is weakness." - Alfred De Vigny
 >  
->  
+>  ---
 >  
 > > “The beauty of a living thing is not the atoms that go into it, but the way those atoms are put together.” ― Carl Sagan
 >  
->  
+>  ---
 >  
 > > "I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me." - Isaac Newton
 >  
->  
+>  ---
 >  
 > > “It is harder to crack prejudice than an atom.” ― Albert Einstein
 >  
->  
+>  ---
 >  
 > > “In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual.” — Galileo
 >  
->  
+>  ---
 >  
 > > "In order that life should be a story or romance to us, it is necessary that a great part of it, at any rate, should be settled for us without our permission. … A man has control over many things in his life; he has control over enough things to be the hero of a novel. But if he had control over everything, there would be so much hero that there would be no novel."
 > > — G.K. Chesterton, Heretics, 1906
 >  
->  
+>  ---
 >  
 > > "There can be no true friends without true enemies. Unless we hate what we are not, we cannot love what we are. These are the old truths we are painfully rediscovering after a century and more of sentimental cant. Those who deny them deny their family, their heritage, their culture, their birthright, their very selves! They will not lightly be forgiven." - Michael Dibdin's novel, Dead Lagoon
 >  
->  
+>  ---
 >  
 > > “Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam.”
 > > ― Carl Sagan
 >  
->  
+>  ---
 >  
 > > "Nature and nauture's laws lay hid in night,\
 > > God said, Let Newton be! and all was light." -Alexander Pope (Epitaph for Newton)
 >  
->  
+>  ---
 >  
 > > “The darker the night, the brighter the stars,\
 > > The deeper the grief, the closer is God!” ― Fyodor Dostoevsky
 >  
->  
+>  ---
 >  
 > > "So I walk on uplands unbounded,\
 > > and know that there is hope\
 > > for that which Thou didst mold out of dust\
 > > to have consort with things eternal." - The Dead Sea Scrolls
 >  
->  
+>  ---
 >  
 > > “What moves men of genius, or rather what inspires their work, is not new ideas, but their obsession with the idea that what has already been said is still not enough.”
 > > Eugene Delacroix
 >  
->  
+>  ---
 >  
 > > “I say let the world go to hell, but I should always have my tea.”― Fyodor Dostoevsky
 >  
->  
+>  ---
 >  
 > > “In dreams you sometimes fall from a height, or are stabbed, or beaten, but you never feel pain.” — Dostoevsky
 >  
->  
+>  ---
 >  
 > > “There comes a time when one must take a position that is neither safe, nor politic, nor popular, but he must take it because conscience tells him it is right.”
 > > ― Martin Luther King Jr., A Testament of Hope: The Essential Writings and Speeches
 >  
->  
+>  ---
 >  
 > > Tranquillas etiam naufragus horret aquas.\
 > > The shipwrecked man is afraid even of quiet waters.  - Ovid
 >  
->  
+>  ---
 >  
 > > “Every gun that is made, every warship launched, every rocket fired signifies in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed. This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children. This is not a way of life at all in any true sense. Under the clouds of war, it is humanity hanging on a cross of iron.”
 > > ― Dwight D. Eisenhower
 >  
->  
+>  ---
 >  
 > > “Our character isn’t defined by the battles we win or lose, but by the battles we dare to fight.”
 > > ― Robert Beatty, Serafina and the Black Cloak
 >  
->  
+>  ---
 >  
 > > “Everything you can imagine is real.” ― Pablo Picasso
 >  
->  
+>  ---
 >  
 > > "Remember me as you pass by,\
 > > As you are now so once was I,\
 > > As I am now so you must be,\
 > > Prepare for death and follow me."
 >  
->  
+>  ---
 >  
 > > “Man is sometimes extraordinarily, passionately, in love with suffering...” ― Fyodor Dostoevsky
 >  
->  
+>  ---
 >  
 > > “The dog is a gentleman; I hope to go to his heaven not man's.” ― Mark Twain
 >  
->  
+>  ---
 >  
 > > “I wish it need not have happened in my time," said Frodo.\
 > > "So do I," said Gandalf, "and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.” ― J.R.R. Tolkien
 >  
->  
+>  ---
 >  
 > > “We read to know we're not alone.” ― William Nicholson
 >  
->  
+>  ---
 >  
 > > “All war is a symptom of man's failure as a thinking animal.” ― John Steinbeck
 >  
->  
+>  ---
 >  
 > > "They ayes have 119, the noes 56. The constitutional majority of two thirds having voted in the affirmative, the joint resolution has passed." - House speaker Schuyler Colfax (1st Feb 1856 on 13th Amedment)
 >  
->  
+>  ---
 >  
 > > “If you wish to glimpse inside a human soul and get to know a man, don't bother analyzing his ways of being silent, of talking, of weeping, of seeing how much he is moved by noble ideas; you will get better results if you just watch him laugh. If he laughs well, he's a good man.” ― Fyodor Dostoevsky
 >  
->  
+>  ---
 >  
 > > “He who fears death either fears to lose all sensation or fears new sensations. In reality, you will either feel nothing at all, and therefore nothing evil, or else, if you can feel any sensations, you will be a new creature, and so will not have ceased to have life.” — Marcus Aurelius
 >  
->  
+>  ---
 >  
 > > “To live is the rarest thing in the world. Most people exist, that is all.” ― Oscar Wilde
 >  
->  
+>  ---
 >  
 > > Legasov: [showing pictures of the damaged reactor] The atom is a humbling thing.
 > >  
@@ -1462,23 +1552,23 @@
 > >  
 > > Shcherbina: It would be fair to say that that piece of roof is the most dangerous place on Earth.
 >  
->  
+>  ---
 >  
 > > “I can never read all the books I want; I can never be all the people I want and live all the lives I want. I can never train myself in all the skills I want. And why do I want? I want to live and feel all the shades, tones and variations of mental and physical experience possible in my life. And I am horribly limited.” ― Sylvia Plath, The Unabridged Journals of Sylvia Plath
 >  
->  
+>  ---
 >  
 > > “In a good bookroom you feel in some mysterious way that you are absorbing the wisdom contained in all the books through your skin, without even opening them.” ― Mark Twain
 >  
->  
+>  ---
 >  
 > > "Boats tell us stories, too. The stories of the people who designed and built them, of those who have sailed them down rivers and across the seas. They tell of the ocean, its seascapes, and the storms the sailors have battled. The English refer to ships as she. A boat isn’t an object but a being in its own right. The experience of sailing at night is similar to the intimacy of writing. Because there is the same abandon, a complete relinquishment: sailing at night is to allow yourself to surrender, to let yourself go. It’s to have absolute faith in your boat, which, like the writer’s pen, sometimes makes you think that it is the one deciding which route to take. But you have to stay on course. Know how to maneuver under a moonless sky that merges with the sea and not allow yourself to be intoxicated by the sensation of flying. When the powerful swell tosses the hull, raises it up, and sweeps it along in eddies of foam. When the words seem to align themselves so perfectly that you almost forget what you are writing about. Then you have to keep your eyes on the faint light coming from the compass. It indicates the direction. The end point that should never be lost from sight."
 >  
->  
+>  ---
 >  
 > > "The only true wisdom lives far from mankind, out in great loneliness, and can be reached only through suffering. Privation and suffering alone open the mind to all that is hidden to others" - Igjugarjuk  (A shaman from Caribou Eskimo tribe in northern Canada told this to European visitors )
 >  
->  
+>  ---
 >  
 > > “Deep in the meadow, hidden far away\
 > > A cloak of leaves, a moonbeam ray\
@@ -1489,15 +1579,15 @@
 > > Here your dreams are sweet and tomorrow brings them true\
 > > Here is the place where I love you.” ― Suzanne Collins, The Hunger Games
 >  
->  
+>  ---
 >  
 > > “Perhaps one did not want to be loved so much as to be understood.” ― George Orwell, 1984
 >  
->  
+>  ---
 >  
 > > “If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem. But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.” ― E.B. White
 >  
->  
+>  ---
 >  
 > > “Out beyond ideas of wrongdoing\
 > > and rightdoing there is a field.\
@@ -1505,31 +1595,31 @@
 > > When the soul lies down in that grass\
 > > the world is too full to talk about.” ― Rumi
 >  
->  
+>  ---
 >  
 > > “For those who believe in God, most of the big questions are answered. But for those of us who can't readily accept the God formula, the big answers don't remain stone-written. We adjust to new conditions and discoveries. We are pliable. Love need not be a command nor faith a dictum. I am my own god. We are here to unlearn the teachings of the church, state, and our educational system. We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.” ― Charles Bukowski
 >  
->  
+>  ---
 >  
 > > “You get a little moody sometimes but I think that's because you like to read. People that like to read are always a little fucked up.” ― Pat Conroy, The Prince of Tides
 >  
->  
+>  ---
 >  
 > > “There is no greater agony than bearing an untold story inside you.” ― Maya Angelou
 >  
->  
+>  ---
 >  
 > > “One day I will find the right words, and they will be simple.” ― Jack Kerouac, The Dharma Bums
 >  
->  
+>  ---
 >  
 > > “Faithless is he that says farewell when the road darkens.” ― J.R.R. Tolkien, The Fellowship of the Ring
 >  
->  
+>  ---
 >  
 > > “If you remember me, then I don't care if everyone else forgets.” ― Haruki Murakami, Kafka on the Shore
 >  
->  
+>  ---
 >  
 > > “So please, oh please, we beg, we pray,\
 > > Go throw your TV set away,\
@@ -1537,51 +1627,51 @@
 > > A lovely bookshelf on the wall.\
 > > Then fill the shelves with lots of books.” ― Roald Dahl, Charlie and the Chocolate Factory
 >  
->  
+>  ---
 >  
 > > “There is always some madness in love. But there is also always some reason in madness.” ― Friedrich Nietzsche
 >  
->  
+>  ---
 >  
 > > “You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, who had ever been alive.” ― James Baldwin
 >  
->  
+>  ---
 >  
 > > “The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.” ― J.R.R. Tolkien, The Fellowship of the Ring
 >  
->  
+>  ---
 >  
 > > “Somewhere, something incredible is waiting to be known.” ― Carl Sagan
 >  
->  
+>  ---
 >  
 > > “Everyone should be able to do one card trick, tell two jokes, and recite three poems, in case they are ever trapped in an elevator.” ― Lemony Snicket, Horseradish
 >  
->  
+>  ---
 >  
 > > “A poem begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness.” ― Robert Frost
 >  
->  
+>  ---
 >  
 > > “You must have chaos within you to give birth to a dancing star.” ― Friedrich Nietzsche
 >  
->  
+>  ---
 >  
 > > “Once you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy.” ― Einstein
 >  
->  
+>  ---
 >  
 > > “Stop acting so small. You are the universe in ecstatic motion.” ― Rumi
 >  
->  
+>  ---
 >  
 > > “I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow; but through it all I still know quite certainly that just to be alive is a grand thing.” ― Agatha Christie
 >  
->  
+>  ---
 >  
 > > “Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.” ― Fyodor Dostoevsky, Crime and Punishment
 >  
->  
+>  ---
 >  
 > > “The minute I heard my first love story,\
 > > I started looking for you, not knowing\
@@ -1589,23 +1679,23 @@
 > > Lovers don't finally meet somewhere.\
 > > They're in each other all along.” ― Mawlana Jalal-al-Din Rumi, The Illuminated Rumi
 >  
->  
+>  ---
 >  
 > > “Mere color, unspoiled by meaning, and unallied with definite form, can speak to the soul in a thousand different ways.” – Oscar Wilde
 >  
->  
+>  ---
 >  
 > > "A physicist is just an atom's way of looking at itself." -Neils Bohr
 >  
->  
+>  ---
 >  
 > > “Perhaps when we find ourselves wanting everything, it is because we are dangerously close to wanting nothing.” ― Sylvia Plath
 >  
->  
+>  ---
 >  
 > > “It's enough for me to be sure that you and I exist at this moment.” ― Gabriel García Márquez, One Hundred Years of Solitude
 >  
->  
+>  ---
 >  
 > > “The Road goes ever on and on\
 > > Down from the door where it began.\
@@ -1616,36 +1706,36 @@
 > > Where many paths and errands meet.\
 > > And whither then? I cannot say” ― J.R.R. Tolkien, The Fellowship of the Ring
 >  
->  
+>  ---
 >  
 > > “How vain it is to sit down to write when you have not stood up to live.” ― Henry David Thoreau
 >  
->  
+>  ---
 >  
 > > "I want to tell you a story about a man. While everyone was laughing and drinking, he would just walk until he reached the exact same spot, where he'd sit with his back to all those people. And while he did everything he possibly could to signal to the world that he wanted to be left alone more than anything, he hoped that someone passing would understand that what he really wanted was the exact opposite. And that this someone would sit next to him and strike up a conversation. I was that man... and you were that someone." - Alex (London Spy)
 >  
->  
+>  ---
 >  
 > > “I have the choice of being constantly active and happy or introspectively passive and sad. Or I can go mad by ricocheting in between.” ― Sylvia Plath, The Unabridged Journals of Sylvia Plath
 >  
->  
+>  ---
 >  
 > > “Reality is merely an illusion, albeit a very persistent one.” ― Albert Einstein
 >  
->  
+>  ---
 >  
 > > “When I am with you, we stay up all night.\
 > > When you're not here, I can't go to sleep.\
 > > Praise God for those two insomnias!\
 > > And the difference between them.” ― Rumi
 >  
->  
+>  ---
 >  
 > > “Sometimes when I look at you, I feel I'm gazing at a distant star.\
 > > It's dazzling, but the light is from tens of thousands of years ago.\
 > > Maybe the star doesn't even exist any more. Yet sometimes that light seems more real to me than anything.” ― Haruki Murakami, South of the Border, West of the Sun
 >  
->  
+>  ---
 >  
 > > “Cowards die many times before their deaths;\
 > > The valiant never taste of death but once.\
@@ -1654,11 +1744,11 @@
 > > Seeing that death, a necessary end,\
 > > Will come when it will come.” ― William Shakespeare, Julius Caesar
 >  
->  
+>  ---
 >  
 > > "Now, I am become Death, the destroyer of worlds." - Robert Oppenheimer quoted from Bhagvadgita on 16th July 1945, 05:29:53 in Alamogordo, Mexico
 >  
->  
+>  ---
 >  
 > > “Still round the corner there may wait\
 > > A new road or a secret gate\
@@ -1667,199 +1757,199 @@
 > > Shall take the hidden paths that run\
 > > West of the Moon, East of the Sun.” ― J.R.R. Tolkien
 >  
->  
+>  ---
 >  
 > > “There are some things you can't share without ending up liking each other, and knocking out a twelve-foot mountain troll is one of them.” ― J. K. Rowling, Harry Potter and the Sorcerer's Stone
 >  
->  
+>  ---
 >  
 > > “The best moments in reading are when you come across something – a thought, a feeling, a way of looking at things – which you had thought special and particular to you. Now here it is, set down by someone else, a person you have never met, someone even who is long dead. And it is as if a hand has come out and taken yours.” ― Alan Bennett, The History Boys
 >  
->  
+>  ---
 >  
 > > “You think your pain and your heartbreak are unprecedented in the history of the world, but then you read.” ― James Baldwin
 >  
->  
+>  ---
 >  
 > > “History of science and technology has consistently taught us that scientific advances in basic understanding have sooner or later led to technical and industrial applications that have revolutionized our way of life. It seems to me improbable that this effort to get at the structure of matter should be an exception to this rule. What is less certain, and what we all fervently hope, is that man will soon grow sufficiently adult to make good use of the powers that he acquires over nature.” -Enrico Fermi, The Future of Nuclear Physics, unpublished address, Rochester, NY, January 10, 1953, EFP, box 53.
 >  
->  
+>  ---
 >  
 > > “In a time of deceit telling the truth is a revolutionary act.” ― George Orwell
 >  
->  
+>  ---
 >  
 > > “And when at last you find someone to whom you feel you can pour out your soul, you stop in shock at the words you utter— they are so rusty, so ugly, so meaningless and feeble from being kept in the small cramped dark inside you so long.” ― Sylvia Plath, The Unabridged Journals of Sylvia Plath
 >  
->  
+>  ---
 >  
 > > “I love you as certain dark things are to be loved,\
 > > in secret, between the shadow and the soul.” ― Pablo Neruda, 100 Love Sonnets
 >  
->  
+>  ---
 >  
 > > “Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth.” ― Fyodor Dostoevsky, Crime and Punishment
 >  
->  
+>  ---
 >  
 > > “Do not be afraid; our fate\
 > > Cannot be taken from us; it is a gift.” ― Dante Alighieri, Inferno
 >  
->  
+>  ---
 >  
 > > “An expert is a person who has made all the mistakes that can be made in a very narrow field.” ― Niels Bohr
 >  
->  
+>  ---
 >  
 > > "The mathematics clearly called for a set of underlying elementary objects-at that time we needed three types of them-elementary objects that could be combined three at a time in different ways to make all the heavy particles we knew. ... I needed a name for them and called them quarks, after the taunting cry of the gulls, "Three quarks for Muster mark," from Finnegan's Wake by the Irish writer James Joyce." - Murray Gell-Mann
 >  
->  
+>  ---
 >  
 > > "Enthusiasm is followed by disappointment and even depression, and then by renewed enthusiasm." - Murray Gell-Mann
 >  
->  
+>  ---
 >  
 > > “I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.” ― Isaac Newton
 >  
->  
+>  ---
 >  
 > > “Every atom in your body came from a star that exploded. And, the atoms in your left hand probably came from a different star than your right hand. It really is the most poetic thing I know about physics: You are all stardust. You couldn’t be here if stars hadn’t exploded, because the elements - the carbon, nitrogen, oxygen, iron, all the things that matter for evolution and for life - weren’t created at the beginning of time. They were created in the nuclear furnaces of stars, and the only way for them to get into your body is if those stars were kind enough to explode. So, forget Jesus. The stars died so that you could be here today.” ― Lawrence M. Krauss
 >  
->  
+>  ---
 >  
 > > “I don't want to believe. I want to know.” ― Carl Sagan
 >  
->  
+>  ---
 >  
 > > “And in that moment, I swear we were infinite.” ― Stephen Chbosky, The Perks of Being a Wallflower
 >  
->  
+>  ---
 >  
 > > “You must write every single day of your life... You must lurk in libraries and climb the stacks like ladders to sniff books like perfumes and wear books like hats upon your crazy heads... may you be in love every day for the next 20,000 days. And out of that love, remake a world.” ― Ray Bradbury
 >  
->  
+>  ---
 >  
 > > “In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art.” ― Rumi
 >  
->  
+>  ---
 >  
 > > “You develop an instant global consciousness, a people orientation, an intense dissatisfaction with the state of the world, and a compulsion to do something about it. From out there on the moon, international politics look so petty. You want to grab a politician by the scruff of the neck and drag him a quarter of a million miles out and say, ‘Look at that, you son of a bitch.” ― Edgar Mitchell
 >  
->  
+>  ---
 >  
 > > "Sometimes I think a man could wander across the Disc all his life and not see everything there is to see," said Twoflower. "And now it seems there are lots of other worlds as well. When I think I might die without seeing a hundredth of all there is to see it makes me feel," he paused, then added, "well, humble, I suppose. And very angry, of course." - The Color of Magic, Terry Pratchett
 >  
->  
+>  ---
 >  
 > > “He smiled understandingly-much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life. It faced--or seemed to face--the whole eternal world for an instant, and then concentrated on you with an irresistible prejudice in your favor. It understood you just as far as you wanted to be understood, believed in you as you would like to believe in yourself, and assured you that it had precisely the impression of you that, at your best, you hoped to convey.” ― F. Scott Fitzgerald, The Great Gatsby
 >  
->  
+>  ---
 >  
 > > "The mathematician Mark Kac divided geniuses into two classes. Ordinary ones whose achievements others will emulate, and magicians whose inventions are so astounding that it is hard to see how any human could have imagined them. Paul Dirac was one of these magicians." 
 >  
->  
+>  ---
 >  
 > > “I loved her against reason, against promise, against peace, against hope, against happiness, against all discouragement that could be.” ― Charles Dickens, Great Expectations
 >  
->  
+>  ---
 >  
 > > “If you have the words, there's always a chance that you'll find the way.” ― Seamus Heaney, Stepping Stones: Interviews with Seamus Heaney
 >  
->  
+>  ---
 >  
 > > “A person often meets his destiny on the road he took to avoid it.” ― Jean de La Fontaine, Fables
 >  
->  
+>  ---
 >  
 > > “Being with you never felt wrong. It's the one thing I did right. You're the one thing I did right.” ― Becca Fitzpatrick, Crescendo
 >  
->  
+>  ---
 >  
 > > “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.” ― Charles Dickens, A Tale of Two Cities
 >  
->  
+>  ---
 >  
 > > “I can bear any pain as long as it has meaning.” ― Haruki Murakami, 1Q84
 >  
->  
+>  ---
 >  
 > > “I do not mind if you think slowly, but I do object when you publish more quickly than you think.” ― Wolfgang Pauli
 >  
->  
+>  ---
 >  
 > > "I think physicists are the Peter Pans of the human race.They never grow up and they keep their curiosity." - I.I. Rabi 
 >  
->  
+>  ---
 >  
 > > “But I didn't understand then. That I could hurt somebody so badly she would never recover. That a person can, just by living, damage another human being beyond repair.” ― Haruki Murakami
 >  
->  
+>  ---
 >  
 > > “Es gibt keinen Gott und Dirac ist sein Prophet." (There is no God and Dirac is his Prophet.) ― Wolfgang Pauli
 > >
 > > {A remark made during the Fifth Solvay International Conference (October 1927), after a discussion of the religious views of various physicists, at which all the participants laughed, including Dirac, as quoted in Teil und das Ganze (1969),
 > > It is an ironic play on the Muslim statement of faith, the Shahada, often translated: 'There is no god but Allah, and Muhammad is his Prophet.'}
 >  
->  
+>  ---
 >  
 > > “The story so far:
 > > In the beginning the Universe was created.
 > > This has made a lot of people very angry and been widely regarded as a bad move.”
 > > ― Douglas Adams, The Restaurant at the End of the Universe
 >  
->  
+>  ---
 >  
 > > "Niels Bohr brainwashed a whole generation of theorists into thinking that the job (interpreting quantum theory) was done 50 years ago." - Murray Gell-Mann
 >  
->  
+>  ---
 >  
 > > “Lovers don't finally meet somewhere. They're in each other all along.” ―  Rumi
 >  
->  
+>  ---
 >  
 > > “The course of true love never did run smooth.” ― William Shakespeare, A Midsummer Night's Dream
 >  
->  
+>  ---
 >  
 > > “If I read a book and it makes my whole body so cold no fire can ever warm me, I know that is poetry.” ― Emily Dickinson
 >  
->  
+>  ---
 >  
 > > "The best that most of us can hope to achieve in physics is simply to misunderstand at a deeper level." -Wolfgang Pauli
 >  
->  
+>  ---
 >  
 > > “Usually we walk around constantly believing ourselves. "I'm okay" we say. "I'm alright". But sometimes the truth arrives on you and you can't get it off. That's when you realize that sometimes it isn't even an answer--it's a question. Even now, I wonder how much of my life is convinced.” ― Markus Zusak, The Book Thief
 >  
->  
+>  ---
 >  
 > > “If you wish to make an apple pie from scratch, you must first invent the universe.” ― Carl Sagan, Cosmos
 >  
->  
+>  ---
 >  
 > > “Heaven knows we need never be ashamed of our tears, for they are rain upon the blinding dust of earth, overlying our hard hearts. I was better after I had cried, than before--more sorry, more aware of my own ingratitude, more gentle.” ― Charles Dickens, Great Expectations
 >  
->  
+>  ---
 >  
 > > "You know that, according to quantum theory, if two particles collide with enough energy you can, in principle, with an infinitesimal probability, produce two grand pianos." -Isidor Isaac Rabi
 >  
->  
+>  ---
 >  
 > > “Extinction is the rule. Survival is the exception.” ― Carl Sagan
 >  
->  
+>  ---
 >  
 > > “Of pain you could wish only one thing: that it should stop. Nothing in the world was so bad as physical pain. In the face of pain there are no heroes.” ― George Orwell, 1984
 >  
->  
+>  ---
 >  
 > > “You have enemies? Good. That means you've stood up for something, sometime in your life.” ― Winston Churchill
 >  
->  
+>  ---
 >  
 > > “If you can feel that staying human is worth while, even when it can't have any result whatever, you've beaten them.” ― George Orwell, 1984
 >  
->  
+>  ---
 >  
 > > "My lover asks me:\
 > > "What is the difference between me and the sky?"\
@@ -1867,153 +1957,153 @@
 > > Is that when you laugh,\
 > > I forget about the sky." - Nizar Qabbani (My Lover Asks Me)
 >  
->  
+>  ---
 >  
 > > "My mother made me a scientist without ever intending to. Every other Jewish mother in Brooklyn would ask her child after school, 'So? Did you learn anything today?' But not my mother. 'Izzy,' she would say, 'did you ask a good question today?' That difference - asking good questions - made me become a scientist." - Isidor Isaac Rabi
 >  
->  
+>  ---
 >  
 > > “It ain't what they call you, it's what you answer to.” ― W.C. Fields
 >  
->  
+>  ---
 >  
 > > "Our knowledge of fundamental physics contains not one fruitful idea that does not carry the name of Murray Gell-Mann." - —Richard Feynman
 >  
->  
+>  ---
 >  
 > > “When [Niels] Bohr is about everything is somehow different. Even the dullest gets a fit of brilliancy.” ― Isidor Isaac Rabi
 >  
->  
+>  ---
 >  
 > > “There was truth and there was untruth, and if you clung to the truth even against the whole world, you were not mad.” ― George Orwell, 1984
 >  
->  
+>  ---
 >  
 > > “The world breaks everyone and afterward many are strong at the broken places. But those that will not break it kills. It kills the very good and the very gentle and the very brave impartially. If you are none of these you can be sure it will kill you too but there will be no special hurry.” ― Ernest Hemingway, A Farewell to Arms
 >  
->  
+>  ---
 >  
 > > “Under the spreading chestnut tree I sold you and you sold me:\
 > > There lie they, and here lie we\
 > > Under the spreading chestnut tree.” ― George Orwell, 1984
 >  
->  
+>  ---
 >  
 > > “Deserves it! I daresay he does. Many that live deserve death. And some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgement. For even the very wise cannot see all ends.” ― J.R.R. Tolkien, The Fellowship of the Ring
 >  
->  
+>  ---
 >  
 > > “Be kind, for everyone you meet is fighting a harder battle.” ― Plato
 >  
->  
+>  ---
 >  
 > > “There is no end\
 > > To what a living world\
 > > Will demand of you.”\
 > > ― Octavia E. Butler, Parable of the Sower
 >  
->  
+>  ---
 >  
 > > “It is what you read when you don't have to that determines what you will be when you can't help it.” ― Oscar Wilde
 >  
->  
+>  ---
 >  
 > > "I hear the loved survivors tell,\
 > >      How naught form death could save,\
 > > Till every sound appears a knell,\
 > >      And every spot a grave" - Abe Lincoln
 >  
->  
+>  ---
 >  
 > > "There is no Frigate like a Book\
 > > To take us Lands away" - Emily Dickinson
 >  
->  
+>  ---
 >  
 > > “A classic is a book that has never finished saying what it has to say.” ― Italo Calvino, The Uses of Literature
 >  
->  
+>  ---
 >  
 > > “The capacity to blunder slightly is the real marvel of DNA. Without this special attribute, we would still be anaerobic bacteria and there would be no music.” ― Lewis Thomas, Lives of a Cell
 >  
->  
+>  ---
 >  
 > > “Suddenly, there was an enormous flash of light, the brightest light I have ever seen or that I think anyone has ever seen. It blasted; it pounced; it bored its way into you. It was a vision which was seen with more than the eye. It was seen to last forever. You would wish it would stop; altogether it lasted about two seconds.
 > > [Witnessing the first atomic bomb test explosion.]” ― Isidor Isaac Rabi
 >  
->  
+>  ---
 >  
 > > "It is with deep grief that I learn of the death of your kind and brave Father, and, especially that it is affecting your young heart beyond what is common in such cases. In this sad world of ours, sorrow comes to all; and to the young, it comes with bitterest agony, because it takes them unawares. The older have learned to ever expect it." - Abe Lincoln to Fanny McCullogh, a young girls who lost her father in Civil War.
 >  
->  
+>  ---
 >  
 > > “Whatever satisfies the soul is truth.” ― Walt Whitman
 >  
->  
+>  ---
 >  
 > > "For thou art Freedom's now and Fame's,\
 > > One of the few, the immortal names,\
 > > That were not born to die." - Fitz-Greene Halleck
 >  
->  
+>  ---
 >  
 > > "Homo liber nulla de re minus quam de morte cogitat; et ejus sapientia non mortis sed vitae meditatio" (Latin)\
 > > "There is nothing over which a free man ponders less than death; his wisdom is, to meditate not on death but on life." - Spinoza's book called Ethica, ordine geometrico demonstrata (Ethics, Demonstrated in Geometrical Order)
 >  
->  
+>  ---
 >  
 > > “We were together. I forget the rest.” ― Walt Whitman
 >  
->  
+>  ---
 >  
 > > "Shut up and calculate!" - David Mermin (to characterize the views of many physicists regarding the interpretation of quantum mechanics/ Copenhagen Interpretation)
 >  
->  
+>  ---
 >  
 > > “Happiness is a warm puppy.” ― Charles M. Schulz
 >  
->  
+>  ---
 >  
 > > "Never met - or never parted -\
 > > We had ne'er been broken hearted" - Robert Burns
 >  
->  
+>  ---
 >  
 > > “We don't read and write poetry because it's cute. We read and write poetry because we are members of the human race. And the human race is filled with passion. So medicine, law, business, engineering... these are noble pursuits and necessary to sustain life. But poetry, beauty, romance, love... these are what we stay alive for.” ― Walt Whitman, Leaves of Grass
 >  
->  
+>  ---
 >  
 > > “We two have paddled in the stream,\
 > > from morning sun till dine;\
 > > But seas between us broad have roared\
 > > since days of long ago.” ― Robert Burns
 >  
->  
+>  ---
 >  
 > > “Nature composes some of her loveliest poems for the microscope and the telescope.” ― Theodore Roszak, Where the Wasteland Ends
 >  
->  
+>  ---
 >  
 > > “I was thinking today of my greatest happiness, a walk along a cliff by the sea, and you at the end of it.” — Virginia Woolf
 >  
->  
+>  ---
 >  
 > > "Nullum magnum ingenium sine mixture dementia fuit." (There has been no great wisdom without an element of madness.)
 >  
->  
+>  ---
 >  
 > > “The time will come when diligent research over long periods will bring to light things which now lie hidden. A single lifetime, even though entirely devoted to the sky, would not be enough for the investigation of so vast a subject... And so this knowledge will be unfolded only through long successive ages. There will come a time when our descendants will be amazed that we did not know things that are so plain to them... Many discoveries are reserved for ages still to come, when memory of us will have been effaced.” ― Seneca, Natural Questions
 >  
->  
+>  ---
 >  
 > > "Nemo mortalium omnibus horis sapit."\
 > > (Of mortal men, none is wise at all times)
 >  
->  
+>  ---
 >  
 > > “Often a very old man has no other proof of his long life than his age.” ― Lucius Annaeus Seneca, On the Shortness of Life
 >  
->  
+>  ---
 >  
 > > "There was a young lady named Bright,\
 > > Who could travel much faster than light.\
@@ -2021,15 +2111,15 @@
 > > In a relative way,\
 > > And returned home the previous night." 
 >  
->  
+>  ---
 >  
 > > "Cogito, ergo sum" (I think, therefore I am)
 >  
->  
+>  ---
 >  
 > > “Everything excellent is as difficult as it is rare.” ― Baruch Spinoza, Ethics
 >  
->  
+>  ---
 >  
 > > "Relativity, the theorists’ creed,\
 > > says mass increases with speed.\
@@ -2037,25 +2127,25 @@
 > > Mr. Einstein, get with it;\
 > > equate its deflation, I plead!" — Ass-tronomical by Michael R. Burch
 >  
->  
+>  ---
 >  
 > > Schrödinger was a man of many contradictions, including his complex love life.  He often quoted :\
 > > 'Si un hombre nunca se contradice, será porque nunca dice nada.' - Miguel de Unamuno\
 > > ('If a man never contradicts himself, it may be because he never says anything.')
 >  
->  
+>  ---
 >  
 > > “War educates the senses, calls into action the will, perfects the physical constitution, brings men into such swift and close collision in critical moments that man measures man.” ― Ralph Waldo Emerson
 >  
->  
+>  ---
 >  
 > > “At times to be silent is to lie. You will win because you have enough brute force. But you will not convince. For to convince you need to persuade. And in order to persuade you would need what you lack: Reason and Right” ― Miguel de Unamuno
 >  
->  
+>  ---
 >  
 > > “We feel and experience ourselves to be eternal.” ― Baruch Spinoza, Ethics
 >  
->  
+>  ---
 >  
 > > I found the Lincoln letter (known as Bixby Letter) that was used in Saving Private Ryan. This letter is also considered one of the finest work of Lincoln.
 > > 
@@ -2073,72 +2163,72 @@
 > > Yours, very sincerely and respectfully,
 > > A. Lincoln.
 >  
->  
+>  ---
 >  
 > > "Evil is evil Stregobor. Lesser, greater, middling, it's all the same. Proportions are negotiated, boundaries are blurred. I'm not a pious hermit. I haven't done only good in my life. But if I'm to choose between one evil and another, then I prefer not to choose at all." - Geralt of Rivia
 >  
->  
+>  ---
 >  
 > > “It’s unbelievable how much you don’t know about the game you’ve been playing all your life.” - Mickey Mantle
 >  
->  
+>  ---
 >  
 > > "It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent." - Charlie Munger
 >  
->  
+>  ---
 >  
 > > “We live only to discover beauty. All else is a form of waiting” ― Khalil Gibran, Sand and Foam
 >  
->  
+>  ---
 >  
 > > “There are ships sailing to many ports, but not a single one goes where life is not painful.” ― Fernando Pessoa, The Book of Disquiet
 >  
->  
+>  ---
 >  
 > > “My soul is impatient with itself, as with a bothersome child; its restlessness keeps growing and is forever the same. Everything interests me, but nothing holds me. I attend to everything, dreaming all the while. I'm two, and both keep their distance.” ― Fernando Pessoa , The Book of Disquiet 
 >  
->  
+>  ---
 >  
 > > “I am not to speak to you, I am to think of you when I sit alone or\
 > > wake at night alone,\
 > > I am to wait, I do not doubt I am to meet you again,\
 > > I am to see to it that I do not lose you.” ― Walt Whitman, Leaves of Grass
 >  
->  
+>  ---
 >  
 > > “Let your soul stand cool and composed\
 > > before a million universes.” ― Walt Whitman, Song of Myself
 >  
->  
+>  ---
 >  
 > > “I'd woken up early, and I took a long time getting ready to exist.” ― Fernando Pessoa, The Book of Disquiet
 >  
->  
+>  ---
 >  
 > > "I went to the woods because I wanted to live deep and suck out all the marrow of life! To put to rout all that was not life. And not, when I came to die, discover that I had not lived." - Henry David Thoreau
 >  
->  
+>  ---
 >  
 > > “I'm astounded whenever I finish something. Astounded and distressed. My perfectionist instinct should inhibit me from finishing: it should inhibit me from even beginning. But I get distracted and start doing something. What I achieve is not the product of an act of my will but of my will's surrender. I begin because I don't have the strength to think; I finish because I don't have the courage to quit. This book is my cowardice.” ― Fernando Pessoa
 >  
->  
+>  ---
 >  
 > > “That you are here—that life exists and identity,\
 > > That the powerful play goes on, and you may contribute a verse” - O Me! O Life by Walt Whitman
 >  
->  
+>  ---
 >  
 > > “But I am not perfect in my way of putting things\
 > > Because I lack the divine simplicity\
 > > Of being only what I appear to be.” ― Fernando Pessoa, Poems of Fernando Pessoa
 >  
->  
+>  ---
 >  
 > > “Read the best books first, or you may not have a chance to read them at all.” ― Henry David Thoreau, A Week on the Concord and Merrimack Rivers
 >  
->  
+>  ---
 >  
 > > “These are the days that must happen to you.” ― Walt Whitman
 >  
->  
+>  ---
 >  
