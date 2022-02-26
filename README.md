@@ -1,3 +1,559 @@
+> ## Funeral Blues by W. H. Auden
+>  
+> > Stop all the clocks, cut off the telephone,\
+> > Prevent the dog from barking with a juicy bone,\
+> > Silence the pianos and with muffled drum\
+> > Bring out the coffin, let the mourners come.
+> >  
+> > Let aeroplanes circle moaning overhead\
+> > Scribbling on the sky the message ‘He is Dead’.\
+> > Put crepe bows round the white necks of the public doves,\
+> > Let the traffic policemen wear black cotton gloves.
+> >  
+> > *__He was my North, my South, my East and West,\
+> > My working week and my Sunday rest,\
+> > My noon, my midnight, my talk, my song;\
+> > I thought that love would last forever: I was wrong.
+> >  
+> > The stars are not wanted now; put out every one,\
+> > Pack up the moon and dismantle the sun,\
+> > Pour away the ocean and sweep up the wood;\
+> > For nothing now can ever come to any good.
+
+> ## I have outlasted all desire by Alexander Pushkin
+>  
+> > I have outlasted all desire,\
+> > My dreams and I have grown apart;\
+> > My grief alone is left entire,\
+> > The gleamings of an empty heart.
+> >  
+> > The storms of ruthless dispensation\
+> > Have struck my flowery garland numb,\
+> > I live in lonely desolation\
+> > And wonder when my end will come.
+> >  
+> > Thus on a naked tree-limb, blasted\
+> > By tardy winter's whistling chill,\
+> > A single leaf which has outlasted\
+> > Its season will be trembling still.
+
+---
+
+> ## When we two parted by Lord Byron
+>  
+> > When we two parted\
+> >    In silence and tears,\
+> > Half broken-hearted\
+> >    To sever for years,\
+> > Pale grew thy cheek and cold,\
+> >    Colder thy kiss;\
+> > Truly that hour foretold\
+> >    Sorrow to this.
+> >  
+> > The dew of the morning\
+> >    Sunk chill on my brow— \
+> > It felt like the warning\
+> >    Of what I feel now.\
+> > Thy vows are all broken,\
+> >    And light is thy fame;\
+> > I hear thy name spoken,\
+> >    And share in its shame.
+> >  
+> > They name thee before me,\
+> >    A knell to mine ear;\
+> > A shudder comes o'er me—\
+> >    Why wert thou so dear?\
+> > They know not I knew thee,\
+> >    Who knew thee too well—\
+> > Long, long shall I rue thee,\
+> >    Too deeply to tell.
+> >  
+> > *__In secret we met—\
+> >    In silence I grieve,\
+> > That thy heart could forget,\
+> >    Thy spirit deceive.\
+> > If I should meet thee\
+> >    After long years,\
+> > How should I greet thee?—\
+> >    With silence and tears.__*
+
+---
+
+> ## The Builders by Henry Wadsworth Longfellow
+>  
+> > *__All are architects of Fate,\
+> > Working in these walls of Time;\
+> > Some with massive deeds and great,\
+> > Some with ornaments of rhyme.__*
+> >  
+> > Nothing useless is, or low;\
+> > Each thing in its place is best;\
+> > And what seems but idle show\
+> > Strengthens and supports the rest.
+> >  
+> > For the structure that we raise,\
+> > Time is with materials filled;\
+> > Our to-days and yesterdays\
+> > Are the blocks with which we build.
+> >  
+> > Truly shape and fashion these;\
+> > Leave no yawning gaps between;\
+> > Think not, because no man sees,\
+> > Such things will remain unseen.
+> >  
+> > In the elder days of Art,\
+> > Builders wrought with greatest care\
+> > Each minute and unseen part;\
+> > For the Gods see everywhere.
+> >  
+> > Let us do our work as well,\
+> > Both the unseen and the seen;\
+> > Make the house, where Gods may dwell,\
+> > Beautiful, entire, and clean.
+> >  
+> > Else our lives are incomplete,\
+> > Standing in these walls of Time,\
+> > Broken stairways, where the feet\
+> > Stumble as they seek to climb.
+> >  
+> > Build to-day, then, strong and sure,\
+> > With a firm and ample base;\
+> > And ascending and secure\
+> > Shall to-morrow find its place.
+> >  
+> > Thus alone can we attain\
+> > To those turrets, where the eye\
+> > Sees the world as one vast plain,\
+> > And one boundless reach of sky.
+
+---
+
+> ## Love’s Philosophy by P.B. Shelly
+>  
+> > The fountains mingle with the river\
+> > And the rivers with the ocean,\
+> > The winds of Heaven mix for ever\
+> > With a sweet emotion;\
+> > Nothing in the world is single,\
+> > All things by a law divine\
+> > In one spirit meet and mingle—\
+> > Why not I with thine?\
+> >  
+> > See the mountains kiss high Heaven\
+> > And the waves clasp one another;\
+> > No sister-flower would be forgiven\
+> > If it disdained its brother;\
+> > And the sunlight clasps the earth,\
+> > And the moonbeams kiss the sea—\
+> > What are all these kissings worth\
+> > If thou kiss not me?
+
+---
+
+> ## Guiltless Heart by Sir Francis Bacon
+>  
+> > The man of life upright, whose guiltless heart is free\
+> > From all dishonest deeds and thoughts of vanity:\
+> > The man whose silent days in harmless joys are spent,\
+> > Whom hopes cannot delude, nor fortune discontent;\
+> > That man needs neither towers nor armor for defense,\
+> > Nor secret vaults to fly from thunder's violence:\
+> > He only can behold with unaffrighted eyes\
+> > The horrors of the deep and terrors of the skies;\
+> > Thus scorning all the care that fate or fortune brings,\
+> > He makes the heaven his book, his wisdom heavenly things;\
+> > Good thoughts his only friends, his wealth a well-spent age,\
+> > The earth his sober inn and quiet pilgrimage.
+> >  
+> > *__About Author__* : Bacon has been called the father of empiricism. His works argued for the possibility of scientific knowledge based only upon inductive reasoning and careful observation of events in nature. Most importantly, he argued science could be achieved by use of a sceptical and methodical approach whereby scientists aim to avoid misleading themselves. Although his most specific proposals about such a method, the Baconian method, did not have a long-lasting influence, the general idea of the importance and possibility of a sceptical methodology makes Bacon the father of the scientific method. This method was a new rhetorical and theoretical framework for science, the practical details of which are still central in debates about science and methodology.
+
+---
+
+> ## Hey, That's No Way To Say Goodbye by Leonard Cohen
+>  
+> > I loved you in the morning, our kisses deep and warm,\
+> > your hair upon the pillow like a sleepy golden storm,\
+> > yes, many loved before us, I know that we are not new,\
+> > in city and in forest they smiled like me and you,\
+> > but now it's come to distances and both of us must try,\
+> > your eyes are soft with sorrow,\
+> > Hey, that's no way to say goodbye.
+> >  
+> > I'm not looking for another as I wander in my time,\
+> > walk me to the corner, our steps will always rhyme\
+> > you know my love goes with you as your love stays with me,\
+> > it's just the way it changes, like the shoreline and the sea,\
+> > but let's not talk of love or chains and things we can't untie,\
+> > your eyes are soft with sorrow,\
+> > Hey, that's no way to say goodbye.
+
+---
+
+> ## A dream within a dream by Edgar Allan Poe
+>  
+> > Take this kiss upon the brow!\
+> > And, in parting from you now,\
+> > Thus much let me avow—\
+> > You are not wrong, who deem\
+> > That my days have been a dream:\
+> > Yet if hope has flown away\
+> > In a night, or in a day,\
+> > In a vision or in none,\
+> > Is it therefore the less gone?\
+> > All that we see or seem\
+> > Is but a dream within a dream.
+> >  
+> > I stand amid the roar\
+> > Of a surf-tormented shore,\
+> > And I hold within my hand\
+> > Grains of the golden sand—\
+> > How few! yet how they creep\
+> > Through my fingers to the deep\
+> > While I weep—while I weep!\
+> > O God! can I not grasp\
+> > Them with a tighter clasp?\
+> > O God! can I not save\
+> > One from the pitiless wave?\
+> > Is all that we see or seem\
+> > But a dream within a dream?
+
+---
+
+> ## Bright Star, Would I Were Steadfast As Thou Art by  John Keats
+>  
+> > Bright star, would I were stedfast as thou art—\
+> >          Not in lone splendour hung aloft the night\
+> > And watching, with eternal lids apart,\
+> >          Like nature's patient, sleepless Eremite,\
+> > The moving waters at their priestlike task\
+> >          Of pure ablution round earth's human shores,\
+> > Or gazing on the new soft-fallen mask\
+> >          Of snow upon the mountains and the moors—\
+> > No—yet still stedfast, still unchangeable,\
+> >          Pillow'd upon my fair love's ripening breast,\
+> > *__To feel for ever its soft fall and swell,\
+> >          Awake for ever in a sweet unrest,\
+> > Still, still to hear her tender-taken breath,\
+> > And so live ever—or else swoon to death.__*
+
+---
+
+> ## My Lost Youth by Henry Wadsworth Lingfellow
+>  
+> > Often I think of the beautiful town\
+> > That is seated by the sea;\
+> > Often in thought go up and down\
+> > The pleasant streets of that dear old town,\
+> > And my youth comes back to me.\
+> > And a verse of a Lapland song\
+> > Is haunting my memory still:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+> >  
+> > I can see the shadowy lines of its trees,\
+> > And catch, in sudden gleams,\
+> > The sheen of the far-surrounding seas,\
+> > And islands that were the Hesperides\
+> > Of all my boyish dreams.\
+> > And the burden of that old song,\
+> > It murmurs and whispers still:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+> >  
+> > I remember the black wharves and the ships,\
+> > And the sea-tides tossing free;\
+> > And Spanish sailors with bearded lips,\
+> > And the beauty and mystery of the ships,\
+> > And the magic of the sea.\
+> > And the voice of that wayward song\
+> > Is singing and saying still:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+> >  
+> > I remember the bulwarks by the shore,\
+> > And the fort upon the hill;\
+> > The sunrise gun, with its hollow roar,\
+> > The drum-beat repeated o’er and o’er,\
+> > And the bugle wild and shrill.\
+> > And the music of that old song\
+> > Throbs in my memory still:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+> >  
+> > I remember the sea-fight far away,\
+> > How it thundered o’er the tide!\
+> > And the dead captains, as they lay\
+> > In their graves, o’erlooking the tranquil bay\
+> > Where they in battle died.\
+> > And the sound of that mournful song\
+> > Goes through me with a thrill:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+> >  
+> > I can see the breezy dome of groves,\
+> > The shadows of Deering’s Woods;\
+> > And the friendships old and the early loves\
+> > Come back with a Sabbath sound, as of doves\
+> > In quiet neighborhoods.\
+> > And the verse of that sweet old song,\
+> > It flutters and murmurs still:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+> >  
+> > I remember the gleams and glooms that dart\
+> > Across the school-boy’s brain;\
+> > The song and the silence in the heart,\
+> > That in part are prophecies, and in part\
+> > Are longings wild and vain.\
+> > And the voice of that fitful song\
+> > Sings on, and is never still:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+> >  
+> > *__There are things of which I may not speak;\
+> > There are dreams that cannot die;\
+> > There are thoughts that make the strong heart weak,\
+> > And bring a pallor into the cheek,\
+> > And a mist before the eye.\
+> > And the words of that fatal song\
+> > Come over me like a chill:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”__*
+> >  
+> > Strange to me now are the forms I meet\
+> > When I visit the dear old town;\
+> > But the native air is pure and sweet,\
+> > And the trees that o’ershadow each well-known street,\
+> > As they balance up and down,\
+> > Are singing the beautiful song,\
+> > Are sighing and whispering still:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+> >  
+> > And Deering’s Woods are fresh and fair,\
+> > And with joy that is almost pain\
+> > My heart goes back to wander there,\
+> > And among the dreams of the days that were,\
+> > I find my lost youth again.\
+> > And the strange and beautiful song,\
+> > The groves are repeating it still:\
+> > “A boy’s will is the wind’s will,\
+> > And the thoughts of youth are long, long thoughts.”
+
+---
+
+> ## Evolutionary Hymn by C.S. Lewis
+>  
+> > Lead us, Evolution, lead us\
+> >  Up the future's endless stair;\
+> > Chop us, change us, prod us, weed us.\
+> >  For stagnation is despair:\
+> > Groping, guessing, yet progressing,\
+> >  Lead us nobody knows where.
+> >  
+> > *__Wrong or justice, joy or sorrow,\
+> >  In the present what are they\
+> > while there's always jam-tomorrow,\
+> >  While we tread the onward way?\
+> > Never knowing where we're going,\
+> >  We can never go astray.__*
+> >  
+> > To whatever variation\
+> >  Our posterity may turn\
+> > Hairy, squashy, or crustacean,\
+> >  Bulbous-eyed or square of stern,\
+> > Tusked or toothless, mild or ruthless,\
+> >  Towards that unknown god we yearn.
+> >  
+> > Ask not if it's god or devil,\
+> >  Brethren, lest your words imply\
+> > Static norms of good and evil\
+> >  (As in Plato) throned on high;\
+> > Such scholastic, inelastic,\
+> >  Abstract yardsticks we deny.
+> >  
+> > Far too long have sages vainly\
+> >  Glossed great Nature's simple text;\
+> > He who runs can read it plainly,\
+> >  'Goodness = what comes next.'\
+> > By evolving, Life is solving\
+> >  All the questions we perplexed.
+> >  
+> > Oh then! Value means survival-\
+> >  Value. If our progeny\
+> > Spreads and spawns and licks each rival,\
+> >  That will prove its deity\
+> > (Far from pleasant, by our present,\
+> >  Standards, though it may well be).
+
+---
+
+> ## The Indian Serenade by Percy Bysshe Shelly
+>  
+> > *__I arise from dreams of thee\
+> > In the first sweet sleep of night,\
+> > When the winds are breathing low,\
+> > And the stars are shining bright:__*\
+> > I arise from dreams of thee,\
+> > And a spirit in my feet\
+> > Hath led me—who knows how?\
+> > To thy chamber window, Sweet!
+> >  
+> > The wandering airs they faint\
+> > On the dark, the silent stream—\
+> > The Champak odours fail\
+> > Like sweet thoughts in a dream;\
+> > The Nightingale's complaint,\
+> > It dies upon her heart;—\
+> > As I must on thine,\
+> > Oh, belovèd as thou art!
+> >  
+> > Oh lift me from the grass!\
+> > I die! I faint! I fail!\
+> > Let thy love in kisses rain\
+> > On my lips and eyelids pale.\
+> > My cheek is cold and white, alas!\
+> > My heart beats loud and fast;—\
+> > Oh! press it to thine own again,\
+> > Where it will break at last. 
+
+---
+
+> ## Spellbound by Emily Bronte
+>  
+> > The night is darkening round me,\
+> > The wild winds coldly blow;\
+> > But a tyrant spell has bound me\
+> > And I cannot, cannot go.
+> >  
+> > The giant trees are bending\
+> > Their bare boughs weighed with snow.\
+> > And the storm is fast descending,\
+> > And yet I cannot go.
+> >  
+> > Clouds beyond clouds above me,\
+> > Wastes beyond wastes below;\
+> > But nothing drear can move me;\
+> > I will not, cannot go.\
+
+---
+
+> ## A Farewell by Alfred Lord Tennyson
+>  
+> > Flow down, cold rivulet, to the sea,\
+> > Thy tribute wave deliver:\
+> > No more by thee my steps shall be,\
+> > For ever and for ever.
+> >  
+> > Flow, softly flow, by lawn and lea,\
+> > A rivulet then a river:\
+> > Nowhere by thee my steps shall be\
+> > For ever and for ever.
+> >  
+> > But here will sigh thine alder tree\
+> > And here thine aspen shiver;\
+> > And here by thee will hum the bee,\
+> > For ever and for ever.
+> >  
+> > *__A thousand suns will stream on thee,\
+> > A thousand moons will quiver;\
+> > But not by thee my steps shall be,\
+> > For ever and for ever. __*
+
+---
+
+> ## The First Kiss of Love by Lord Byron
+>  
+> > Away with your fictions of flimsy romance,\
+> >   Those tissues of falsehood which Folly has wove;\
+> > Give me the mild beam of the soul-breathing glance,\
+> >   Or the rapture which dwells on the first kiss of love.
+> >   
+> > Ye rhymers, whose bosoms with fantasy glow,\
+> >   Whose pastoral passions are made for the grove;\
+> > From what blest inspiration your sonnets would flow,\
+> >   Could you ever have tasted the first kiss of love.
+> >  
+> > If Apollo should e’er his assistance refuse,\
+> >   Or the Nine be dispos’d from your service to rove,\
+> > Invoke them no more, bid adieu to the Muse,\
+> >   And try the effect, of the first kiss of love.
+> >  
+> > I hate you, ye cold compositions of art,\
+> >   Though prudes may condemn me, and bigots reprove;\
+> > I court the effusions that spring from the heart,\
+> >   Which throbs, with delight, to the first kiss of love.
+> >  
+> > Your shepherds, your flocks, those fantastical themes,\
+> >   Perhaps may amuse, yet they never can move:\
+> > Arcadia displays but a region of dreams;\
+> >   What are visions like these, to the first kiss of love?
+> >  
+> > Oh! cease to affirm that man, since his birth,\
+> >   From Adam, till now, has with wretchedness strove;\
+> > Some portion of Paradise still is on earth,\
+> >   And Eden revives, in the first kiss of love.
+> >  
+> > *__When age chills the blood, when our pleasures are past—\
+> > For years fleet away with the wings of the dove—\
+> > The dearest remembrance will still be the last,\
+> > Our sweetest memorial, the first kiss of love.__*
+
+---
+
+> ## Song Of The Master And Boatswain by W.H. Auden
+>  
+> > At Dirty Dick's and Sloppy Joe's\
+> >    We drank our liquor straight,\
+> > Some went upstairs with Margery,\
+> >    And some, alas, with Kate;\
+> > And two by two like cat and mouse\
+> > The homeless played at keeping house.
+> >  
+> > There Wealthy Meg, the Sailor's Friend,\
+> >    And Marion, cow-eyed,\
+> > Opened their arms to me but I\
+> >    Refused to step inside;\
+> > I was not looking for a cage\
+> > In which to mope my old age.
+> >  
+> > *__The nightingales are sobbing in\
+> >    The orchards of our mothers,\
+> > And hearts that we broke long ago\
+> >    Have long been breaking others;\
+> > Tears are round, the sea is deep:\
+> > Roll them overboard and sleep.__*
+
+---
+
+> ## A Stare's Nest By The Window by WIlliam Butler Yeats
+>  
+> > The bees build in the crevices\
+> > Of loosening masonry, and there\
+> > The mother birds bring grubs and flies.\
+> > My wall is loosening; honey-bees,\
+> > Come build in the empty house of the stare.
+> >  
+> > We are closed in, and the key is turned\
+> > On our uncertainty; somewhere\
+> > A man is killed, or a house burned.\
+> > Yet no clear fact to be discerned:\
+> > Come build in the empty house of the stare.
+> >  
+> > A barricade of stone or of wood;\
+> > Some fourteen days of civil war:\
+> > Last night they trundled down the road\
+> > That dead young soldier in his blood:\
+> > Come build in the empty house of the stare.
+> >  
+> > *__We had fed the heart on fantasies,\
+> > The heart's grown brutal from the fare,\
+> > More substance in our enmities\
+> > Than in our love; O honey-bees,\
+> > Come build in the empty house of the stare.__*
+
+---
+
 > ## Invictus by William Ernest Henley 
 >  
 > > Out of the night that covers me,   
@@ -117,10 +673,10 @@
 > # Somewhere I have never travelled,gladly beyond by E.E Cummings
 > 
 >
-> > Somewhere i have never travelled,gladly beyond\
+> > *__Somewhere i have never travelled,gladly beyond\
 > > any experience,your eyes have their silence:\
 > > in your most frail gesture are things which enclose me, \
-> > or which i cannot touch because they are too near
+> > or which i cannot touch because they are too near__*
 > >
 > > your slightest look easily will unclose me\
 > > though i have closed myself as fingers, \
@@ -2232,3 +2788,34 @@
 >  
 >  ---
 >  
+> > “Though I know that evenin's empire has returned into sand,\
+> > Vanished from my hand,\
+> > Left me blindly here to stand but still not sleeping.\
+> > My weariness amazes me, I'm branded on my feet,\
+> > I have no one to meet\
+> > And the ancient empty street's too dead for dreaming.” -  Mr.Tambourine Man by Bob Dylan
+>
+> ---
+>
+> > “And when great souls die,\
+> > after a period peace blooms,\
+> > slowly and always\
+> > irregularly. Spaces fill\
+> > with a kind of\
+> > soothing electric vibration.\
+> > Our senses, restored, never\
+> > to be the same, whisper to us.\
+> > They existed. They existed.\
+> > We can be. Be and be\
+> > better. For they existed.” - Maya Angelou
+>
+> ---
+>
+> > “It's better to burn out than to fade away.” ― Neil Young
+> 
+> ---
+>
+> > “Fear not death for the sooner we die, the longer we shall be immortal.” ― Benjamin Franklin
+>
+> ---
+>
