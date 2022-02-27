@@ -1,3 +1,3034 @@
+> ## A Character by William Wordsworth
+>  
+> > I marvel how Nature could ever find space\
+> > For so many strange contrasts in one human face:\
+> > There's thought and no thought, and there's paleness and bloom\
+> > And bustle and sluggishness, pleasure and gloom.
+> >  
+> > There's weakness, and strength both redundant and vain;\
+> > Such strength as, if ever affliction and pain\
+> > Could pierce through a temper that's soft to disease,\
+> > Would be rational peace—a philosopher's ease.
+> >  
+> > There's indifference, alike when he fails or succeeds,\
+> > And attention full ten times as much as there needs;\
+> > Pride where there's no envy, there's so much of joy;\
+> > And mildness, and spirit both forward and coy.
+> >  
+> > There's freedom, and sometimes a diffident stare\
+> > Of shame scarcely seeming to know that she's there,\
+> > There's virtue, the title it surely may claim,\
+> > Yet wants heaven knows what to be worthy the name.
+> >  
+> > This picture from nature may seem to depart,\
+> > Yet the Man would at once run away with your heart;\
+> > And I for five centuries right gladly would be\
+> > Such an odd such a kind happy creature as he.
+
+---
+
+> ## Always Marry An April Girl by Ogden Nash
+> 
+> > Praise the spells and bless the charms,\
+> > I found April in my arms.\
+> > April golden, April cloudy,\
+> > Gracious, cruel, tender, rowdy;\
+> > April soft in flowered languor,\
+> > April cold with sudden anger,\
+> > Ever changing, ever true —\
+> > I love April, I love you.
+
+---
+
+> ## Remember by Christina Rossetti
+>  
+> > Remember me when I am gone away,\
+> >         Gone far away into the silent land;\
+> >         When you can no more hold me by the hand,\
+> >     Nor I half turn to go yet turning stay.\
+> >     Remember me when no more day by day\
+> >         You tell me of our future that you plann'd:\
+> >         Only remember me; you understand\
+> >     It will be late to counsel then or pray.\
+> >     Yet if you should forget me for a while\
+> >       And afterwards remember, do not grieve:\
+> >       For if the darkness and corruption leave\
+> >       A vestige of the thoughts that once I had,\
+> >   Better by far you should forget and smile\
+> >       Than that you should remember and be sad.
+
+---
+
+> ## And Death Shall Have No Dominion by Dylan Thomas
+>  
+> > And death shall have no dominion.\
+> > Dead men naked they shall be one\
+> > With the man in the wind and the west moon;\
+> > When their bones are picked clean and the clean bones gone,\
+> > They shall have stars at elbow and foot;\
+> > Though they go mad they shall be sane,\
+> > Though they sink through the sea they shall rise again;\
+> > Though lovers be lost love shall not;\
+> > And death shall have no dominion.
+> >  
+> > And death shall have no dominion.\
+> > Under the windings of the sea\
+> > They lying long shall not die windily;\
+> > Twisting on racks when sinews give way,\
+> > Strapped to a wheel, yet they shall not break;\
+> > Faith in their hands shall snap in two,\
+> > And the unicorn evils run them through;\
+> > Split all ends up they shan't crack;\
+> > And death shall have no dominion.
+> >  
+> > And death shall have no dominion.\
+> > No more may gulls cry at their ears\
+> > Or waves break loud on the seashores;\
+> > Where blew a flower may a flower no more\
+> > Lift its head to the blows of the rain;\
+> > Though they be mad and dead as nails,\
+> > Heads of the characters hammer through daisies;\
+> > Break in the sun till the sun breaks down,\
+> > And death shall have no dominion.
+
+---
+
+> ## I broke the spell that held me long by William Cullen Bryant
+>  
+> > I broke the spell that held me long,\
+> > The dear, dear witchery of song.\
+> > I said, the poet’s idle lore\
+> > Shall waste my prime of years no more,\
+> > For Poetry, though heavenly born,\
+> > Consorts with poverty and scorn.
+> >  
+> > I broke the spell–nor deemed its power\
+> > Could fetter me another hour.\
+> > Ah, thoughtless! how could I forget\
+> > Its causes were around me yet?\
+> > For wheresoe’er I looked, the while,\
+> > Was Nature’s everlasting smile.
+> >  
+> > Still came and lingered on my sight\
+> > Of flowers and streams the bloom and light,\
+> > And glory of the stars and sun; –\
+> > And these and poetry are one.\
+> > They, ere the world had held me long,\
+> > Recalled me to the love of song.
+
+---
+
+> ## Spirits Of The Dead by Edgar Allan Poe
+>  
+> > Thy soul shall find itself alone\
+> > 'Mid dark thoughts of the grey tombstone;\
+> > Not one, of all the crowd, to pry\
+> > Into thine hour of secrecy.
+> >  
+> > Be silent in that solitude,\
+> > Which is not loneliness- for then\
+> > The spirits of the dead, who stood\
+> > In life before thee, are again\
+> > In death around thee, and their will\
+> > Shall overshadow thee; be still.
+> >  
+> > The night, though clear, shall frown,\
+> > And the stars shall not look down\
+> > From their high thrones in the Heaven\
+> > With light like hope to mortals given,\
+> > But their red orbs, without beam,\
+> > To thy weariness shall seem\
+> > As a burning and a fever\
+> > Which would cling to thee for ever.
+> >  
+> > Now are thoughts thou shalt not banish,\
+> > Now are visions ne'er to vanish;\
+> > From thy spirit shall they pass\
+> > No more, like dewdrop from the grass.
+> >  
+> > The breeze, the breath of God, is still,\
+> > And the mist upon the hill\
+> > Shadowy, shadowy, yet unbroken,\
+> > Is a symbol and a token.\
+> > How it hangs upon the trees,\
+> > A mystery of mysteries!
+
+---
+
+> ## Sonnet - To Science by Edgar Allan Poe
+>  
+> > Science! true daughter of Old Time thou art!\
+> > Who alterest all things with thy peering eyes.\
+> > Why preyest thou thus upon the poet's heart,\
+> > Vulture, whose wings are dull realities?\
+> > How should he love thee? or how deem thee wise,\
+> > Who wouldst not leave him in his wandering\
+> > To seek for treasure in the jewelled skies,\
+> > Albeit he soared with an undaunted wing?\
+> > Hast thou not dragged Diana from her car?\
+> > And driven the Hamadryad from the wood\
+> > To seek a shelter in some happier star?\
+> > Hast thou not torn the Naiad from her flood,\
+> > The Elfin from the green grass, and from me\
+> > The summer dream beneath the tamarind tree?
+
+---
+
+> ## Two Doves upon the selfsame Branch by Christina Rossetti
+>  
+> > Two doves upon the selfsame branch,\
+> >   Two lilies on a single stem,\
+> > Two butterflies upon one flower:--\
+> >   O happy they who look on them.
+> >  
+> > Who look upon them hand in hand\
+> >   Flushed in the rosy summer light;\
+> > Who look upon them hand in hand\
+> >   And never give a thought to night.
+
+---
+
+> ## Concord Hymn by Ralph Waldo Emerson
+>  
+> > By the rude bridge that arched the flood,\
+> >    Their flag to April’s breeze unfurled,\
+> > Here once the embattled farmers stood\
+> >    And fired the shot heard round the world.
+> >  
+> > The foe long since in silence slept;\
+> >    Alike the conqueror silent sleeps;\
+> > And Time the ruined bridge has swept\
+> >    Down the dark stream which seaward creeps.
+> >  
+> > On this green bank, by this soft stream,\
+> >    We set today a votive stone;\
+> > That memory may their deed redeem,\
+> >    When, like our sires, our sons are gone.
+> >  
+> > Spirit, that made those heroes dare\
+> >    To die, and leave their children free,\
+> > Bid Time and Nature gently spare\
+> >    The shaft we raise to them and thee.
+
+---
+
+> ## Carpe Diem by William Shakespeare
+>  
+> > O mistress mine, where are you roaming?\
+> > O stay and hear! your true-love's coming\
+> > That can sing both high and low;\
+> > Trip no further, pretty sweeting,\
+> > Journey's end in lovers' meeting—\
+> > Every wise man's son doth know.
+> >  
+> > What is love? 'tis not hereafter;\
+> > Present mirth hath present laughter;\
+> > What's to come is still unsure:\
+> > In delay there lies no plenty,—\
+> > Then come kiss me, sweet and twenty,\
+> > Youth's a stuff will not endure.
+
+---
+
+> ## Brown Penny by William Butler Yeats
+>  
+> > I whispered, 'I am too young,\
+> > 'And then, 'I am old enough';\
+> > Wherefore I threw a penny\
+> > To find out if I might love.\
+> > 'Go and love, go and love, young man,\
+> > If the lady be young and fair.\
+> > 'Ah, penny, brown penny, brown penny,\
+> > I am looped in the loops of her hair.
+> >  
+> > O love is the crooked thing,\
+> > There is nobody wise enough\
+> > To find out all that is in it,\
+> > For he would be thinking of love\
+> > Till the stars had run away\
+> > And the shadows eaten the moon.\
+> > Ah, penny, brown penny, brown penny,\
+> > One cannot begin it too soon.
+
+---
+
+> ## No more now with jealous complaining by Robert Laurence Binyon
+>  
+> > No more now with jealous complaining\
+> > Shall you be vext; nor I with fears\
+> > Torture my heart: my heart is secure now,\
+> > And laughs at follies of former tears.\
+> > No more now with the endless paining\
+> > Of idle desires shall Day distress;\
+> > Nor Night, from passionate envy pure now,\
+> > With insupportable loneliness.\
+> > Truth and Trust so sweetly possess\
+> > My fortress of peace, no more to be shaken;\
+> > From dreams of joy to joy I awaken\
+> > And wander in fields of happiness.\
+> > Foolish once, now I'll be wise,\
+> > And live in the light of your trusting eyes.
+
+---
+
+> ## A Wish by Matthew Arnold
+>  
+> > I ask not that my bed of death\
+> > From bands of greedy heirs be free;\
+> > For these besiege the latest breath\
+> > Of fortune’s favoured sons, not me.
+> >  
+> > I ask not each kind soul to keep\
+> > Tearless, when of my death he hears;\
+> > Let those who will, if any, weep!\
+> > There are worse plagues on earth than tears.
+> >  
+> > I ask but that my death may find\
+> > The freedom to my life denied;\
+> > Ask but the folly of mankind,\
+> > Then, at last, to quit my side.
+> >  
+> > Spare me the whispering, crowded room,\
+> > The friends who come, and gape, and go;\
+> > The ceremonious air of gloom –\
+> > All which makes death a hideous show!
+> >  
+> > Nor bring, to see me cease to live,\
+> > Some doctor full of phrase and fame,\
+> > To shake his sapient head and give\
+> > The ill he cannot cure a name.
+> >  
+> > Nor fetch, to take the accustomed toll\
+> > Of the poor sinner bound for death,\
+> > His brother doctor of the soul,\
+> > To canvass with official breath
+> >  
+> > *__The future and its viewless things –\
+> > That undiscovered mystery\
+> > Which one who feels death’s winnowing wings\
+> > Must need read clearer, sure, than he!__*
+> >  
+> > *__Bring none of these; but let me be,\
+> > While all around in silence lies,\
+> > Moved to the window near, and see\
+> > Once more before my dying eyes__*
+> >  
+> > Bathed in the sacred dew of morn\
+> > The wide aerial landscape spread –\
+> > The world which was ere I was born,\
+> > The world which lasts when I am dead.
+> >  
+> > Which never was the friend of one,\
+> > Nor promised love it could not give,\
+> > But lit for all its generous sun,\
+> > And lived itself, and made us live.
+> >  
+> > There let me gaze, till I become\
+> > In soul with what I gaze on wed!\
+> > To feel the universe my home;\
+> > To have before my mind -instead
+> >  
+> > Of the sick-room, the mortal strife,\
+> > The turmoil for a little breath –\
+> > The pure eternal course of life,\
+> > Not human combatings with death.
+> >  
+> > Thus feeling, gazing, let me grow\
+> > Composed, refreshed, ennobled, clear;\
+> > Then willing let my spirit go\
+> > To work or wait elsewhere or here!
+
+---
+
+> ## The Doubter's Prayer by Anne Bronte
+>  
+> > Eternal Power, of earth and air!\
+> > Unseen, yet seen in all around,\
+> > Remote, but dwelling everywhere,\
+> > Though silent, heard in every sound.\
+> > If e'er thine ear in mercy bent,\
+> > When wretched mortals cried to Thee,\
+> > And if, indeed, Thy Son was sent,\
+> > To save lost sinners such as me:
+> >  
+> > Then hear me now, while, kneeling here,\
+> > I lift to thee my heart and eye,\
+> > And all my soul ascends in prayer,\
+> > Oh, give me -­ give me Faith! I cry.
+> >  
+> > Without some glimmering in my heart,\
+> > I could not raise this fervent prayer;\
+> > But, oh! a stronger light impart,\
+> > And in Thy mercy fix it there.
+> >  
+> > *__While Faith is with me, I am blest;\
+> > It turns my darkest night to day;\
+> > But while I clasp it to my breast,\
+> > I often feel it slide away.__*
+> >  
+> > *__Then, cold and dark, my spirit sinks,\
+> > To see my light of life depart;\
+> > And every fiend of Hell, methinks,\
+> > Enjoys the anguish of my heart.__*
+> >  
+> > What shall I do, if all my love,\
+> > My hopes, my toil, are cast away,\
+> > And if there be no God above,\
+> > To hear and bless me when I pray?
+> >  
+> > If this be vain delusion all,\
+> > If death be an eternal sleep,\
+> > And none can hear my secret call,\
+> > Or see the silent tears I weep!
+> >  
+> > Oh, help me, God! For thou alone\
+> > Canst my distracted soul relieve;\
+> > Forsake it not: it is thine own,\
+> > Though weak, yet longing to believe.
+> >  
+> > Oh, drive these cruel doubts away;\
+> > And make me know, that Thou art God!\
+> > A faith, that shines by night and day,\
+> > Will lighten every earthly load.
+> >  
+> > If I believe that Jesus died,\
+> > And, waking, rose to reign above;\
+> > Then surely Sorrow, Sin, and Pride,\
+> > Must yield to Peace, and Hope, and Love.
+> >  
+> > And all the blessed words He said\
+> > Will strength and holy joy impart:\
+> > A shield of safety o'er my head,\
+> > A spring of comfort in my heart. 
+
+---
+
+> ## Farewell by Anne Bronte
+>  
+> > Farewell to thee! but not farewell\
+> > To all my fondest thoughts of thee:\
+> > Within my heart they still shall dwell;\
+> > And they shall cheer and comfort me.\
+> > O, beautiful, and full of grace!\
+> > If thou hadst never met mine eye,\
+> > I had not dreamed a living face\
+> > Could fancied charms so far outvie.
+> >  
+> > If I may ne'er behold again\
+> > That form and face so dear to me,\
+> > Nor hear thy voice, still would I fain\
+> > Preserve, for aye, their memory.
+> >  
+> > That voice, the magic of whose tone\
+> > Can wake an echo in my breast,\
+> > Creating feelings that, alone,\
+> > Can make my tranced spirit blest.
+> >  
+> > *__That laughing eye, whose sunny beam\
+> > My memory would not cherish less; -\
+> > And oh, that smile! whose joyous gleam\
+> > Nor mortal language can express.__*
+> >  
+> > Adieu, but let me cherish, still,\
+> > The hope with which I cannot part.\
+> > Contempt may wound, and coldness chill,\
+> > But still it lingers in my heart.
+> >  
+> > And who can tell but Heaven, at last,\
+> > May answer all my thousand prayers,\
+> > And bid the future pay the past\
+> > With joy for anguish, smiles for tears? 
+
+---
+
+> ## An Invite to Eternity by John Clare
+>  
+> > Wilt thou go with me, sweet maid,\
+> > Say, maiden, wilt thou go with me\
+> > Through the valley-depths of shade,\
+> > Of night and dark obscurity;\
+> > Where the path has lost its way,\
+> > Where the sun forgets the day,\
+> > Where there's nor life nor light to see,\
+> > Sweet maiden, wilt thou go with me!
+> >  
+> > Where stones will turn to flooding streams,\
+> > Where plains will rise like ocean waves,\
+> > Where life will fade like visioned dreams\
+> > And mountains darken into caves,\
+> > Say, maiden, wilt thou go with me\
+> > Through this sad non-identity,\
+> > Where parents live and are forgot,\
+> > And sisters live and know us not!
+> >  
+> > Say, maiden; wilt thou go with me\
+> > In this strange death of life to be,\
+> > To live in death and be the same,\
+> > Without this life or home or name,\
+> > At once to be and not to be -\
+> > That was and is not -yet to see\
+> > Things pass like shadows, and the sky\
+> > Above, below, around us lie?
+> >  
+> > *__The land of shadows wilt thou trace\
+> > And look nor know each other's face.\
+> > The present mixed with reasons gone,\
+> > And past and present all as one.\
+> > Say maiden, can thy life be led\
+> > To join the living to the dead?\
+> > Then trace thy footsteps on with me,\
+> > We're wed to one eternity.__*
+
+---
+
+> ## Eternity by Robert Herrick
+>  
+> > O years! and age! farewell:\
+> > Behold I go,\
+> > Where I do know\
+> > Infinity to dwell.
+> >  
+> > And these mine eyes shall see\
+> > All times, how they\
+> > Are lost in the sea\
+> > Of vast eternity: –
+> >  
+> > Where never moon shall sway\
+> > The stars; but she,\
+> > And night, shall be\
+> > Drown’d in one endless day.
+
+---
+
+> ## Dover Beach by Matthew Arnold
+>  
+> > Context: Sophocles is one of three ancient Greek tragedians whose plays have survived. His first plays were written later than, or contemporary with, those of Aeschylus; and earlier than, or contemporary with, those of Euripides
+> >  
+> > *__The sea is calm tonight.\
+> > The tide is full, the moon lies fair\
+> > Upon the straits; on the French coast the light\
+> > Gleams and is gone; the cliffs of England stand,\
+> > Glimmering and vast, out in the tranquil bay.\
+> > Come to the window, sweet is the night-air!\
+> > Only, from the long line of spray\
+> > Where the sea meets the moon-blanched land,\
+> > Listen! you hear the grating roar\
+> > Of pebbles which the waves draw back, and fling,\
+> > At their return, up the high strand,\
+> > Begin, and cease, and then again begin,\
+> > With tremulous cadence slow, and bring\
+> > The eternal note of sadness in.__*
+> >  
+> > Sophocles long ago\
+> > Heard it on the Ægean, and it brought\
+> > Into his mind the turbid ebb and flow\
+> > Of human misery; we\
+> > Find also in the sound a thought,\
+> > Hearing it by this distant northern sea.
+> >  
+> > The Sea of Faith\
+> > Was once, too, at the full, and round earth’s shore\
+> > Lay like the folds of a bright girdle furled.\
+> > But now I only hear\
+> > Its melancholy, long, withdrawing roar,\
+> > Retreating, to the breath\
+> > Of the night-wind, down the vast edges drear\
+> > And naked shingles of the world.
+> >  
+> > Ah, love, let us be true\
+> > To one another! for the world, which seems\
+> > To lie before us like a land of dreams,\
+> > So various, so beautiful, so new,\
+> > Hath really neither joy, nor love, nor light,\
+> > Nor certitude, nor peace, nor help for pain;\
+> > And we are here as on a darkling plain\
+> > Swept with confused alarms of struggle and flight,\
+> > Where ignorant armies clash by night.
+
+---
+
+> ## The Light of Stars By Henry Wadsworth Longfellow
+>  
+> > The night is come, but not too soon;\
+> >   And sinking silently,\
+> > All silently, the little moon\
+> >   Drops down behind the sky.
+> >  
+> > There is no light in earth or heaven\
+> >   But the cold light of stars;\
+> > And the first watch of night is given\
+> >   To the red planet Mars. 
+> >  
+> > Is it the tender star of love?\
+> >   The star of love and dreams?\
+> > O no! from that blue tent above,\
+> >   A hero's armor gleams. 
+> >  
+> > And earnest thoughts within me rise,\
+> >   When I behold afar,\
+> > Suspended in the evening skies,\
+> >   The shield of that red star. 
+> >  
+> > O star of strength! I see thee stand\
+> >   And smile upon my pain;\
+> > Thou beckonest with thy mailèd hand,\
+> >   And I am strong again. 
+> >  
+> > Within my breast there is no light\
+> >   But the cold light of stars;\
+> > I give the first watch of the night\
+> >   To the red planet Mars. 
+> >  
+> > The star of the unconquered will,\
+> >   He rises in my breast,\
+> > Serene, and resolute, and still,\
+> >   And calm, and self-possessed. 
+> >  
+> > And thou, too, whosoe'er thou art,\
+> >   That readest this brief psalm,\
+> > As one by one thy hopes depart,\
+> >   Be resolute and calm. 
+> >  
+> > O fear not in a world like this,\
+> >   And thou shalt know erelong,\
+> > Know how sublime a thing it is\
+> >   To suffer and be strong.
+
+---
+
+> ## Hero And Leander: The First Sestiad by Christopher Marlowe (Partial)
+>  
+> > It lies not in our power to love or hate,\
+> > For will in us is over-rul’d by fate.\
+> > When two are stript, long ere the course begin,\
+> > We wish that one should lose, the other win;\
+> > And one especially do we affect\
+> > Of two gold ingots, like in each respect:\
+> > The reason no man knows, let it suffice,\
+> > What we behold is censur’d by our eyes.\
+> > Where both deliberate, the love is slight:\
+> > Who ever lov’d, that lov’d not at first sight?
+
+---
+
+> ## Dying Speech of an Old Philosopher by Walter Savage Landor
+>  
+> > I strove with none, for none was worth my strife:\
+> > Nature I loved, and, next to Nature, Art:\
+> > I warm'd both hands before the fire of Life;\
+> > It sinks; and I am ready to depart.
+
+---
+
+> ## Remind Me Not, Remind Me Not by Lord Byron
+>  
+> > Remind me not, remind me not,\
+> > Of those beloved, those vanish'd hours,\
+> > When all my soul was given to thee;\
+> > Hours that may never be forgot,\
+> > Till Time unnerves our vital powers,\
+> > And thou and I shall cease to be.
+> >  
+> > Can I forget---canst thou forget,\
+> > When playing with thy golden hair,\
+> > How quick thy fluttering heart did move?\
+> > Oh! by my soul, I see thee yet,\
+> > With eyes so languid, breast so fair,\
+> > And lips, though silent, breathing love.
+> >  
+> > When thus reclining on my breast,\
+> > Those eyes threw back a glance so sweet,\
+> > As half reproach'd yet rais'd desire,\
+> > And still we near and nearer prest,\
+> > And still our glowing lips would meet,\
+> > As if in kisses to expire.
+> >  
+> > And then those pensive eyes would close,\
+> > And bid their lids each other seek,\
+> > Veiling the azure orbs below;\
+> > While their long lashes' darken'd gloss\
+> > Seem'd stealing o'er thy brilliant cheek,\
+> > Like raven's plumage smooth'd on snow.
+> >  
+> > I dreamt last night our love return'd,\
+> > And, sooth to say, that very dream\
+> > Was sweeter in its phantasy,\
+> > Than if for other hearts I burn'd,\
+> > For eyes that ne'er like thine could beam\
+> > In Rapture's wild reality.
+> >  
+> > *__Then tell me not, remind me not,\
+> > Of hours which, though for ever gone,\
+> > Can still a pleasing dream restore,\
+> > Till Thou and I shall be forgot,\
+> > And senseless, as the mouldering stone\
+> > Which tells that we shall be no more.__*
+
+---
+
+> ## Vita Nuova by Oscar Wilde
+>  
+> > I stood by the unvintageable sea\
+> > Till the wet waves drenched face and hair with spray;\
+> > The long red fires of the dying day\
+> > Burned in the west; the wind piped drearily;\
+> > And to the land the clamorous gulls did flee:\
+> > ‘Alas!’ I cried, ‘my life is full of pain,\
+> > And who can garner fruit or golden grain\
+> > From these waste fields which travail ceaselessly!’\
+> > My nets gaped wide with many a break and flaw,\
+> > Nathless I threw them as my final cast\
+> > Into the sea, and waited for the end.\
+> > When lo! a sudden glory! and I saw\
+> > From the black waters of my tortured past\
+> > The argent splendour of white limbs ascend!
+
+---
+
+> ## Sea Fever by John Masefield
+>  
+> > I must go down to the seas again, to the lonely sea and the sky,\
+> > And all I ask is a tall ship and a star to steer her by;\
+> > And the wheel’s kick and the wind’s song and the white sail’s shaking,\
+> > And a grey mist on the sea’s face, and a grey dawn breaking.
+> >   
+> > I must go down to the seas again, for the call of the running tide\
+> > Is a wild call and a clear call that may not be denied;\
+> > And all I ask is a windy day with the white clouds flying,\
+> > And the flung spray and the blown spume, and the sea-gulls crying.
+> >  
+> > I must go down to the seas again, to the vagrant gypsy life,\
+> > To the gull’s way and the whale’s way where the wind’s like a whetted knife;\
+> > And all I ask is a merry yarn from a laughing fellow-rover,\
+> > And quiet sleep and a sweet dream when the long trick’s over.
+
+---
+
+> ## Simon Lee: The Old Huntsman by William Wordsworth
+>  
+> > In the sweet shire of Cardigan,\
+> > Not far from pleasant Ivor-hall,\
+> > An old Man dwells, a little man,—\
+> > 'Tis said he once was tall.\
+> > For five-and-thirty years he lived\
+> > A running huntsman merry;\
+> > And still the centre of his cheek\
+> > Is red as a ripe cherry.
+> >  
+> > No man like him the horn could sound,\
+> > And hill and valley rang with glee\
+> > When Echo bandied, round and round\
+> > The halloo of Simon Lee.\
+> > In those proud days, he little cared\
+> > For husbandry or tillage;\
+> > To blither tasks did Simon rouse\
+> > The sleepers of the village.
+> >  
+> > He all the country could outrun,\
+> > Could leave both man and horse behind;\
+> > And often, ere the chase was done,\
+> > He reeled, and was stone-blind.\
+> > And still there's something in the world\
+> > At which his heart rejoices;\
+> > For when the chiming hounds are out,\
+> > He dearly loves their voices!
+> >  
+> > But, oh the heavy change!—bereft\
+> > Of health, strength, friends, and kindred, see!\
+> > Old Simon to the world is left\
+> > In liveried poverty.\
+> > His Master's dead—and no one now\
+> > Dwells in the Hall of Ivor;\
+> > Men, dogs, and horses, all are dead;\
+> > He is the sole survivor.
+> >  
+> > And he is lean and he is sick;\
+> > His body, dwindled and awry,\
+> > Rests upon ankles swoln and thick;\
+> > His legs are thin and dry.\
+> > One prop he has, and only one,\
+> > His wife, an aged woman,\
+> > Lives with him, near the waterfall,\
+> > Upon the village Common.
+> >  
+> > Beside their moss-grown hut of clay,\
+> > Not twenty paces from the door,\
+> > A scrap of land they have, but they\
+> > Are poorest of the poor.\
+> > This scrap of land he from the heath\
+> > Enclosed when he was stronger;\
+> > But what to them avails the land\
+> > Which he can till no longer?
+> >  
+> > Oft, working by her Husband's side,\
+> > Ruth does what Simon cannot do;\
+> > For she, with scanty cause for pride,\
+> > Is stouter of the two.\
+> > And, though you with your utmost skill\
+> > From labour could not wean them,\
+> > 'Tis little, very little—all\
+> > That they can do between them.
+> >  
+> > Few months of life has he in store\
+> > As he to you will tell,\
+> > For still, the more he works, the more\
+> > Do his weak ankles swell.\
+> > My gentle Reader, I perceive,\
+> > How patiently you've waited,\
+> > And now I fear that you expect\
+> > Some tale will be related.
+> >  
+> > *__O Reader! had you in your mind\
+> > Such stores as silent thought can bring,\
+> > O gentle Reader! you would find\
+> > A tale in every thing.\
+> > What more I have to say is short,\
+> > And you must kindly take it:\
+> > It is no tale; but, should you think,\
+> > Perhaps a tale you'll make it.__*
+> >  
+> > One summer-day I chanced to see\
+> > This old Man doing all he could\
+> > To unearth the root of an old tree,\
+> > A stump of rotten wood.\
+> > The mattock tottered in his hand;\
+> > So vain was his endeavour,\
+> > That at the root of the old tree\
+> > He might have worked for ever.
+> >  
+> > "You're overtasked, good Simon Lee,\
+> > Give me your tool," to him I said;\
+> > And at the word right gladly he\
+> > Received my proffered aid.\
+> > I struck, and with a single blow\
+> > The tangled root I severed,\
+> > At which the poor old Man so long\
+> > And vainly had endeavoured.
+> >  
+> > The tears into his eyes were brought,\
+> > And thanks and praises seemed to run\
+> > So fast out of his heart, I thought\
+> > They never would have done.\
+> > —I've heard of hearts unkind, kind deeds\
+> > With coldness still returning;\
+> > Alas! the gratitude of men\
+> > Hath oftener left me mourning.
+
+---
+
+> ## The Meeting by Henry Wadsworth Longfellow
+>  
+> > After so long an absence\
+> >   At last we meet agin:\
+> > Does the meeting give us pleasure,\
+> >   Or does it give us pain?
+> >  
+> > The tree of life has been shaken,\
+> >   And but few of us linger now,\
+> > Like the prophets two or three berries\
+> >   In the top of the uppermost bough.
+> >  
+> > We cordially greet each other\
+> >   In the old, familiar tone;\
+> > And we think, though we do not say it,\
+> >   How old and gray he is grown!
+> >  
+> > We speak of a Merry Christmas\
+> >   And many a Happy New Year;\
+> > But each in his heart is thinking\
+> >   Of those that are not here.
+> >  
+> > We speak of friends and their fortunes,\
+> >   And of what they did and said,\
+> > Till the dead alone seem living,\
+> >   And the living alone seem dead.
+> >  
+> > And at last we hardly distinguish\
+> >   Between the ghosts and the guests;\
+> > And a mist and shadow of sadness\
+> >   Steals over our merriest jests.
+
+---
+
+> ## A Song of Flight by Christina Rossetti
+>  
+> > While we slumber and sleep,\
+> > The sun leaps up from the deep,--\
+> > Daylight born at the leap,--\
+> > Rapid, dominant, free,\
+> > Athirst to bathe in the uttermost sea.
+> >  
+> > While we linger at play--\
+> > If the year would stand at May!--\
+> > Winds are up and away,\
+> > Over land, over sea,\
+> > To their goal, wherever their goal may be.
+> >  
+> > It is time to arise,\
+> > To race for the promised prize;\
+> > The sun flies, the wind flies,\
+> > We are strong, we are free,\
+> > And home lies beyond the stars and the sea.
+
+---
+
+> ## La Fuite De La Lune by Oscar Wilde (The Moon's Escape)
+>  
+> > To outer senses there is peace,\
+> > A dreamy peace on either hand\
+> > Deep silence in the shadowy land,\
+> > Deep silence where the shadows cease.
+> >  
+> > Save for a cry that echoes shrill\
+> > From some lone bird disconsolate;\
+> > A corncrake calling to its mate;\
+> > The answer from the misty hill.
+> >  
+> > And suddenly the moon withdraws\
+> > Her sickle from the lightening skies,\
+> > And to her sombre cavern flies,\
+> > Wrapped in a veil of yellow gauze.
+
+---
+
+> ## Time by Percy Bysshe Shelly
+>  
+> > Unfathomable Sea! whose waves are years,\
+> > Ocean of Time, whose waters of deep woe\
+> > Are brackish with the salt of human tears!\
+> > Thou shoreless flood, which in thy ebb and flow\
+> > Claspest the limits of mortality,
+> >  
+> > And sick of prey, yet howling on for more,\
+> > Vomitest thy wrecks on its inhospitable shore;\
+> > Treacherous in calm, and terrible in storm,\
+> > Who shall put forth on thee,\
+> > Unfathomable Sea?
+
+---
+
+> ## The Two Spirits: An Allegory by Percy Bysshe Shelly
+>  
+> > FIRST SPIRIT\
+> > O thou, who plum'd with strong desire\
+> > Wouldst float above the earth, beware!\
+> > A Shadow tracks thy flight of fire--\
+> > Night is coming!\
+> > Bright are the regions of the air,\
+> > And among the winds and beams\
+> > It were delight to wander there--\
+> > Night is coming!
+> >
+> > SECOND SPIRIT\
+> > The deathless stars are bright above;\
+> > If I would cross the shade of night,\
+> > Within my heart is the lamp of love,\
+> > And that is day!\
+> > And the moon will smile with gentle light\
+> > On my golden plumes where'er they move;\
+> > The meteors will linger round my flight,\
+> > And make night day.
+> >  
+> > FIRST SPIRIT\
+> > But if the whirlwinds of darkness waken\
+> > Hail, and lightning, and stormy rain;\
+> > See, the bounds of the air are shaken--\
+> > Night is coming!\
+> > The red swift clouds of the hurricane\
+> > Yon declining sun have overtaken,\
+> > The clash of the hail sweeps over the plain--\
+> > Night is coming!
+> >  
+> > SECOND SPIRIT\
+> > I see the light, and I hear the sound;\
+> > I'll sail on the flood of the tempest dark,\
+> > With the calm within and the light around\
+> > Which makes night day:\
+> > And thou, when the gloom is deep and stark,\
+> > Look from thy dull earth, slumber-bound,\
+> > My moon-like flight thou then mayst mark\
+> > On high, far away.----
+> >  
+> > Some say there is a precipice\
+> > Where one vast pine is frozen to ruin\
+> > O'er piles of snow and chasms of ice\
+> > Mid Alpine mountains;\
+> > And that the languid storm pursuing\
+> > That winged shape, for ever flies\
+> > Round those hoar branches, aye renewing\
+> > Its aëry fountains.
+> >  
+> > *__Some say when nights are dry and dear,\
+> > And the death-dews sleep on the morass,\
+> > Sweet whispers are heard by the traveller,\
+> > Which make night day:\
+> > And a silver shape like his early love doth pass\
+> > Upborne by her wild and glittering hair,\
+> > And when he awakes on the fragrant grass,\
+> > He finds night day.__*
+
+---
+
+> ## Nemesis by H.P. Lovecraft
+>  
+> > Through the ghoul-guarded gateways of slumber,\
+> > Past the wan-mooned abysses of night,\
+> > I have lived o'er my lives without number,\
+> > I have sounded all things with my sight;\
+> > And I struggle and shriek ere the daybreak, being driven to madness with fright.
+> >  
+> > I have whirled with the earth at the dawning,\
+> > When the sky was a vaporous flame;\
+> > I have seen the dark universe yawning\
+> > Where the black planets roll without aim,\
+> > Where they roll in their horror unheeded, without knowledge or lustre or name.
+> >  
+> > I had drifted o'er seas without ending,\
+> > Under sinister grey-clouded skies,\
+> > That the many-forked lightning is rending,\
+> > That resound with hysterical cries;\
+> > With the moans of invisible daemons, that out of the green waters rise.
+> >  
+> > I have plunged like a deer through the arches\
+> > Of the hoary primoridal grove,\
+> > Where the oaks feel the presence that marches,\
+> > And stalks on where no spirit dares rove,\
+> > And I flee from a thing that surrounds me, and leers through dead branches above.
+> >  
+> > I have stumbled by cave-ridden mountains\
+> > That rise barren and bleak from the plain,\
+> > I have drunk of the fog-foetid fountains\
+> > That ooze down to the marsh and the main;\
+> > And in hot cursed tarns I have seen things, I care not to gaze on again.
+> >  
+> > I have scanned the vast ivy-clad palace,\
+> > I have trod its untenanted hall,\
+> > Where the moon rising up from the valleys\
+> > Shows the tapestried things on the wall;\
+> > Strange figures discordantly woven, that I cannot endure to recall.
+> >  
+> > I have peered from the casements in wonder\
+> > At the mouldering meadows around,\
+> > At the many-roofed village laid under\
+> > The curse of a grave-girdled ground;\
+> > And from rows of white urn-carven marble, I listen intently for sound.
+> >  
+> > I have haunted the tombs of the ages,\
+> > I have flown on the pinions of fear,\
+> > Where the smoke-belching Erebus rages;\
+> > Where the jokulls loom snow-clad and drear:\
+> > And in realms where the sun of the desert consumes what it never can cheer.
+> >  
+> > I was old when the pharaohs first mounted\
+> > The jewel-decked throne by the Nile;\
+> > I was old in those epochs uncounted\
+> > When I, and I only, was vile;\
+> > And Man, yet untainted and happy, dwelt in bliss on the far Arctic isle.
+> >  
+> > *__Oh, great was the sin of my spirit,\
+> > And great is the reach of its doom;\
+> > Not the pity of Heaven can cheer it,\
+> > Nor can respite be found in the tomb:\
+> > Down the infinite aeons come beating the wings of unmerciful gloom.__*
+> >  
+> > Through the ghoul-guarded gateways of slumber,\
+> > Past the wan-mooned abysses of night,\
+> > I have lived o'er my lives without number,\
+> > I have sounded all things with my sight;\
+> > And I struggle and shriek ere the daybreak, being driven to madness with fright.
+
+---
+
+> ## Hymn of Apollo by Percy Bysshe Shelley
+>  
+> > The sleepless Hours who watch me as I lie,\
+> > Curtained with star-inwoven tapestries,\
+> > From the broad moonlight of the sky,\
+> > Fanning the busy dreams from my dim eyes, -\
+> > Waken me when their Mother, the gray Dawn,\
+> > Tells them that dreams and that the moon is gone.
+> >  
+> > Then I arise, and climbing Heaven's blue dome,\
+> > I walk over the mountains and the waves,\
+> > Leaving my robe upon the ocean foam;\
+> > My footsteps pave the clouds with fire; the caves\
+> > Are filled with my bright presence, and the air\
+> > Leaves the green Earth to my embraces bare.
+> >  
+> > The sunbeams are my shafts, with which I kill\
+> > Deceit, that loves the night and fears the day;\
+> > All men who do or even imagine ill\
+> > Fly me, and from the glory of my ray\
+> > Good minds and open actions take new might,\
+> > Until diminished by the reign of Night.
+> >  
+> > I feed the clouds, the rainbows, and the flowers,\
+> > With their ethereal colors; the Moon's globe,\
+> > And the pure stars in their eternal bowers,\
+> > Are cinctured with my power as with a robe;\
+> > Whatever lamps on Earth or Heaven may shine,\
+> > Are portions of one power, which is mine.
+> >  
+> > I stand at noon upon the peak of Heaven;\
+> > Then with unwilling steps I wander down\
+> > Into the clouds of the Atlantic even;\
+> > For grief that I depart they weep and frown:\
+> > What look is more delightful than the smile\
+> > With which I soothe them from the western isle?
+> >  
+> > I am the eye with which the Universe\
+> > Beholds itself, and knows it is divine;\
+> > All harmony of instrument or verse,\
+> > All prophecy, all medicine, is mine,\
+> > All light of art or nature; - to my song\
+> > Victory and praise in its own right belong.
+
+---
+
+> ## Recollections of Love by Samuel Taylor Coleridge
+>  
+> > *__How warm this woodland wild Recess !\
+> > Love surely hath been breathing here ;\
+> > And this sweet bed of heath, my dear !\
+> > Swells up, then sinks with faint caress,\
+> > As if to have you yet more near.__*
+> >  
+> > Eight springs have flown, since last I lay\
+> > On sea-ward Quantock's heathy hills,\
+> > Where quiet sounds from hidden rills\
+> > Float hear and there, like things astray,\
+> > And high o'er head the sky-lark shrills.
+> >  
+> > No voice as yet had made the air\
+> > Be music with your name ; yet why\
+> > That asking look ? that yearning sigh ?\
+> > That sense of promise every where ?\
+> > Belovéd ! flew your spirit by ?
+> >  
+> > As when a mother doth explore\
+> > The rose-mark on her long-lost child,\
+> > I met, I loved you, maiden mild !\
+> > As whom I long had loved before--\
+> > So deeply had I been beguiled.
+> >  
+> > You stood before me like a thought,\
+> > A dream remembered in a dream.\
+> > But when those meek eyes first did seem\
+> > To tell me, Love within you wrought--\
+> > O Greta, dear domestic stream !
+> >  
+> > Has not, since then, Love's prompture deep,\
+> > Has not Love's whisper evermore\
+> > Been ceaseless, as thy gentle roar ?\
+> > Sole voice, when other voices sleep,\
+> > Dear under-song in clamor's hour.
+
+---
+
+> ## When I have fears by John Keats
+>  
+> > When I have fears that I may cease to be\
+> > Before my pen has glean'd my teeming brain,\
+> > Before high-piled books, in charactery,\
+> > Hold like rich garners the full ripen'd grain;
+> >  
+> > When I behold, upon the night's starr'd face,\
+> > Huge cloudy symbols of a high romance,\
+> > And think that I may never live to trace\
+> > Their shadows, with the magic hand of chance;
+> >  
+> > And when I feel, fair creature of an hour,\
+> > That I shall never look upon thee more,\
+> > Never have relish in the faery power\
+> > Of unreflecting love;--then on the shore
+> >  
+> > Of the wide world I stand alone, and think\
+> > Till love and fame to nothingness do sink.
+
+---
+
+> ## The Nightingale by Mark Akenside
+>  
+> > To-night retired, the queen of heaven\
+> > With young Endymion stays;\
+> > And now to Hesper it is given\
+> > Awhile to rule the vacant sky,\
+> > Till she shall to her lamp supply\
+> > A stream of brighter rays.
+> >  
+> > Propitious send thy golden ray,\
+> > Thou purest light above!\
+> > Let no false flame seduce to stray\
+> > Where gulf or steep lie hid for harm;\
+> > But lead where music's healing charm\
+> > May soothe afflicted love.
+> >  
+> > To them, by many a grateful song\
+> > In happier seasons vow'd,\
+> > These lawns, Olympia's haunts, belong:\
+> > Oft by yon silver stream we walk'd,\
+> > Or fix'd, while Philomela talk'd,\
+> > Beneath yon copses stood.
+> >  
+> > Nor seldom, where the beechen boughs\
+> > That roofless tower invade,\
+> > We came, while her enchanting Muse\
+> > The radiant moon above us held:\
+> > Till, by a clamorous owl compell'd,\
+> > She fled the solemn shade.
+> >  
+> > But hark! I hear her liquid tone!\
+> > Now Hesper guide my feet!\
+> > Down the red marl with moss o'ergrown,\
+> > Through yon wild thicket next the plain,\
+> > Whose hawthorns choke the winding lane\
+> > Which leads to her retreat.
+> >  
+> > See the green space: on either hand\
+> > Enlarged it spreads around:\
+> > See, in the midst she takes her stand,\
+> > Where one old oak his awful shade\
+> > Extends o'er half the level mead,\
+> > Enclosed in woods profound.
+> >  
+> > Hark! how through many a melting note\
+> > She now prolongs her lays:\
+> > How sweetly down the void they float!\
+> > The breeze their magic path attends;\
+> > The stars shine out; the forest bends;\
+> > The wakeful heifers graze.
+> >  
+> > Whoe'er thou art whom chance may bring\
+> > To this sequester'd spot,\
+> > If then the plaintive Siren sing,\
+> > O softly tread beneath her bower\
+> > And think of Heaven's disposing power,\
+> > Of man's uncertain lot.
+> >  
+> > *__O think, o'er all this mortal stage\
+> > What mournful scenes arise:\
+> > What ruin waits on kingly rage;\
+> > How often virtue dwells with woe;\
+> > How many griefs from knowledge flow;\
+> > How swiftly pleasure flies!__*
+> >  
+> > O sacred bird! let me at eve,\
+> > Thus wandering all alone,\
+> > Thy tender counsel oft receive,\
+> > Bear witness to thy pensive airs,\
+> > And pity Nature's common cares,\
+> > Till I forget my own.
+
+---
+
+> ## The Tables Turned by William Wordworth
+>  
+> > Up! up! my Friend, and quit your books;\
+> > Or surely you’ll grow double:\
+> > Up! up! my Friend, and clear your looks;\
+> > Why all this toil and trouble?
+> >  
+> > The sun above the mountain’s head,\
+> > A freshening lustre mellow\
+> > Through all the long green fields has spread,\
+> > His first sweet evening yellow.
+> >  
+> > Books! ’tis a dull and endless strife:\
+> > Come, hear the woodland linnet,\
+> > How sweet his music! on my life,\
+> > There’s more of wisdom in it.
+> >  
+> > And hark! how blithe the throstle sings!\
+> > He, too, is no mean preacher:\
+> > Come forth into the light of things,\
+> > Let Nature be your teacher.
+> >  
+> > She has a world of ready wealth,\
+> > Our minds and hearts to bless—\
+> > Spontaneous wisdom breathed by health,\
+> > Truth breathed by cheerfulness.
+> >  
+> > One impulse from a vernal wood\
+> > May teach you more of man,\
+> > Of moral evil and of good,\
+> > Than all the sages can.
+> >  
+> > Sweet is the lore which Nature brings;\
+> > Our meddling intellect\
+> > Mis-shapes the beauteous forms of things:—\
+> > We damned to dissect.
+> >  
+> > Enough of Science and of Art;\
+> > Close up those barren leaves;\
+> > Come forth, and bring with you a heart\
+> > That watches and receives.
+
+---
+
+> ## Sonnet - Silence by Edgar Allan Poe
+>  
+> > There are some qualities- some incorporate things,\
+> > That have a double life, which thus is made\
+> > A type of that twin entity which springs\
+> > From matter and light, evinced in solid and shade.\
+> > There is a two-fold Silence- sea and shore-\
+> > Body and soul. One dwells in lonely places,\
+> > Newly with grass o'ergrown; some solemn graces,\
+> > Some human memories and tearful lore,\
+> > Render him terrorless: his name's "No More."\
+> > He is the corporate Silence: dread him not!\
+> > No power hath he of evil in himself;\
+> > But should some urgent fate (untimely lot!)\
+> > Bring thee to meet his shadow (nameless elf,\
+> > That haunteth the lone regions where hath trod\
+> > No foot of man,) commend thyself to God!
+
+---
+
+> ## O Do Not Love Too Long by William Butler Yeats
+>  
+> > SWEETHEART, do not love too long:\
+> > I loved long and long,\
+> > And grew to be out of fashion\
+> > Like an old song.\
+> > All through the years of our youth\
+> > Neither could have known\
+> > Their own thought from the other's,\
+> > We were so much at one.\
+> > But O, in a minute she changed --\
+> > O do not love too long,\
+> > Or you will grow out of fashion\
+> > Like an old song.
+
+---
+
+> ## The Presence Of Love by Samuel Taylor Coleridge
+>  
+> > And in Life's noisiest hour,\
+> > There whispers still the ceaseless Love of Thee,\
+> > The heart's Self-solace and soliloquy.
+> >  
+> > You mould my Hopes, you fashion me within ;\
+> > And to the leading Love-throb in the Heart\
+> > Thro' all my Being, thro' my pulses beat ;\
+> > You lie in all my many Thoughts, like Light,\
+> > Like the fair light of Dawn, or summer Eve\
+> > On rippling Stream, or cloud-reflecting Lake.\
+> > And looking to the Heaven, that bends above you,\
+> > How oft ! I bless the Lot, that made me love you. 
+
+---
+
+> ## The Pilgrims by John Mccrae
+>  
+> > An uphill path, sun-gleams between the showers,\
+> >     Where every beam that broke the leaden sky\
+> > Lit other hills with fairer ways than ours;\
+> >     Some clustered graves where half our memories lie;\
+> > And one grim Shadow creeping ever nigh:\
+> >         And this was Life.
+> >  
+> > Wherein we did another's burden seek,\
+> >     The tired feet we helped upon the road,\
+> > The hand we gave the weary and the weak,\
+> >     The miles we lightened one another's load,\
+> > When, faint to falling, onward yet we strode:\
+> >         This too was Life.
+> >  
+> > Till, at the upland, as we turned to go\
+> >     Amid fair meadows, dusky in the night,\
+> > The mists fell back upon the road below;\
+> >     Broke on our tired eyes the western light;\
+> > The very graves were for a moment bright:\
+> >         And this was Death.
+
+---
+
+> ## If I had but Two Little Wings by Samuel Taylor Coleridge
+>  
+> > If I had but two little wings\
+> > And were a little feathery bird,\
+> > To you I'd fly, my dear!\
+> > But thoughts like these are idle things\
+> > And I stay here.
+> >  
+> > But in my sleep to you I fly:\
+> > I'm always with you in my sleep!\
+> > The world is all one's own.\
+> > But then one wakes, and where am I?\
+> > All, all alone.
+> >  
+> > Sleep stays not, though a monarch bids:\
+> > So I love to wake ere break of day:\
+> > For though my sleep be gone,\
+> > Yet while 'tis dark, one shuts one's lids,\
+> > And still dreams on.
+
+---
+
+> ## In Flanders fields by John Mccrae
+>  
+> > In Flanders fields the poppies blow\
+> > Between the crosses, row on row,\
+> >     That mark our place; and in the sky\
+> >     The larks, still bravely singing, fly\
+> > Scarce heard amid the guns below.
+> >  
+> > We are the Dead. Short days ago\
+> > We lived, felt dawn, saw sunset glow,\
+> >     Loved and were loved, and now we lie,\
+> >         In Flanders fields.
+> >  
+> > Take up our quarrel with the foe:\
+> > To you from failing hands we throw\
+> >     The torch; be yours to hold it high.\
+> >     If ye break faith with us who die\
+> > We shall not sleep, though poppies grow\
+> >         In Flanders fields.
+
+---
+
+> ## Her Voice by Oscar Wilde
+>  
+> > The wild bee reels from bough to bough\
+> >     With his furry coat and his gauzy wing.\
+> > Now in a lily-cup, and now\
+> >     Setting a jacinth bell a-swing,\
+> >             In his wandering;\
+> > Sit closer love: it was here I trow\
+> >             I made that vow,
+> >  
+> > *__Swore that two lives should be like one\
+> >     As long as the sea-gull loved the sea,\
+> > As long as the sunflower sought the sun,—\
+> >     It shall be, I said, for eternity\
+> >             ‘Twixt you and me!\
+> > Dear friend, those times are over and done.\
+> >             Love’s web is spun.__*
+> >  
+> > Look upward where the poplar trees\
+> >     Sway in the summer air,\
+> > Here n the valley never a breeze\
+> >     Scatters the thistledown, but there\
+> >             Great winds blow fair\
+> > From the mighty murmuring mystical seas,\
+> >             And the wave-lashed leas.
+> >  
+> > Look upward where the white gull screams,\
+> >     What does it see that we do not see?\
+> > Is that a star? or the lamp that gleams\
+> >     On some outward voyaging argosy,—\
+> >             Ah! can it be\
+> > We have lived our lives in a land of dreams!\
+> >             How sad it seems.
+> >  
+> > Sweet, there is nothing left to say\
+> >     But this, that love is never lost,\
+> > Keen winter stabs the breasts of May\
+> >     Whose crimson roses burst his frost,\
+> >             Ships tempest-tossed\
+> > Will find a harbor in some bay,\
+> >             And so we may.
+> >  
+> > And there is nothing left to do\
+> >     But to kiss once again, and part,\
+> > Nay, there is nothing we should rue,\
+> >     I have my beauty,—you your Art,\
+> >             Nay, do not start,\
+> > One world was not enough for two\
+> >             Like me and you.
+
+---
+
+> ## Roses And Rue by Oscar Wilde
+>  
+> > *__Could we dig up this long-buried treasure,\
+> > Were it worth the pleasure,\
+> > We never could learn love's song,\
+> > We are parted too long__*
+> >  
+> > *__Could the passionate past that is fled\
+> > Call back its dead,\
+> > Could we live it all over again,\
+> > Were it worth the pain!__*
+> >  
+> > I remember we used to meet\
+> > By an ivied seat,\
+> > And you warbled each pretty word\
+> > With the air of a bird;
+> >  
+> > And your voice had a quaver in it,\
+> > Just like a linnet,\
+> > And shook, as the blackbird's throat\
+> > With its last big note;
+> >  
+> > And your eyes, they were green and grey\
+> > Like an April day,\
+> > But lit into amethyst\
+> > When I stooped and kissed;
+> >  
+> > And your mouth, it would never smile\
+> > For a long, long while,\
+> > Then it rippled all over with laughter\
+> > Five minutes after.
+> >  
+> > You were always afraid of a shower,\
+> > Just like a flower:\
+> > I remember you started and ran\
+> > When the rain began.
+> >  
+> > I remember I never could catch you,\
+> > For no one could match you,\
+> > You had wonderful, luminous, fleet,\
+> > Little wings to your feet.
+> >  
+> > I remember your hair - did I tie it?\
+> > For it always ran riot -\
+> > Like a tangled sunbeam of gold:\
+> > These things are old.
+> >  
+> > I remember so well the room,\
+> > And the lilac bloom\
+> > That beat at the dripping pane\
+> > In the warm June rain;
+> >  
+> > And the colour of your gown,\
+> > It was amber-brown,\
+> > And two yellow satin bows\
+> > From the shoulders rose.
+> >  
+> > And the handkerchief of French lace\
+> > Which you held to your face-\
+> > Had a small tear left a stain?\
+> > Or was it the rain?
+> >  
+> > On your hand as it waved adieu\
+> > There were veins of blue;\
+> > In your voice as it said good-bye\
+> > Was a petulant cry,
+> >  
+> > "You have only wasted your life."\
+> > (Ah, that was the knife!)\
+> > When I rushed through the garden gate\
+> > It was all too late.
+> >  
+> > Could we live it over again,\
+> > Were it worth the pain,\
+> > Could the passionate past that is fled\
+> > Call back its dead!
+> >  
+> > Well, if my heart must break,\
+> > Dear love, for your sake,\
+> > It will break in music, I know,\
+> > Poets' hearts break so.
+> >  
+> > But strange that I was not told\
+> > That the brain can hold\
+> > In a tiny ivory cell\
+> > God's heaven and hell. 
+
+---
+
+> ## The Pains of Sleep by Samuel Taylor Coleridge
+>
+> > But yester-night I prayed aloud\
+> > In anguish and in agony,\
+> > Up-starting from the fiendish crowd\
+> > Of shapes and thoughts that tortured me :\
+> > A lurid light, a trampling throng,\
+> > Sense of intolerable wrong,\
+> > And whom I scorned, those only strong !\
+> > Thirst of revenge, the powerless will\
+> > Still baffled, and yet burning still !
+> >  
+> > *__Desire with loathing strangely mixed\
+> > On wild or hateful objects fixed.\
+> > Fantastic passions ! maddening brawl !\
+> > And shame and terror over all !__*\
+> > Deeds to be hid which were not hid,\
+> > Which all confused I could not know\
+> > Whether I suffered, or I did :\
+> > For all seemed guilt, remorse or woe,\
+> > My own or others still the same\
+> > Life-stifling fear, soul-stifling shame.
+
+---
+
+> ## Her Anxiety by William Butler Yeats
+>  
+> > Earth in beauty dressed\
+> > Awaits returning spring.\
+> > All true love must die,\
+> > Alter at the best\
+> > Into some lesser thing.\
+> > Prove that I lie.
+> >  
+> > Such body lovers have,\
+> > Such exacting breath,\
+> > That they touch or sigh.\
+> > Every touch they give,\
+> > Love is nearer death.\
+> > Prove that I lie.
+
+---
+
+> ## A Drunken Man's Praise Of Sobriety by William Butler Yeats
+>  
+> > COME swish around, my pretty punk,\
+> > And keep me dancing still\
+> > That I may stay a sober man\
+> > Although I drink my fill.
+> >  
+> > Sobriety is a jewel\
+> > That I do much adore;\
+> > And therefore keep me dancing\
+> > Though drunkards lie and snore.\
+> > O mind your feet, O mind your feet,\
+> > Keep dancing like a wave,\
+> > And under every dancer\
+> > A dead man in his grave.\
+> > No ups and downs, my pretty,\
+> > A mermaid, not a punk;\
+> > A drunkard is a dead man,\
+> > And all dead men are drunk.
+
+---
+
+> ## The Half Moon by Christina Rossetti
+>  
+> > The half moon shows a face of plaintive sweetness\
+> >   Ready and poised to wax or wane;\
+> > A fire of pale desire in incompleteness,\
+> >   Tending to pleasure or to pain:--\
+> > Lo, while we gaze she rolleth on in fleetness\
+> >   To perfect loss or perfect gain.
+> >  
+> > Half bitterness we know, we know half sweetness;\
+> >   This world is all on wax, on wane:\
+> > When shall completeness round time's incompleteness,\
+> >   Fulfilling joy, fulfilling pain?--\
+> > Lo, while we ask, life rolleth on in fleetness\
+> >   To finished loss or finished gain.
+
+---
+
+> ## A Valediction: Forbidding Mourning By John Donne
+>  
+> > As virtuous men pass mildly away,\
+> >    And whisper to their souls to go,\
+> > Whilst some of their sad friends do say\
+> >    The breath goes now, and some say, No:
+> >  
+> > So let us melt, and make no noise,\
+> >    No tear-floods, nor sigh-tempests move;\
+> > 'Twere profanation of our joys\
+> >    To tell the laity our love.
+> >  
+> > Moving of th' earth brings harms and fears,\
+> >    Men reckon what it did, and meant;\
+> > But trepidation of the spheres,\
+> >    Though greater far, is innocent.
+> >  
+> > Dull sublunary lovers' love\
+> >    (Whose soul is sense) cannot admit\
+> > Absence, because it doth remove\
+> >    Those things which elemented it.
+> >  
+> > But we by a love so much refined,\
+> >    That our selves know not what it is,\
+> > Inter-assured of the mind,\
+> >    Care less, eyes, lips, and hands to miss.
+> >  
+> > Our two souls therefore, which are one,\
+> >    Though I must go, endure not yet\
+> > A breach, but an expansion,\
+> >    Like gold to airy thinness beat.
+> >  
+> > If they be two, they are two so\
+> >    As stiff twin compasses are two;\
+> > Thy soul, the fixed foot, makes no show\
+> >    To move, but doth, if the other do.
+> >  
+> > And though it in the center sit,\
+> >    Yet when the other far doth roam,\
+> > It leans and hearkens after it,\
+> >    And grows erect, as that comes home.
+> >  
+> > Such wilt thou be to me, who must,\
+> >    Like th' other foot, obliquely run;\
+> > Thy firmness makes my circle just,\
+> >    And makes me end where I begun.
+
+---
+
+> ## The Pains Of Sleep by Samuel Taylor Coleridge
+>  
+> > *__Ere on my bed my limbs I lay,\
+> > It hath not been my use to pray\
+> > With moving lips or bended knees;\
+> > But silently, by slow degrees,\
+> > My spirit I to Love compose,\
+> > In humble trust mine eye-lids close,\
+> > With reverential resignation\
+> > No wish conceived, no thought exprest,\
+> > Only a sense of supplication;\
+> > A sense o'er all my soul imprest\
+> > That I am weak, yet not unblest,\
+> > Since in me, round me, every where\
+> > Eternal strength and Wisdom are.__*
+> >  
+> > But yester-night I prayed aloud\
+> > In anguish and in agony,\
+> > Up-starting from the fiendish crowd\
+> > Of shapes and thoughts that tortured me:\
+> > A lurid light, a trampling throng,\
+> > Sense of intolerable wrong,\
+> > And whom I scorned, those only strong!\
+> > Thirst of revenge, the powerless will\
+> > Still baffled, and yet burning still!\
+> > Desire with loathing strangely mixed\
+> > On wild or hateful objects fixed.\
+> > Fantastic passions! maddening brawl!\
+> > And shame and terror over all!\
+> > Deeds to be hid which were not hid,\
+> > Which all confused I could not know\
+> > Whether I suffered, or I did:\
+> > For all seemed guilt, remorse or woe,\
+> > My own or others still the same\
+> > Life-stifling fear, soul-stifling shame.
+> >  
+> > So two nights passed: the night's dismay\
+> > Saddened and stunned the coming day.\
+> > Sleep, the wide blessing, seemed to me\
+> > Distemper's worst calamity.\
+> > The third night, when my own loud scream\
+> > Had waked me from the fiendish dream,\
+> > O'ercome with sufferings strange and wild,\
+> > I wept as I had been a child;\
+> > And having thus by tears subdued\
+> > My anguish to a milder mood,\
+> > Such punishments, I said, were due\
+> > To natures deepliest stained with sin,—\
+> > For aye entempesting anew\
+> > The unfathomable hell within,\
+> > The horror of their deeds to view,\
+> > To know and loathe, yet wish and do!\
+> > Such griefs with such men well agree,\
+> > But wherefore, wherefore fall on me?\
+> > To be loved is all I need,\
+> > And whom I love, I love indeed. 
+
+---
+
+> ## The Nature by Henry David Thoreau
+>  
+> > Mine are the night and morning,\
+> > The pits of air, the gull of space,\
+> > The sportive sun, the gibbous moon,\
+> > The innumerable days.
+> >  
+> > I hide in the solar glory,\
+> > I am dumb in the pealing song,\
+> > I rest on the pitch of the torrent,\
+> > In slumber I am strong.
+> >  
+> > No numbers have counted my tallies,\
+> > No tribes my house can fill,\
+> > I sit by the shining Fount of Life\
+> > And pour the deluge still;
+> >  
+> > And ever by delicate powers\
+> > Gathering along the centuries\
+> > From race on race the rarest flowers,\
+> > My wreath shall nothing miss.
+> >  
+> > And many a thousand summers\
+> > My gardens ripened well,\
+> > And light from meliorating stars\
+> > With firmer glory fell.
+> >  
+> > I wrote the past in characters\
+> > Of rock and fire the scroll,\
+> > The building in the coral sea,\
+> > The planting of the coal.
+> >  
+> > *__And thefts from satellites and rings\
+> > And broken stars I drew,\
+> > And out of spent and aged things\
+> > I formed the world anew;__*
+> >  
+> > What time the gods kept carnival,\
+> > Tricked out in star and flower,\
+> > And in cramp elf and saurian forms\
+> > They swathed their too much power.
+> >  
+> > Time and Thought were my surveyors,\
+> > They laid their courses well,\
+> > They boiled the sea, and piled the layers\
+> > Of granite, marl and shell.
+> >  
+> > But he, the man-child glorious, -\
+> > Where tarries he the while?\
+> > The rainbow shines his harbinger,\
+> > The sunset gleams his smile.
+> >  
+> > My boreal lights leap upward,\
+> > Forthright my planets roll,\
+> > And still the man-child is not born,\
+> > The summit of the whole.
+> >  
+> > Must time and tide forever run?\
+> > Will never my winds go sleep in the west?\
+> > Will never my wheels which whirl the sun\
+> > And satellites have rest?
+> >  
+> > Too much of donning and doffing,\
+> > Too slow the rainbow fades,\
+> > I weary of my robe of snow,\
+> > My leaves and my cascades;
+> >  
+> > I tire of globes and races,\
+> > Too long the game is played;\
+> > What without him is summer's pomp,\
+> > Or winter's frozen shade?
+> >  
+> > I travail in pain for him,\
+> > My creatures travail and wait;\
+> > His couriers come by squadrons,\
+> > He comes not to the gate.
+> >  
+> > Twice I have moulded an image,\
+> > And thrice outstretched my hand,\
+> > Made one of day and one of night\
+> > And one of the salt sea-sand.
+> >  
+> > One in a Judaean manger,\
+> > And one by Avon stream,\
+> > One over against the mouths of Nile,\
+> > And one in the Academe.
+> >  
+> > I moulded kings and saviors,\
+> > And bards o'er kings to rule; -\
+> > But fell the starry influence short,\
+> > The cup was never full.
+> >  
+> > Yet whirl the glowing wheels once more,\
+> > And mix the bowl again;\
+> > Seethe, Fate! the ancient elements,\
+> > Heat, cold, wet, dry, and peace, and pain.
+> >  
+> > Let war and trade and creeds and song\
+> > Blend, ripen race on race,\
+> > The sunburnt world a man shall breed\
+> > Of all the zones and countless days.
+> >  
+> > No ray is dimmed, no atom worn,\
+> > My oldest force is good as new,\
+> > And the fresh rose on yonder thorn\
+> > Gives back the bending heavens in dew.
+
+---
+
+> ## Indeed indeed, I cannot tell by Henry David Thoreau
+>  
+> > Indeed indeed, I cannot tell,\
+> > Though I ponder on it well,\
+> > Which were easier to state,\
+> > All my love or all my hate.\
+> > Surely, surely, thou wilt trust me\
+> > When I say thou dost disgust me.\
+> > O, I hate thee with a hate\
+> > That would fain annihilate;\
+> > Yet sometimes against my will,\
+> > My dear friend, I love thee still.\
+> > It were treason to our love,\
+> > And a sin to God above,\
+> > One iota to abate\
+> > Of a pure impartial hate.
+
+---
+
+> ## My Garden by Ralph Waldo Emerson
+>  
+> > If I could put my woods in song\
+> > And tell what's there enjoyed,\
+> > All men would to my gardens throng,\
+> > And leave the cities void.
+> >  
+> > In my plot no tulips blow,--\
+> > Snow-loving pines and oaks instead;\
+> > And rank the savage maples grow\
+> > From Spring's faint flush to Autumn red.
+> >  
+> > My garden is a forest ledge\
+> > Which older forests bound;\
+> > The banks slope down to the blue lake-edge,\
+> > Then plunge to depths profound.
+> >  
+> > Here once the Deluge ploughed,\
+> > Laid the terraces, one by one;\
+> > Ebbing later whence it flowed,\
+> > They bleach and dry in the sun.
+> >  
+> > The sowers made haste to depart,--\
+> > The wind and the birds which sowed it;\
+> > Not for fame, nor by rules of art,\
+> > Planted these, and tempests flowed it.
+> >  
+> > Waters that wash my garden-side\
+> > Play not in Nature's lawful web,\
+> > They heed not moon or solar tide,--\
+> > Five years elapse from flood to ebb.
+> >  
+> > Hither hasted, in old time, Jove,\
+> > And every god,--none did refuse;\
+> > And be sure at last came Love,\
+> > And after Love, the Muse.
+> >  
+> > Keen ears can catch a syllable,\
+> > As if one spake to another,\
+> > In the hemlocks tall, untamable,\
+> > And what the whispering grasses smother.
+> >  
+> > Æolian harps in the pine\
+> > Ring with the song of the Fates;\
+> > Infant Bacchus in the vine,--\
+> > Far distant yet his chorus waits.
+> >  
+> > Canst thou copy in verse one chime\
+> > Of the wood-bell's peal and cry,\
+> > Write in a book the morning's prime,\
+> > Or match with words that tender sky?
+> >  
+> > *__Wonderful verse of the gods,\
+> > Of one import, of varied tone;\
+> > They chant the bliss of their abodes\
+> > To man imprisoned in his own.__*
+> >  
+> > *__Ever the words of the gods resound;\
+> > But the porches of man's ear\
+> > Seldom in this low life's round\
+> > Are unsealed, that he may hear.__*
+> >  
+> > Wandering voices in the air\
+> > And murmurs in the wold\
+> > Speak what I cannot declare,\
+> > Yet cannot all withhold.
+> >  
+> > When the shadow fell on the lake,\
+> > The whirlwind in ripples wrote\
+> > Air-bells of fortune that shine and break,\
+> > And omens above thought.
+> >  
+> > But the meanings cleave to the lake,\
+> > Cannot be carried in book or urn;\
+> > Go thy ways now, come later back,\
+> > On waves and hedges still they burn.
+> >  
+> > These the fates of men forecast,\
+> > Of better men than live to-day;\
+> > If who can read them comes at last\
+> > He will spell in the sculpture,'Stay.'
+
+---
+
+> ## I taste a liquor never brewed by Emily Dickinson
+>  
+> > I taste a liquor never brewed – \
+> > From Tankards scooped in Pearl – \
+> > Not all the Frankfort Berries\
+> > Yield such an Alcohol!
+> >  
+> > Inebriate of air – am I – \
+> > And Debauchee of Dew – \
+> > Reeling – thro' endless summer days – \
+> > From inns of molten Blue – 
+> >  
+> > When "Landlords" turn the drunken Bee\
+> > Out of the Foxglove's door – \
+> > When Butterflies – renounce their "drams" – \
+> > I shall but drink the more!
+> >  
+> > Till Seraphs swing their snowy Hats – \
+> > And Saints – to windows run – \
+> > To see the little Tippler\
+> > Leaning against the – Sun!
+
+---
+
+> ## O Captain My Captain by Walt Whitman
+>  
+> > O Captain! my Captain! our fearful trip is done,\
+> > The ship has weather’d every rack, the prize we sought is won,\
+> > The port is near, the bells I hear, the people all exulting,\
+> > While follow eyes the steady keel, the vessel grim and daring;\
+> >                          But O heart! heart! heart!\
+> >                             O the bleeding drops of red,\
+> >                                Where on the deck my Captain lies,\
+> >                                   Fallen cold and dead.
+> >  
+> > O Captain! my Captain! rise up and hear the bells;\
+> > Rise up—for you the flag is flung—for you the bugle trills,\
+> > For you bouquets and ribbon’d wreaths—for you the shores a-crowding,\
+> > For you they call, the swaying mass, their eager faces turning;\
+> >                          Here Captain! dear father!\
+> >                             This arm beneath your head!\
+> >                                It is some dream that on the deck,\
+> >                                  You’ve fallen cold and dead.
+> >  
+> > My Captain does not answer, his lips are pale and still,\
+> > My father does not feel my arm, he has no pulse nor will,\
+> > The ship is anchor’d safe and sound, its voyage closed and done,\
+> > From fearful trip the victor ship comes in with object won;\
+> >                          Exult O shores, and ring O bells!\
+> >                             But I with mournful tread,\
+> >                                Walk the deck my Captain lies,\
+> >                                   Fallen cold and dead.
+
+---
+
+> ## The Passionate Shepherd to His Love By Christopher Marlowe
+>  
+> > Come live with me and be my love,\
+> > And we will all the pleasures prove,\
+> > That Valleys, groves, hills, and fields,\
+> > Woods, or steepy mountain yields.
+> >  
+> > And we will sit upon the Rocks,\
+> > Seeing the Shepherds feed their flocks,\
+> > By shallow Rivers to whose falls\
+> > Melodious birds sing Madrigals.
+> >  
+> > And I will make thee beds of Roses\
+> > And a thousand fragrant posies,\
+> > A cap of flowers, and a kirtle\
+> > Embroidered all with leaves of Myrtle;
+> >  
+> > A gown made of the finest wool\
+> > Which from our pretty Lambs we pull;\
+> > Fair lined slippers for the cold,\
+> > With buckles of the purest gold;
+> >  
+> > A belt of straw and Ivy buds,\
+> > With Coral clasps and Amber studs:\
+> > And if these pleasures may thee move,\
+> > Come live with me, and be my love.
+> >  
+> > The Shepherds’ Swains shall dance and sing\
+> > For thy delight each May-morning:\
+> > If these delights thy mind may move,\
+> > Then live with me, and be my love.
+
+---
+
+> ## The Charge of the Light Brigade by Alfred Lord Tennyson
+>  
+> > *__Crimean War__* : It was a military conflict fought from October 1853 to February 1856 in which Russia lost to an alliance made up of the Ottoman Empire, the United Kingdom, Sardinia and France.
+> >  
+> > *__The Charge of the Light Brigade__* was a failed military action involving the British light cavalry led by Lord Cardigan against Russian forces during the Battle of Balaclava on 25 October 1854 in the Crimean War. Lord Raglan had intended to send the Light Brigade to prevent the Russians from removing captured guns from overrun Turkish positions, a task for which the light cavalry were well-suited. However, there was miscommunication in the chain of command and the Light Brigade was instead sent on a frontal assault against a different artillery battery, one well-prepared with excellent fields of defensive fire.
+> > The Light Brigade reached the battery under withering direct fire and scattered some of the gunners, but they were forced to retreat immediately, and the assault ended with very high British casualties and no decisive gains.
+> >  
+> > *__I__*\
+> > "Half a league, half a league,\
+> > Half a league onward,\
+> > All in the valley of Death\
+> >    Rode the six hundred.\
+> > “Forward, the Light Brigade!\
+> > Charge for the guns!” he said.\
+> > Into the valley of Death\
+> >    Rode the six hundred."
+> >  
+> > *__II__*\
+> > “Forward, the Light Brigade!”\
+> > Was there a man dismayed?\
+> > Not though the soldier knew\
+> >    Someone had blundered.\
+> >    Theirs not to make reply,\
+> >    Theirs not to reason why,\
+> >    Theirs but to do and die.\
+> >    Into the valley of Death\
+> >    Rode the six hundred."
+> >  
+> > *__III__*\
+> > "Cannon to right of them,\
+> > Cannon to left of them,\
+> > Cannon in front of them\
+> >    Volleyed and thundered;\
+> > Stormed at with shot and shell,\
+> > Boldly they rode and well,\
+> > Into the jaws of Death,\
+> > Into the mouth of hell\
+> >    Rode the six hundred."
+> >  
+> > *__IV__*\
+> > "Flashed all their sabres bare,\
+> > Flashed as they turned in air\
+> > Sabring the gunners there,\
+> > Charging an army, while\
+> >    All the world wondered.\
+> > Plunged in the battery-smoke\
+> > Right through the line they broke;\
+> > Cossack and Russian\
+> > Reeled from the sabre stroke\
+> >    Shattered and sundered.\
+> > Then they rode back, but not\
+> >    Not the six hundred."
+> >  
+> > *__V__*\
+> > "Cannon to right of them,\
+> > Cannon to left of them,\
+> > Cannon behind them\
+> >    Volleyed and thundered;\
+> > Stormed at with shot and shell,\
+> > While horse and hero fell.\
+> > They that had fought so well\
+> > Came through the jaws of Death,\
+> > Back from the mouth of hell,\
+> > All that was left of them,\
+> >    Left of six hundred."
+> >  
+> > *__VI__*\
+> > "When can their glory fade?\
+> > O the wild charge they made!\
+> >    All the world wondered.\
+> > Honour the charge they made!\
+> > Honour the Light Brigade,\
+> >    Noble six hundred!" 
+
+---
+
+> ## The World is Too Much With Us by William Wordsworth
+>  
+> > *__The world is too much with us; late and soon,\
+> > Getting and spending, we lay waste our powers;\
+> > Little we see in Nature that is ours;\
+> > We have given our hearts away, a sordid boon!
+> >  
+> > This Sea that bares her bosom to the moon;\
+> > The winds that will be howling at all hours,\
+> > And are up-gathered now like sleeping flowers,\
+> > For this, for everything, we are out of tune;\
+> > It moves us not.—Great God! I'd rather be__*
+> >  
+> > A pagan suckled in a creed outworn;\
+> > So might I, standing on this pleasant lea,\
+> > Have glimpses that would make me less forlorn;\
+> > Have sight of Proteus rising from the sea;\
+> > Or hear old Triton blow his wreathèd horn.
+
+---
+
+> ## Evening Solace by Charlotte Bronte
+>  
+> > The human heart has hidden treasures,\
+> > In secret kept, in silence sealed;—\
+> > The thoughts, the hopes, the dreams, the pleasures,\
+> > Whose charms were broken if revealed.\
+> > And days may pass in gay confusion,\
+> > And nights in rosy riot fly,\
+> > While, lost in Fame's or Wealth's illusion,\
+> > The memory of the Past may die.
+> >  
+> > But there are hours of lonely musing,\
+> > Such as in evening silence come,\
+> > When, soft as birds their pinions closing,\
+> > The heart's best feelings gather home.\
+> > Then in our souls there seems to languish\
+> > A tender grief that is not woe;\
+> > And thoughts that once wrung groans of anguish\
+> > Now cause but some mild tears to flow.
+> >  
+> > And feelings, once as strong as passions,\
+> > Float softly back—a faded dream;\
+> > Our own sharp griefs and wild sensations,\
+> > The tale of others' sufferings seem.\
+> > Oh! when the heart is freshly bleeding,\
+> > How longs it for that time to be,\
+> > When, through the mist of years receding,\
+> > Its woes but live in reverie!
+> >  
+> > And it can dwell on moonlight glimmer,\
+> > On evening shade and loneliness;\
+> > And, while the sky grows dim and dimmer,\
+> > Feel no untold and strange distress—\
+> > Only a deeper impulse given\
+> > By lonely hour and darkened room,\
+> > To solemn thoughts that soar to heaven\
+> > Seeking a life and world to come.
+
+---
+
+> ## As She Passes by Fernando Pessoa
+>  
+> > When I am sitting at the window,\
+> > Through the panes, which the snow blurs,\
+> > I see the lovely images, hers, as\
+> > She passes ... passes ... passes by ...
+> >  
+> > Over me grief has thrown its veil:-\
+> > Less a creature in this world\
+> > And one more angel in the sky.
+> >  
+> > When I am sitting at the window,\
+> > Through the panes, which the snow blurs,\
+> > I think I see the image, hers,\
+> > That's not now passing ... not passing by …
+
+---
+
+> ## The Bride Of The Sea by H.P. Lovecraft
+>  
+> > Black loom the crags of the uplands behind me;\
+> > Dark are the sands of the far-stretching shore.\
+> > Dim are the pathways and rocks that remind me\
+> > Sadly of years in the lost nevermore.
+> >  
+> > Soft laps the ocean on wave-polish’d boulder;\
+> > Sweet is the sound and familiar to me.\
+> > Here, with her head gently bent to my shoulder,\
+> > Walk’d I with Unda, the Bride of the Sea.
+> >  
+> > Bright was the morn of my youth when I met her,\
+> > Sweet as the breeze that blew in o’er the brine.\
+> > Swift was I captur’d in Love’s strongest fetter,\
+> > Glad to be hers, and she glad to be mine.
+> >  
+> > Never a question ask’d I where she wander’d,\
+> > Never a question ask’d she of my birth:\
+> > Happy as children, we thought not nor ponder’d,\
+> > Glad with the bounty of ocean and earth.
+> >  
+> > Once when the moonlight play’d soft ’mid the billows,\
+> > High on the cliff o’er the waters we stood,\
+> > Bound was her hair with a garland of willows,\
+> > Pluck’d by the fount in the bird-haunted wood.
+> >  
+> > Strangely she gaz’d on the surges beneath her,\
+> > Charm’d by the sound or entranc’d by the light.\
+> > Then did the waves a wild aspect bequeath her,\
+> > Stern as the ocean and weird as the night.
+> >  
+> > Coldly she left me, astonish’d and weeping,\
+> > Standing alone ’mid the regions she bless’d:\
+> > Down, ever downward, half gliding, half creeping,\
+> > Stole the sweet Unda in oceanward quest.
+> >  
+> > Calm grew the sea, and tumultuous beating\
+> > Turn’d to a ripple, as Unda the fair\
+> > Trod the wet sands in affectionate greeting,\
+> > Beckon’d to me, and no longer was there!
+> >  
+> > Long did I pace by the banks where she vanish’d:\
+> > High climb’d the moon, and descended again.\
+> > Grey broke the dawn till the sad night was banish’d,\
+> > Still ach’d my soul with its infinite pain.
+> >  
+> > All the wide world have I search’d for my darling,\
+> > Scour’d the far deserts and sail’d distant seas.\
+> > Once on the wave while the tempest was snarling,\
+> > Flash’d a fair face that brought quiet and ease.
+> >  
+> > *__Ever in restlessness onward I stumble,\
+> > Seeking and pining, scarce heeding my way.\
+> > Now have I stray’d where the wide waters rumble,\
+> > Back to the scene of the lost yesterday.__*
+> >  
+> > Lo! the red moon from the ocean’s low hazes\
+> > Rises in ominous grandeur to view.\
+> > Strange is its face as my tortur’d eye gazes\
+> > O’er the vast reaches of sparkle and blue.
+> >  
+> > Straight from the moon to the shore where I’m sighing\
+> > Grows a bright bridge, made of wavelets and beams.\
+> > Frail may it be, yet how simple the trying;\
+> > Wand’ring from earth to the orb of sweet dreams.
+> >  
+> > What is yon face in the moonlight appearing;\
+> > Have I at last found the maiden that fled?\
+> > Out on the beam-bridge my footsteps are nearing\
+> > Her whose sweet beckoning hastens my tread.
+> >  
+> > Currents surround me, and drowsily swaying,\
+> > Far on the moon-path I seek the sweet face.\
+> > Eagerly hasting, half panting, half praying,\
+> > Forward I reach for the vision of grace.
+> >  
+> > Murmuring waters about me are closing,\
+> > Soft the sweet vision advances to me:\
+> > Done are my trials; my heart is reposing\
+> > Safe with my Unda, the Bride of the Sea.
+
+---
+
+> ## After Thought by Alfred Lord Tennyson
+>  
+> > I thought of Thee, my partner and my guide,\
+> > As being past away. -Vain sympathies!\
+> > For backward, Duddon! as I cast my eyes,\
+> > I see what was, and is, and will abide;\
+> > Still glides the Stream, and shall not cease to glide;\
+> > The Form remains, the Function never dies;\
+> > While we, the brave, the mighty, and the wise,\
+> > We Men, who in our morn of youth defied\
+> > The elements, must vanish; -be it so!\
+> > Enough, if something from our hands have power\
+> > To live, and act, and serve the future hour;\
+> > And if, as toward the silent tomb we go,\
+> > Through love, through hope, and faith's transcendent dower,\
+> > We feel that we are greater than we know.
+
+---
+
+> ## The Day is Done by Henry Wadsworth Longfellow
+>  
+> > The day is done, and the darkness\
+> > Falls from the wings of night\
+> > As a feather wafted downward\
+> > From an eagle in his flight.
+> >  
+> > I see the lights of the village\
+> > Gleam through the rain and the mist,\
+> > And a feeling of sadness comes o'er me\
+> > That my soul cannot resist:
+> >  
+> > A feeling of sadness and longing,\
+> > That is not akin to pain,\
+> > And resembles sorrow only\
+> > As the mist resembles the rain.
+> >  
+> > Come, read to me some poem,\
+> > Some simple and heartfelt lay,\
+> > That shall soothe this restless feeling,\
+> > And banish the thoughts of the day.
+> >  
+> > Not from the grand old masters,\
+> > Not from the bards sublime,\
+> > Whose distant footsteps echo\
+> > Through the corridors of time.
+> >  
+> > For, like the strains of martial music,\
+> > Their mighty throughts suggest\
+> > Life's endless toil and endeavor;\
+> > And tonight I long for rest.
+> >  
+> > Read from the humbler poet,\
+> > Whose songs gushed from his heart,\
+> > As showers from the clouds of summer,\
+> > Or tears from the eyelids start;
+> >  
+> > Who, through long days of labor,\
+> > And nights devoid of ease,\
+> > Still heard in his soul the music\
+> > Of wonderful melodies.
+> >  
+> > Such songs have power to quiet\
+> > The restless pulse of care,\
+> > And come like the benediction\
+> > That follows after prayer.
+> >  
+> > Then read the treasured volume\
+> > The poem of my choice,\
+> > And lend to the rhyme of the poet\
+> > The beauty of thy voice.
+> >  
+> > And the night shall be filled with music,\
+> > And the cares, that infest the day,\
+> > Shall fold their tents, like the Arabs,\
+> > And as silently steal away.
+
+---
+
+> ## I Am Tired by Fernando Pessoa
+>  
+> > I am tired, that is clear,\
+> > Because, at certain stage, people have to be tired.\
+> > Of what I am tired, I don't know:\
+> > It would not serve me at all to know\
+> > Since the tiredness stays just the same.\
+> > The wound hurts as it hurts\
+> > And not in function of the cause that produced it.
+> >  
+> > Yes, I am tired,\
+> > And ever so slightly smiling\
+> > At the tiredness being only this -\
+> > In the body a wish for sleep,\
+> > In the soul a desire for not thinking\
+> > And, to crown all, a luminous transparency\
+> > Of the retrospective understanding ...\
+> > And the one luxury of not now having hopes?\
+> > I am intelligent: that's all.\
+> > I have seen much and understood much of what I\
+> > have seen.\
+> > And there is a certain pleasure even in tiredness\
+> > this brings us,\
+> > That in the end the head does still serve for\
+> > something.
+
+---
+
+> ## Because I could not stop for Death by Emily Dickinson
+>  
+> > Because I could not stop for Death,\
+> > He kindly stopped for me;\
+> > The carriage held but just ourselves\
+> > And Immortality.
+> >  
+> > We slowly drove, he knew no haste,\
+> > And I had put away\
+> > My labor, and my leisure too,\
+> > For his civility.
+> >  
+> > We passed the school where children played,\
+> > Their lessons scarcely done;\
+> > We passed the fields of gazing grain,\
+> > We passed the setting sun.
+> >  
+> > We paused before a house that seemed\
+> > A swelling of the ground;\
+> > The roof was scarcely visible,\
+> > The cornice but a mound.
+> >  
+> > Since then 't is centuries; but each\
+> > Feels shorter than the day\
+> > I first surmised the horses' heads\
+> > Were toward eternity.
+
+---
+
+> ## A Dream by Edgar Allan Poe
+>  
+> > In visions of the dark night\
+> > I have dreamed of joy departed-\
+> > But a waking dream of life and light\
+> > Hath left me broken-hearted.
+> >  
+> > Ah! what is not a dream by day\
+> > To him whose eyes are cast\
+> > On things around him with a ray\
+> > Turned back upon the past?
+> >  
+> > That holy dream- that holy dream,\
+> > While all the world were chiding,\
+> > Hath cheered me as a lovely beam\
+> > A lonely spirit guiding.
+> >  
+> > What though that light, thro' storm and night,\
+> > So trembled from afar-\
+> > What could there be more purely bright\
+> > In Truth's day-star?
+
+---
+
+> ## Love’s Secret by William Blake
+>  
+> > Never seek to tell thy love,\
+> > Love that never told can be;\
+> > For the gentle wind doth move\
+> > Silently, invisibly.
+> >  
+> > I told my love, I told my love,\
+> > I told her all my heart,\
+> > Trembling, cold, in ghastly fears.\
+> > Ah! she did depart!
+> >  
+> > Soon after she was gone from me,\
+> > A traveller came by,\
+> > Silently, invisibly:\
+> > He took her with a sigh.
+
+---
+
+> ## The Solitary Reaper by William Wordsworth
+>  
+> > Behold her, single in the field,\
+> > Yon solitary Highland Lass!\
+> > Reaping and singing by herself;\
+> > Stop here, or gently pass!\
+> > Alone she cuts and binds the grain,\
+> > And sings a melancholy strain;\
+> > O listen! for the Vale profound\
+> > Is overflowing with the sound.
+> >  
+> > No Nightingale did ever chaunt\
+> > More welcome notes to weary bands\
+> > Of travellers in some shady haunt,\
+> > Among Arabian sands:\
+> > A voice so thrilling ne’er was heard\
+> > In spring-time from the Cuckoo-bird,\
+> > Breaking the silence of the seas\
+> > Among the farthest Hebrides.
+> >  
+> > Will no one tell me what she sings?—\
+> > Perhaps the plaintive numbers flow\
+> > For old, unhappy, far-off things,\
+> > And battles long ago:\
+> > Or is it some more humble lay,\
+> > Familiar matter of to-day?\
+> > Some natural sorrow, loss, or pain,\
+> > That has been, and may be again?
+> >  
+> > *__Whate’er the theme, the Maiden sang\
+> > As if her song could have no ending;\
+> > I saw her singing at her work,\
+> > And o’er the sickle bending;—\
+> > I listened, motionless and still;\
+> > And, as I mounted up the hill,\
+> > The music in my heart I bore,\
+> > Long after it was heard no more.__*
+
+---
+
+> ## A Lament by P.B.Shelly
+>  
+> > O World! O Life! O Time!\
+> > On whose last steps I climb,\
+> > Trembling at that where I had stood before;\
+> > When will return the glory of your prime?\
+> > No more -Oh, never more!
+> >  
+> > Out of the day and night\
+> > A joy has taken flight:\
+> > Fresh spring, and summer, and winter hoar\
+> > Move my faint heart with grief, but with delight\
+> > No more -Oh, never more!
+
+---
+
+> ## True Beauty by Francis Beaumont
+>  
+> > May I find a woman fair,\
+> > And her mind as clear as air,\
+> > If her beauty go alone,\
+> > 'Tis to me as if't were none.
+> >  
+> > May I find a woman rich,\
+> > And not of too high a pitch;\
+> > If that pride should cause disdain,\
+> > Tell me, lover, where's thy gain?
+> >  
+> > May I find a woman wise,\
+> > And her falsehood not disguise;\
+> > Hath she wit as she hath will,\
+> > Double arm'd she is to ill.
+> >  
+> > May I find a woman kind,\
+> > And not wavering like the wind:\
+> > How should I call that love mine,\
+> > When 'tis his, and his, and thine?
+> >  
+> > May I find a woman true,\
+> > There is Bettutv's fairest hue,\
+> > There is Beauty, Love, and Wit:\
+> > Happy he can compass it.
+
+---
+
+> ## When I am dead, My Dearest by Christina Rossetti
+> 
+> > When I am dead, my dearest,\
+> > Sing no sad songs for me;\
+> > Plant thou no roses at my head,\
+> > Nor shady cypress tree:\
+> > Be the green grass above me\
+> > With showers and dewdrops wet;\
+> > And if thou wilt, remember,\
+> > And if thou wilt, forget.
+> >  
+> > I shall not see the shadows,\
+> > I shall not feel the rain;\
+> > I shall not hear the nightingale\
+> > Sing on, as if in pain:\
+> > And dreaming through the twilight\
+> > That doth not rise nor set,\
+> > Haply I may remember,\
+> > And haply may forget.
+
+---
+
+> ## Reconciliation by William Butler Yeats
+>  
+> > Some may have blamed you that you took away\
+> > The verses that could move them on the day\
+> > When, the ears being deafened, the sight of the eyes blind\
+> > With lightning, you went from me, and I could find\
+> > Nothing to make a song about but kings,\
+> > Helmets, and swords, and half-forgotten things\
+> > That were like memories of you -- but now\
+> > We'll out, for the world lives as long ago;\
+> > And while we're in our laughing, weeping fit,\
+> > Hurl helmets, crowns, and swords into the pit.\
+> > But, dear, cling close to me; since you were gone,\
+> > My barren thoughts have chilled me to the bone.
+
+---
+
+> ## Lines on The Mermaid Tavern by John Keats
+>  
+> > Souls of Poets dead and gone,\
+> > What Elysium have ye known,\
+> > Happy field or mossy cavern,\
+> > Choicer than the Mermaid Tavern?\
+> > Have ye tippled drink more fine\
+> > Than mine host's Canary wine?\
+> > Or are fruits of Paradise\
+> > Sweeter than those dainty pies\
+> > Of venison? O generous food!\
+> > Drest as though bold Robin Hood\
+> > Would, with his maid Marian,\
+> > Sup and bowse from horn and can.
+> >  
+> > I have heard that on a day\
+> > Mine host's sign-board flew away,\
+> > Nobody knew whither, till\
+> > An astrologer's old quill\
+> > To a sheepskin gave the story,\
+> > Said he saw you in your glory,\
+> > Underneath a new old sign\
+> > Sipping beverage divine,\
+> > And pledging with contented smack\
+> > The Mermaid in the Zodiac.
+> >  
+> > Souls of Poets dead and gone,\
+> > What Elysium have ye known,\
+> > Happy field or mossy cavern,\
+> > Choicer than the Mermaid Tavern?
+
+---
+
+> ## A Sonnet by Francis Beaumont
+>  
+> > Flattering Hope, away and leave me,\
+> > She'll not come, thou dost deceive me;\
+> > Hark the cock crows, th' envious light\
+> > Chides away the silent night;\
+> > Yet she comes not, oh ! how I tire\
+> > Betwixt cold fear and hot desire.
+> >  
+> > Here alone enforced to tarry\
+> > While the tedious minutes marry,\
+> > And get hours, those days and years,\
+> > Which I count with sighs and fears\
+> > Yet she comes not, oh! how I tire\
+> > Betwixt cold fear and hot desire.
+> >  
+> > Restless thoughts a while remove\
+> > Unto the bosom of my love,\
+> > Let her languish in my pain,\
+> > Fear and hope, and fear again;\
+> > Then let her tell me, in love's fire,\
+> > What torment's like unto desire?
+> >  
+> > *__Endless wishing, tedious longing,\
+> > Hopes and fears together thronging;\
+> > Rich in dreams, yet poor in waking,\
+> > Let her be in such a taking:\
+> > Then let her tell me in love's fire,\
+> > What torment's like unto desire?__*
+
+---
+
+> ## Despair by H.P.Lovecraft
+>  
+> > O’er the midnight moorlands crying,\
+> > Thro’ the cypress forests sighing,\
+> > In the night-wind madly flying,\
+> > Hellish forms with streaming hair;\
+> > In the barren branches creaking,\
+> > By the stagnant swamp-pools speaking,\
+> > Past the shore-cliffs ever shrieking;\
+> > Damn’d daemons of despair.
+> >  
+> > Once, I think I half remember,\
+> > Ere the grey skies of November\
+> > Quench’d my youth’s aspiring ember,\
+> > Liv’d there such a thing as bliss;\
+> > Skies that now are dark were beaming,\
+> > Gold and azure, splendid seeming\
+> > Till I learn’d it all was dreaming—\
+> > Deadly drowsiness of Dis.
+> >  
+> > But the stream of Time, swift flowing,\
+> > Brings the torment of half-knowing—\
+> > Dimly rushing, blindly going\
+> > Past the never-trodden lea;\
+> > And the voyager, repining,\
+> > Sees the wicked death-fires shining,\
+> > Hears the wicked petrel’s whining\
+> > As he helpless drifts to sea.
+> >  
+> > Evil wings in ether beating;\
+> > Vultures at the spirit eating;\
+> > Things unseen forever fleeting\
+> > Black against the leering sky.\
+> > Ghastly shades of bygone gladness,\
+> > Clawing fiends of future sadness,\
+> > Mingle in a cloud of madness\
+> > Ever on the soul to lie.
+> >  
+> > *__Thus the living, lone and sobbing,\
+> > In the throes of anguish throbbing,\
+> > With the loathsome Furies robbing\
+> > Night and noon of peace and rest.\
+> > But beyond the groans and grating\
+> > Of abhorrent Life, is waiting\
+> > Sweet Oblivion, culminating\
+> > All the years of fruitless quest.__*
+
+---
+
+> ## Think Of It Not Sweet One by John Keats
+>  
+> > Think not of it, sweet one, so;---\
+> >       Give it not a tear;\
+> > Sigh thou mayst, and bid it go\
+> >       Any---anywhere.
+> >  
+> > Do not lool so sad, sweet one,---\
+> >       Sad and fadingly;\
+> > Shed one drop then,---it is gone---\
+> >       O 'twas born to die!
+> >  
+> > Still so pale? then, dearest, weep;\
+> >       Weep, I'll count the tears,\
+> > And each one shall be a bliss\
+> >       For thee in after years.
+> >  
+> > Brighter has it left thine eyes\
+> >       Than a sunny rill;\
+> > And thy whispering melodies\
+> >       Are tenderer still.
+> >  
+> > Yet---as all things mourn awhile\
+> >       At fleeting blisses,\
+> > E'en let us too! but be our dirge\
+> >       A dirge of kisses.
+
+---
+
+> ## 1914 by Wilfred Owen
+>  
+> > War broke: and now the Winter of the world\
+> > With perishing great darkness closes in.\
+> > The foul tornado, centred at Berlin,\
+> > Is over all the width of Europe whirled,\
+> > Rending the sails of progress. Rent or furled\
+> > Are all Art's ensigns. Verse wails. Now begin\
+> > Famines of thought and feeling. Love's wine's thin.\
+> > The grain of human Autumn rots, down-hurled.
+> >  
+> > For after Spring had bloomed in early Greece,\
+> > And Summer blazed her glory out with Rome,\
+> > An Autumn softly fell, a harvest home,\
+> > A slow grand age, and rich with all increase.\
+> > But now, for us, wild Winter, and the need\
+> > Of sowings for new Spring, and blood for seed.
+
+---
+
+> ## Have You Forgotten by Christina Rossetti
+>  
+> > Have you forgotten how one Summer night\
+> >   We wandered forth together with the moon,\
+> >   While warm winds hummed to us a sleepy tune?\
+> > Have you forgotten how you praised both light\
+> > And darkness; not embarrassed yet not quite\
+> >   At ease? and how you said the glare of noon\
+> >   Less pleased you than the stars? but very soon\
+> > You blushed, and seemed to doubt if you were right.\
+> > We wandered far and took no note of time;\
+> >   Till on the air there came the distant call\
+> > Of church bells: we turned hastily, and yet\
+> > Ere we reached home sounded a second chime.\
+> >   But what; have you indeed forgotten all?\
+> > Ah how then is it I cannot forget?
+
+---
+
+> ## The Rose by Christina Rossetti
+>  
+> > The lily has a smooth stalk,\
+> >   Will never hurt your hand;\
+> > But the rose upon her brier\
+> >   Is lady of the land.
+> >  
+> > There's sweetness in an apple tree,\
+> >   And profit in the corn;\
+> > But lady of all beauty\
+> >   Is a rose upon a thorn.
+> >  
+> > When with moss and honey\
+> >   She tips her bending brier,\
+> > And half unfolds her glowing heart,\
+> >   She sets the world on fire.
+
+---
+
+> ## A Complaint by William Wordsworth
+>  
+> > There is a change—and I am poor;\
+> > Your love hath been, nor long ago,\
+> > A fountain at my fond heart’s door,\
+> > Whose only business was to flow;\
+> > And flow it did; not taking heed\
+> > Of its own bounty, or my need.
+> >  
+> > What happy moments did I count!\
+> > Blest was I then all bliss above!\
+> > Now, for that consecrated fount\
+> > Of murmuring, sparkling, living love,\
+> > What have I? shall I dare to tell?\
+> > A comfortless and hidden well.
+> >  
+> > A well of love—it may be deep—\
+> > I trust it is,—and never dry:\
+> > What matter? if the waters sleep\
+> > In silence and obscurity.\
+> > —Such change, and at the very door\
+> > Of my fond heart, hath made me poor.
+
+---
+
+> ## The Land of Dreams by William Blake
+>  
+> > Awake, awake, my little boy!\
+> > Thou wast thy mother's only joy;\
+> > Why dost thou weep in thy gentle sleep?\
+> > Awake! thy father does thee keep.
+> >  
+> > 'O, what land is the Land of Dreams?\
+> > What are its mountains, and what are its streams?\
+> > O father! I saw my mother there,\
+> > Among the lilies by waters fair.
+> >  
+> > 'Among the lambs, cloth? d in white,\
+> > She walk'd with her Thomas in sweet delight.\
+> > I wept for joy, like a dove I mourn;\
+> > O! when shall I again return? '
+> >  
+> > *__Dear child, I also by pleasant streams\
+> > Have wander'd all night in the Land of Dreams;\
+> > But tho' calm and warm the waters wide,\
+> > I could not get to the other side.__*
+> >  
+> > 'Father, O father! what do we here\
+> > In this land of unbelief and fear?\
+> > The Land of Dreams is better far\
+> > Above the light of the morning star.' 
+
+---
+
+> ##  What Are Heavy by Cristina Rossetti
+>  
+> > What are heavy? sea-sand and sorrow:\
+> > What are brief? today and tomorrow:\
+> > What are frail? Spring blossoms and youth:\
+> > What are deep ? the ocean and truth.
+
+---
+
+> ## The Lily by William Blake
+>  
+> > The modest Rose puts forth a thorn:\
+> > The humble Sheep. a threatning horn:\
+> > While the Lily white, shall in Love delight,\
+> > Nor a thorn nor a threat stain her beauty bright
+
+---
+
+> ## Adam’s Curse by William Butler Yeats
+>  
+> > We sat together at one summer's end,\
+> > That beautiful mild woman, your close friend,\
+> > And you and I, and talked of poetry.\
+> > I said, "A line will take us hours maybe;\
+> > Yet if it does not seem a moment's thought,\
+> > Our stitching and unstitching has been naught.\
+> > Better go down upon your marrow-bones\
+> > And scrub a kitchen pavement, or break stones\
+> > Like an old pauper, in all kinds of weather;\
+> > For to articulate sweet sounds together\
+> > Is to work harder than all these, and yet\
+> > Be thought an idler by the noisy set\
+> > Of bankers, schoolmasters, and clergymen\
+> > The martyrs call the world." 
+> >  
+> > And thereupon \
+> > That beautiful mild woman for whose sake\
+> > There's many a one shall find out all heartache\
+> > On finding that her voice is sweet and low\
+> > Replied, "To be born woman is to know—\
+> > Although they do not talk of it at school—\
+> > That we must labour to be beautiful."\
+> > I said, "It's certain there is no fine thing\
+> > Since Adam's fall but needs much labouring.\
+> > There have been lovers who thought love should be\
+> > So much compounded of high courtesy\
+> > That they would sigh and quote with learned looks\
+> > precedents out of beautiful old books;\
+> > Yet now it seems an idle trade enough."
+> >  
+> > *__We sat grown quiet at the name of love;\
+> > We saw the last embers of daylight die,\
+> > And in the trembling blue-green of the sky\
+> > A moon, worn as if it had been a shell\
+> > Washed by time's waters as they rose and fell\
+> > About the stars and broke in days and years.\
+> > I had a thought for no one's but your ears:\
+> > That you were beautiful, and that I strove\
+> > To love you in the old high way of love;\
+> > That it had all seemed happy, and yet we'd grown\
+> > As weary-hearted as that hollow moon.__*
+
+---
+
+> ## From the Greek by Abraham Cowley
+>  
+> > Fill the bowl with rosy wine! \
+> > Around our temples roses twine!  \
+> > And let us cheerfully awhile, \
+> > Like the wine and roses, smile.
+> >  
+> > Crowned with roses, we contemn \
+> > Gyges’ wealthy diadem.  \
+> > To-day is ours, what do we fear? \
+> > To-day is ours; we have it here: 
+> >  
+> > Let ’s treat it kindly, that it may \
+> > Wish, at least, with us to stay. \
+> > Let ’s banish business, banish sorrow; \
+> > To the gods belongs to-morrow. 
+> >   
+> > Underneath this myrtle shade, \
+> > On flowery beds supinely laid,   \
+> > With odorous oils my head o’erflowing, \
+> > And around it roses growing,  
+> > 
+> > What should I do but drink away  \
+> > The heat and troubles of the day?   \
+> > In this more than kingly state \
+> > Love himself shall on me wait. 
+> >  
+> > Fill to me, Love, nay fill it up;   \
+> > And, mingled, cast into the cup  \
+> > Wit, and mirth, and noble fires, \
+> > Vigorous health, and gay desires. 
+> >  
+> > The wheel of life no less will stay \
+> > In a smooth than rugged way: \
+> > Since it equally doth flee, \
+> > Let the motion pleasant be.   
+> >  
+> > Why do we precious ointments show’r? \
+> > Noble wines why do we pour? \
+> > Beauteous flowers why do we spread, \
+> > Upon the monuments of the dead?  
+> >  
+> > Nothing they but dust can show,  \
+> > Or bones that hasten to be so.   \
+> > Crown me with roses while I live,           \
+> > Now your wines and ointments give;
+> >  
+> > After death I nothing crave.  \
+> > Let me alive my pleasures have; \
+> > All are Stoics in the grave.  
+
+---
+
+> ## Hope by Emily Dickinson
+>  
+> > 'Hope' is the thing with feathers -\
+> > That perches in the soul -\
+> > And sings the tune without the words -\
+> > And never stops - at all -
+> >  
+> > And sweetest - in the Gale - is heard -\
+> > And sore must be the storm -\
+> > That could abash the little Bird\
+> > That kept so many warm -
+> >  
+> > I’ve heard it in the chillest land -\
+> > And on the strangest Sea -\
+> > Yet - never - in Extremity,\
+> > It asked a crumb - of me.
+
+---
+
+> ## She Walks in Beauty by Lord Byron
+>  
+> > She walks in beauty, like the night\
+> > Of cloudless climes and starry skies;\
+> > And all that’s best of dark and bright\
+> > Meet in her aspect and her eyes;\
+> > Thus mellowed to that tender light\
+> > Which heaven to gaudy day denies.
+> >  
+> > One shade the more, one ray the less,\
+> > Had half impaired the nameless grace\
+> > Which waves in every raven tress,\
+> > Or softly lightens o’er her face;\
+> > Where thoughts serenely sweet express,\
+> > How pure, how dear their dwelling-place.
+> >  
+> > And on that cheek, and o’er that brow,\
+> > So soft, so calm, yet eloquent,\
+> > The smiles that win, the tints that glow,\
+> > But tell of days in goodness spent,\
+> > A mind at peace with all below,\
+> > A heart whose love is innocent!
+
+---
+
+> ## I Wander Lonely as a Cloud by William Wordsworth
+>  
+> > I wandered lonely as a cloud\
+> > That floats on high o'er vales and hills,\
+> > When all at once I saw a crowd,\
+> > A host, of golden daffodils;\
+> > Beside the lake, beneath the trees,\
+> > Fluttering and dancing in the breeze.
+> >  
+> > Continuous as the stars that shine\
+> > And twinkle on the milky way,\
+> > They stretched in never-ending line\
+> > Along the margin of a bay:\
+> > Ten thousand saw I at a glance,\
+> > Tossing their heads in sprightly dance.
+> >  
+> > The waves beside them danced; but they\
+> > Out-did the sparkling waves in glee:\
+> > A poet could not but be gay,\
+> > In such a jocund company:\
+> > I gazed—and gazed—but little thought\
+> > What wealth the show to me had brought:
+> >  
+> > For oft, when on my couch I lie\
+> > In vacant or in pensive mood,\
+> > They flash upon that inward eye\
+> > Which is the bliss of solitude;\
+> > And then my heart with pleasure fills,\
+> > And dances with the daffodils.
+
+---
+
+> ## So We'll Go No More a Roving by Lord Byron
+>  
+> > So, we'll go no more a roving\
+> >    So late into the night,\
+> > Though the heart be still as loving,\
+> >    And the moon be still as bright.
+> >  
+> > For the sword outwears its sheath,\
+> >    And the soul wears out the breast,\
+> > And the heart must pause to breathe,\
+> >    And love itself have rest.
+> >  
+> > Though the night was made for loving,\
+> >    And the day returns too soon,\
+> > Yet we'll go no more a roving\
+> >    By the light of the moon.
+
+---
+
 > ## Funeral Blues by W. H. Auden
 >  
 > > Stop all the clocks, cut off the telephone,\
@@ -556,25 +3587,25 @@
 
 > ## Invictus by William Ernest Henley 
 >  
-> > Out of the night that covers me,   
-> >   Black as the Pit from pole to pole,   
-> > I thank whatever gods may be   
-> >   For my unconquerable soul.   
+> > Out of the night that covers me,  \
+> > Black as the Pit from pole to pole,   \
+> > I thank whatever gods may be   \
+> > For my unconquerable soul.   
 > >  
-> > In the fell clutch of circumstance 
-> >   I have not winced nor cried aloud.   
-> > Under the bludgeonings of chance   
-> >   My head is bloody, but unbowed.   
+> > In the fell clutch of circumstance \
+> > I have not winced nor cried aloud.   \
+> > Under the bludgeonings of chance   \
+> > My head is bloody, but unbowed.   
 > >  
-> > Beyond this place of wrath and tears   
-> >   Looms but the Horror of the shade, 
-> > And yet the menace of the years   
-> >   Finds, and shall find, me unafraid.   
+> > Beyond this place of wrath and tears  \
+> > Looms but the Horror of the shade, \
+> > And yet the menace of the years   \
+> > Finds, and shall find, me unafraid.   
 > >  
-> > It matters not how strait the gate,   
-> >   How charged with punishments the scroll,   
-> > I am the master of my fate:
-> >   I am the captain of my soul.
+> > It matters not how strait the gate,   \
+> > How charged with punishments the scroll,   \
+> > I am the master of my fate:\
+> > I am the captain of my soul.
 
 ---
 
@@ -793,10 +3824,10 @@
 > > For the soul is dead that slumbers\
 > >               And things are not what they seem.
 > >
-> > Life is real! Life is earnest!\
+> > *__Life is real! Life is earnest!\
 > >             And the grave is not its goal;\
 > > “Dust thou art, to dust returnest”\
-> >             Was not spoken of the soul.
+> >             Was not spoken of the soul.__*
 > >
 > > Not enjoyment, and not sorrow,\
 > >             Is our destined end or way;\
@@ -1395,12 +4426,12 @@
 
 > #  A Legacy by Johann Wolfgang von Goethe
 >  
-> > No living atom comes at last to naught!\
+> > *__No living atom comes at last to naught!\
 > > Active in each is still the eternal Thought:\
 > > Hold fast to Being if thou wouldst be blest.\
 > > Being is without end; for changeless laws\
 > > Bind that from which the All its glory draws\
-> > Of living treasures endlessly possessed.
+> > Of living treasures endlessly possessed.__*
 > >
 > > Unto the wise of old this truth was known,\
 > > Such wisdom knit their noble souls in one;\
@@ -1937,6 +4968,53 @@
 
 
 > # Quotes
+>
+> > "And that is the way of the world, that some men put errors into circulation and others afterwards try to eradicate those same errors. And so both sorts of men have something to do." - Árni Magnússon
+>
+> ---
+>
+> > "Man is only a reed, the weakest in nature, but he is a thinking reed." - Blaise Pascal
+>
+> ---
+>
+> > "Said Hamlet to Ophelia,\
+> > I'll draw a sketch of thee,\
+> > What kind of pencil shall I use?\
+> > 2B or not 2B?" - A Silly Poem by Spike Milligan
+>
+> ---
+>
+> > "but I follow up the quest,
+Despite of Day and Night and Death and Hell." - Idylls of the King by Alfred Lord Tennyson
+>
+> ---
+>
+> > "But everything great is just as difficult to realize as it is rare to find."- Spinoza
+>
+> ---
+>
+> > "There is only one thing that I dread: not to be worthy of my sufferings." - Fyodor Dostoevsky
+>
+> ---
+>
+> > “Any moment might be our last. Everything is more beautiful because we're doomed. You will never be lovelier than you are now. We will never be here again.”
+― Homer, The Iliad
+>
+>---
+>
+> > “Moderately wise each one should be,\
+Not overwise, for a wise man's heart\
+Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
+>
+> ---
+>
+> > “…There is the heat of Love, the pulsing rush of Longing, the lover’s whisper, irresistible—magic to make the sanest man go mad.” ― Homer, The Iliad
+>
+> ---
+>
+> > “My name is Maximus Decimus Meridius, commander of the Armies of the North, General of the Felix Legions, loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next.” - Gladiator
+>
+> ---
 >  
 > > "My wealth, let son and bretheren part. Some things they cannot share.
 > > My work well done, my noble heart, these are only mine to wear." - Jabir
