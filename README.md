@@ -1,3 +1,69 @@
+> ## Swimmers by Louis Untermeyer
+>  
+> > I took the crazy short-cut to the bay;\
+> > Over a fence or two and through a hedge,\
+> > Jumping a private road, along the edge\
+> > Of backyards full of drying wash it lay.\
+> > I ran, electric with elation,\
+> > Sweating, impetuous and wild\
+> > For a swift plunge in the sea that smiled,\
+> > Quiet and luring, half a mile away.\
+> > This was the final thrill, the last sensation\
+> > That capped four hours of violence and laughter:\
+> > To have, with casual friends and casual jokes,\
+> > Hard sport, a cold swim and fresh linen after …\
+> > And now, the last set being played and over,\
+> > I hurried past the ruddy lakes of clover;\
+> > I swung my racket at astonished oaks,\
+> > My arm still tingling from aggressive strokes.\
+> > Tennis was over for the day—\
+> > I took the leaping short-cut to the bay.
+> >  
+> > Then the swift plunge into the cool, green dark—\
+> > The windy waters rushing past me, through me;\
+> > Filled with a sense of some heroic lark,\
+> > Exulting in a vigor clean and roomy.\
+> > Swiftly I rose to meet the feline sea\
+> > That sprang upon me with a hundred claws,\
+> > And grappled, pulled me down and played with me.\
+> > Then, tense and breathless in the tightening pause\
+> > When one wave grows into a toppling acre,\
+> > I dived headlong into the foremost breaker;\
+> > Pitting against a cold and turbulent strife\
+> > The feverish intensity of life.\
+> > Out of the foam I lurched and rode the wave,\
+> > Swimming, hand over hand, against the wind;\
+> > I felt the sea's vain pounding, and I grinned\
+> > Knowing I was its master, not its slave.\
+> > Oh, the proud total of those lusty hours—\
+> > The give and take of rough and vigorous tussles\
+> > With happy sinews and rejoicing muscles;\
+> > The knowledge of my own miraculous powers,\
+> > Feeling the force in one small body bent\
+> > To curb and tame this towering element.
+> >  
+> > Back on the curving beach I stood again,\
+> > Facing the bath-house, when a group of men,\
+> > Stumbling beneath some sort of weight, went by.\
+> > I could not see the hidden thing they carried;\
+> > I only heard: “He never gave a cry—”\
+> > “Who's going to tell her?—” “Yes, and they just married—”\
+> > “Such a good swimmer, too” … and then they passed;\
+> > Leaving the silence throbbing and aghast.
+> >  
+> > *__A moment there my buoyant heart hung slack,\
+> > And then the glad, barbaric blood came back\
+> > Singing a livelier tune; and in my pulse\
+> > Beat the great wave that surges and exults …\
+> > Why I was there and whither I must go\
+> > I did not care. Enough for me to know\
+> > The same unresting struggle and the glowing\
+> > Beauty of spendthrift-hours, bravely showing\
+> > Life, an adventure perilous and gay;\
+> > And Death, a long and vivid holiday.__*
+
+---
+
 > ## Ode on a Grecian Urn By John Keats
 > 
 > > Thou still unravish'd bride of quietness,\
