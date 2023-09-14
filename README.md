@@ -6112,3 +6112,15 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 >
 > ---
 >
+> 
+> > When the sons, in the dungeon, think they hear Henry coming down the stairs to kill them.\
+> >  
+> > Richard: He's here. He'll get no satisfaction out of us. Don't let him see you beg...Take it like a man!\
+> >  
+> > Geoffrey: You fool! As if the way one falls down matters!\
+> >  
+> > Richard: Well, when the fall is all that's left, it matters a great deal.
+> >
+>
+> ---
+>
