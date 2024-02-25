@@ -5181,6 +5181,18 @@
 
 ---
 
+> # Shayari
+>
+> > ये सारा जिस्म झुक कर बोझ से दोहरा हुआ होगा \
+> > मैं सज्दे में नहीं था आप को धोका हुआ होगा \
+> > 
+> > यहाँ तक आते आते सूख जाती है कई नदियाँ \
+> > मुझे मालूम है पानी कहाँ ठहरा हुआ होगा
+> ---
+>
+
+---
+
 
 > # Quotes
 >
@@ -6124,3 +6136,6 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 >
 > ---
 >
+> > "My friends, no one, not in my situation, can appreciate my feeling of sadness at this parting. To this place, and the kindness of these people, I owe everything. Here I have lived a quarter of a century, and have passed from a young to an old man. Here my children have been born, and one is buried. I now leave, not knowing when, or whether ever, I may return, with a task before me greater than that which rested upon Washington. Without the assistance of the Divine Being who ever attended him, I cannot succeed. With that assistance I cannot fail. Trusting in Him who can go with me, and remain with you, and be everywhere for good, let us confidently hope that all will yet be well. To His care commending you, as I hope in your prayers you will commend me, I bid you an affectionate farewell." - Able Lincoln on February 11, 1861, the day he left his hometown for Washington
+>
+> ---
