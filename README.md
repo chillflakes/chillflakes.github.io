@@ -1,3 +1,17 @@
+> ## A Slumber did my Spirit Seal By William Wordsworth
+> 
+> > A slumber did my spirit seal;\
+> > I had no human fears:\
+> > She seemed a thing that could not feel\
+> > The touch of earthly years.
+> >  
+> > No motion has she now, no force;\
+> > She neither hears nor sees;\
+> > Rolled round in earth's diurnal course,\
+> > With rocks, and stones, and trees.
+
+---
+
 > ## Say not the Struggle nought Availeth By Arthur Hugh Clough
 > 
 > > Say not the struggle nought availeth,\
