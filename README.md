@@ -1,16 +1,16 @@
 > ## Away by James Whitcomb Riley
 > 
-> > I cannot say and I will not say
-> > That she is dead, she is just away.
-> > With a cheery smile and a wave of hand
-> > She has wandered into an unknown land;
-> > And left us dreaming how very fair
-> > Its needs must be, since she lingers there.
-> > And you-oh you, who the wildest yearn
-> > From the old-time step and the glad return-
-> > Think of her faring on, as dear
-> > In the love of there, as the love of here
-> > Think of her still the same way, I say;
+> > I cannot say and I will not say\
+> > That she is dead, she is just away.\
+> > With a cheery smile and a wave of hand\
+> > She has wandered into an unknown land;\
+> > And left us dreaming how very fair\
+> > Its needs must be, since she lingers there.\
+> > And you-oh you, who the wildest yearn\
+> > From the old-time step and the glad return-\
+> > Think of her faring on, as dear\
+> > In the love of there, as the love of here\
+> > Think of her still the same way, I say;\
 > > She is not dead, she is just away.
 
 ---
