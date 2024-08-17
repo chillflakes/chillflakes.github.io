@@ -5183,6 +5183,12 @@
 
 ---
 
+> # Multi-Part poems
+>
+> > [In Memoriam A. H. H. by Alfred, Lord Tennyson](https://poets.org/poem/memoriam-h-h)
+
+---
+
 > # Shayari
 >
 > > ये सारा जिस्म झुक कर बोझ से दोहरा हुआ होगा \
