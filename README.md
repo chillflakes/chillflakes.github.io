@@ -1,6 +1,5 @@
 <details>
-  <summary>Click me</summary>
-  
+  <summary>I Am! by John Clare</summary>
 > ## I Am! by John Clare 
 >  
 > > I am! yet what I am none cares or knows,\
@@ -23,13 +22,6 @@
 > > And sleep as I in childhood sweetly slept:\
 > > Untroubling and untroubled where I lie;\
 > > The grass below—above the vaulted sky.
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
 
 > ## I Am! by John Clare 
