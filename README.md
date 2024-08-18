@@ -5571,12 +5571,22 @@
 > # Shayari
 >
 > > ये सारा जिस्म झुक कर बोझ से दोहरा हुआ होगा \
-> > मैं सज्दे में नहीं था आप को धोका हुआ होगा \
+> > मैं सज्दे में नहीं था आप को धोका हुआ होगा 
 > > 
 > > यहाँ तक आते आते सूख जाती है कई नदियाँ \
 > > मुझे मालूम है पानी कहाँ ठहरा हुआ होगा
 > ---
 >
+> > so ek roz kyā huā \
+> > wafa pe behes chidh gayi \
+> > mai ishq ko amar kahoon\
+> > vo merī zid se chidh gayi\
+> > mai ishq ka asiir tha\
+> > vo ishq ko qafas kahe \
+> > ki umar bhar ke saath ko \
+> > vo bad-tar-az-havas kahe
+> ---
+> 
 
 ---
 
