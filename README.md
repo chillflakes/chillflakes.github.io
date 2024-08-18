@@ -6988,4 +6988,8 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 > > “If, after I depart this vale, you ever remember me and have thought to please my ghost, forgive some sinner and wink your eye at some homely girl.” ― H. L. Mencken
 > 
 > ---
+>
+> > "There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.” - William Shakespeare
+>
+> ---
 > 
