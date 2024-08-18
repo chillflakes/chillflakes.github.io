@@ -1,3 +1,19 @@
+> ## Inventory by Dorothy Parker
+> 
+> > Four be the things I am wiser to know:\
+> > Idleness, sorrow, a friend, and a foe.
+> >  
+> > Four be the things I’d been better without:\
+> > Love, curiosity, freckles, and doubt.
+> >  
+> > Three be the things I shall never attain:\
+> > Envy, content, and sufficient champagne.
+> >  
+> > Three be the things I shall have till I die:\
+> > Laughter and hope and a sock in the eye.
+
+---
+
 > ## How Clear, How Lovely Bright by A. E. Housman
 > 
 > > How clear, how lovely bright,\
@@ -7045,6 +7061,16 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 > ---
 >
 > > “Each of us has only a quantum of compassion. That if we lavish our concern on every stray cat, we never get to the centre of things.” ― John le Carré, Tinker Tailor Soldier Spy
+>
+> ---
+>
+> > “Where other men blindly follow the truth, Remember, nothing is true.\
+> > Where other men are limited by morality or law, Remember, everything is permitted.\
+> > We work in the dark to serve the light.” ― Assassins Creed
+>
+> ---
+>
+> > “What moves men of genius, or rather, what inspires their work, is not new ideas, but their obsession with the idea that what has already been said is not enough.” ― Edouard Delacroix
 >
 > ---
 > 
