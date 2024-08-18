@@ -1,3 +1,31 @@
+> ## How Clear, How Lovely Bright by A. E. Housman
+> 
+> > How clear, how lovely bright,\
+> > How beautiful to sight\
+> >     Those beams of morning play;\
+> > How heaven laughs out with glee\
+> > Where, like a bird set free,\
+> > Up from the eastern sea\
+> >     Soars the delightful day.
+> >  
+> > To-day I shall be strong,\
+> > No more shall yield to wrong,\
+> >     Shall squander life no more;\
+> > Days lost, I know not how,\
+> > I shall retrieve them now;\
+> > Now I shall keep the vow\
+> >     I never kept before.
+> >  
+> > Ensanguining the skies\
+> > How heavily it dies\
+> >     Into the west away;\
+> > Past touch and sight and sound\
+> > Not further to be found,\
+> > How hopeless under ground\
+> >     Falls the remorseful day.
+
+---
+
 > ## The Gift by Sara Teasdale
 > 
 > > What can I give you, my lord, my lover,\
