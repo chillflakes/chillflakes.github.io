@@ -5596,6 +5596,13 @@
 >
 > ---
 > 
+> > Garibi Tod Deti Hai Jo Rishte Khaas Hote Hain \
+> > Aur Paraaye Apne Hote Hain Jab Paise Paas Hote Hain\
+> > Har Yaar Wafadaar Nahi Hota\
+> > Har Patthar Chamakdar Nahi Hota \
+> > Na Jaane Ban Mein Kitne Phool Khile Hain\
+> > Magar Har Phool Khushbudar Nahi Hota
+
 
 ---
 
