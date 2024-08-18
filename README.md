@@ -5654,7 +5654,13 @@
 > > Aakhir mein tang aa kar humne dono ko adhoora chor diya
 >
 > ---
+>
+> > tum jab aaogi to khoyā huā paaogi mujhe \
+> > meri tanhaayi mein khvabon ke sivaa kuchh bhi nahin\
+> > mere kamre ko sajāne ki tamannā hai tumhein\
+> > mere kamre mein kitaabon ke sivaa kuchh bhi nahin
 > 
+> ---
 
 
 ---
