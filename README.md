@@ -5602,6 +5602,35 @@
 > > Har Patthar Chamakdar Nahi Hota \
 > > Na Jaane Ban Mein Kitne Phool Khile Hain\
 > > Magar Har Phool Khushbudar Nahi Hota
+>
+> ---
+>
+> > Humne mohabbat ke nashe mein aakar usse khuda bana daala\
+> > Hosh tab aaya jab usne kaha ke khuda kisi ek ka nai hota
+>
+> ---
+>
+> > आह को चाहिए एक उम्र असर होने तक\
+> > कौन जीता हैं तेरी ज़ुल्फ़ कि सर होने तक
+> >  
+> > आशिक़ी सब्र तलब और तमन्ना बेताब\
+> > दिल का क्या रंग करून खून -ऐ -जिगर होने तक
+> >  
+> > हमने माना कि तग़ाफ़ुल न करोगे लेकिन\
+> > ख़ाक हो जायेंगे हम , तुमको खबर होने तक
+>
+> ---
+>
+> > Khushkismat the wo log Jo ishq ko kaam samjhte the,\
+> > Ya kaam se ashiqui karte the
+> >  
+> > Hum jeete jee mashroof rahe kuch ishq kiya, kuch kaam kiya\
+> > Kaam, ishq ke aade aata raha \
+> > Ishq se kaam bigadta raha\
+> > Aakhir mein tang aa kar humne dono ko adhoora chor diya
+>
+> ---
+> 
 
 
 ---
