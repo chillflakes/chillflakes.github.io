@@ -6760,4 +6760,8 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 > > "Far better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to rank with those poor spirits who neither enjoy nor suffer much, because they live in the gray twilight that knows not victory nor defeat." - Theodore Roosevelt
 >
 > ---
+>
+> > “If, after I depart this vale, you ever remember me and have thought to please my ghost, forgive some sinner and wink your eye at some homely girl.” ― H. L. Mencken
+> 
+> ---
 > 
