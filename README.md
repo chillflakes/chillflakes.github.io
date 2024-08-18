@@ -7036,4 +7036,15 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 > > “The ultimate weakness of violence is that it is a descending spiral, begetting the very thing it seeks to destroy. Instead of diminishing evil, it multiplies it. Through violence you may murder the liar, but you cannot murder the lie, nor establish the truth. Through violence you murder the hater, but you do not murder hate. In fact, violence merely increases hate...Returning violence for violence multiplies violence, adding deeper darkness to a night already devoid of stars. Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.” ― Martin Luther King Jr.
 >
 > ---
+>
+> > “Age is, of course, a fever chill\
+> > That every physicist must fear.\
+> > He's better dead than living still \
+> > When once he's past his thirtieth year.” ― Paul Dirac
+>
+> ---
+>
+> > “Each of us has only a quantum of compassion. That if we lavish our concern on every stray cat, we never get to the centre of things.” ― John le Carré, Tinker Tailor Soldier Spy
+>
+> ---
 > 
