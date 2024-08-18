@@ -5575,6 +5575,7 @@
 > > 
 > > यहाँ तक आते आते सूख जाती है कई नदियाँ \
 > > मुझे मालूम है पानी कहाँ ठहरा हुआ होगा
+> 
 > ---
 >
 > > so ek roz kyā huā \
@@ -5585,6 +5586,14 @@
 > > vo ishq ko qafas kahe \
 > > ki umar bhar ke saath ko \
 > > vo bad-tar-az-havas kahe
+> 
+> ---
+> 
+> > Shayad mujhe kisi se mohobbat nahi hui, lekin yakeen sabko dilata raha hoon mai.\
+> > Ek satr bhi kabhi na likhi maine tere naam, Pagal tujhi ko yaad bhi aata raha hoon mai.\
+> > Apna misaliya mujhe ab tak na mil saka, Zarron ko aaftaab banata raha hu mai.\
+> > Kal dopeher ajeeb si ik be-dili rahi, Bas teeliyaan jala ke bujhata raha hoon mai.
+>
 > ---
 > 
 
