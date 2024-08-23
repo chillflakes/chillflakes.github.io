@@ -1,4 +1,3 @@
-# List of Poems
 
 - [List of Poems](#list-of-poems)
   - [Inventory by Dorothy Parker](#inventory-by-dorothy-parker)
