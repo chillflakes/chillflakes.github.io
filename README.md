@@ -1,4 +1,173 @@
-> ## Inventory by Dorothy Parker
+# List of Poems
+
+- [List of Poems](#list-of-poems)
+  - [Inventory by Dorothy Parker](#inventory-by-dorothy-parker)
+  - [How Clear, How Lovely Bright by A. E. Housman](#how-clear-how-lovely-bright-by-a-e-housman)
+  - [The Gift by Sara Teasdale](#the-gift-by-sara-teasdale)
+  - [A Dialogue of Self and Soul By William Butler Yeats](#a-dialogue-of-self-and-soul-by-william-butler-yeats)
+  - [There Will Come Soft Rains by Sara Teasdale](#there-will-come-soft-rains-by-sara-teasdale)
+  - [Dreams by Langston Hughes](#dreams-by-langston-hughes)
+  - [Four Winds by Sara Teasdale](#four-winds-by-sara-teasdale)
+  - [After dark vapors have oppress'd our plains by John Keats](#after-dark-vapors-have-oppressd-our-plains-by-john-keats)
+  - [I Love You by Sara Teasdale](#i-love-you-by-sara-teasdale)
+  - ["I cry your mercy-pity-love! -aye, love!" By John Keats](#i-cry-your-mercy-pity-love--aye-love-by-john-keats)
+  - [In drear nighted December by John Keats](#in-drear-nighted-december-by-john-keats)
+  - [A Slumber did my Spirit Seal By William Wordsworth](#a-slumber-did-my-spirit-seal-by-william-wordsworth)
+  - [Say not the Struggle nought Availeth By Arthur Hugh Clough](#say-not-the-struggle-nought-availeth-by-arthur-hugh-clough)
+  - [When You Are Old By William Butler Yeats](#when-you-are-old-by-william-butler-yeats)
+  - [The New Colossus By Emma Lazarus](#the-new-colossus-by-emma-lazarus)
+  - [Away by James Whitcomb Riley](#away-by-james-whitcomb-riley)
+  - [My Shadow By Robert Louis Stevenson](#my-shadow-by-robert-louis-stevenson)
+  - [I Am! by John Clare](#i-am-by-john-clare)
+  - [Lines Written in Early Spring by William Wordsworth](#lines-written-in-early-spring-by-william-wordsworth)
+  - [How Did You Die? by Edmund Vance Cooke](#how-did-you-die-by-edmund-vance-cooke)
+  - [Swimmers by Louis Untermeyer](#swimmers-by-louis-untermeyer)
+  - [Ode on a Grecian Urn By John Keats](#ode-on-a-grecian-urn-by-john-keats)
+  - [A Character by William Wordsworth](#a-character-by-william-wordsworth)
+  - [Always Marry An April Girl by Ogden Nash](#always-marry-an-april-girl-by-ogden-nash)
+  - [Remember by Christina Rossetti](#remember-by-christina-rossetti)
+  - [And Death Shall Have No Dominion by Dylan Thomas](#and-death-shall-have-no-dominion-by-dylan-thomas)
+  - [I broke the spell that held me long by William Cullen Bryant](#i-broke-the-spell-that-held-me-long-by-william-cullen-bryant)
+  - [Spirits Of The Dead by Edgar Allan Poe](#spirits-of-the-dead-by-edgar-allan-poe)
+  - [Sonnet - To Science by Edgar Allan Poe](#sonnet---to-science-by-edgar-allan-poe)
+  - [Two Doves upon the selfsame Branch by Christina Rossetti](#two-doves-upon-the-selfsame-branch-by-christina-rossetti)
+  - [Concord Hymn by Ralph Waldo Emerson](#concord-hymn-by-ralph-waldo-emerson)
+  - [Carpe Diem by William Shakespeare](#carpe-diem-by-william-shakespeare)
+  - [Brown Penny by William Butler Yeats](#brown-penny-by-william-butler-yeats)
+  - [No more now with jealous complaining by Robert Laurence Binyon](#no-more-now-with-jealous-complaining-by-robert-laurence-binyon)
+  - [A Wish by Matthew Arnold](#a-wish-by-matthew-arnold)
+  - [The Doubter's Prayer by Anne Bronte](#the-doubters-prayer-by-anne-bronte)
+  - [Farewell by Anne Bronte](#farewell-by-anne-bronte)
+  - [An Invite to Eternity by John Clare](#an-invite-to-eternity-by-john-clare)
+  - [Eternity by Robert Herrick](#eternity-by-robert-herrick)
+  - [Dover Beach by Matthew Arnold](#dover-beach-by-matthew-arnold)
+  - [The Light of Stars By Henry Wadsworth Longfellow](#the-light-of-stars-by-henry-wadsworth-longfellow)
+  - [Hero And Leander: The First Sestiad by Christopher Marlowe (Partial)](#hero-and-leander-the-first-sestiad-by-christopher-marlowe-partial)
+  - [Dying Speech of an Old Philosopher by Walter Savage Landor](#dying-speech-of-an-old-philosopher-by-walter-savage-landor)
+  - [Remind Me Not, Remind Me Not by Lord Byron](#remind-me-not-remind-me-not-by-lord-byron)
+  - [Vita Nuova by Oscar Wilde](#vita-nuova-by-oscar-wilde)
+  - [Sea Fever by John Masefield](#sea-fever-by-john-masefield)
+  - [Simon Lee: The Old Huntsman by William Wordsworth](#simon-lee-the-old-huntsman-by-william-wordsworth)
+  - [The Meeting by Henry Wadsworth Longfellow](#the-meeting-by-henry-wadsworth-longfellow)
+  - [A Song of Flight by Christina Rossetti](#a-song-of-flight-by-christina-rossetti)
+  - [La Fuite De La Lune by Oscar Wilde (The Moon's Escape)](#la-fuite-de-la-lune-by-oscar-wilde-the-moons-escape)
+  - [Time by Percy Bysshe Shelly](#time-by-percy-bysshe-shelly)
+  - [The Two Spirits: An Allegory by Percy Bysshe Shelly](#the-two-spirits-an-allegory-by-percy-bysshe-shelly)
+  - [Nemesis by H.P. Lovecraft](#nemesis-by-hp-lovecraft)
+  - [Hymn of Apollo by Percy Bysshe Shelley](#hymn-of-apollo-by-percy-bysshe-shelley)
+  - [Recollections of Love by Samuel Taylor Coleridge](#recollections-of-love-by-samuel-taylor-coleridge)
+  - [When I have fears by John Keats](#when-i-have-fears-by-john-keats)
+  - [The Nightingale by Mark Akenside](#the-nightingale-by-mark-akenside)
+  - [The Tables Turned by William Wordworth](#the-tables-turned-by-william-wordworth)
+  - [Sonnet - Silence by Edgar Allan Poe](#sonnet---silence-by-edgar-allan-poe)
+  - [O Do Not Love Too Long by William Butler Yeats](#o-do-not-love-too-long-by-william-butler-yeats)
+  - [The Presence Of Love by Samuel Taylor Coleridge](#the-presence-of-love-by-samuel-taylor-coleridge)
+  - [The Pilgrims by John Mccrae](#the-pilgrims-by-john-mccrae)
+  - [If I had but Two Little Wings by Samuel Taylor Coleridge](#if-i-had-but-two-little-wings-by-samuel-taylor-coleridge)
+  - [In Flanders fields by John Mccrae](#in-flanders-fields-by-john-mccrae)
+  - [Her Voice by Oscar Wilde](#her-voice-by-oscar-wilde)
+  - [Roses And Rue by Oscar Wilde](#roses-and-rue-by-oscar-wilde)
+  - [The Pains of Sleep by Samuel Taylor Coleridge](#the-pains-of-sleep-by-samuel-taylor-coleridge)
+  - [Her Anxiety by William Butler Yeats](#her-anxiety-by-william-butler-yeats)
+  - [A Drunken Man's Praise Of Sobriety by William Butler Yeats](#a-drunken-mans-praise-of-sobriety-by-william-butler-yeats)
+  - [The Half Moon by Christina Rossetti](#the-half-moon-by-christina-rossetti)
+  - [A Valediction: Forbidding Mourning By John Donne](#a-valediction-forbidding-mourning-by-john-donne)
+  - [The Pains Of Sleep by Samuel Taylor Coleridge](#the-pains-of-sleep-by-samuel-taylor-coleridge-1)
+  - [The Nature by Henry David Thoreau](#the-nature-by-henry-david-thoreau)
+  - [Indeed indeed, I cannot tell by Henry David Thoreau](#indeed-indeed-i-cannot-tell-by-henry-david-thoreau)
+  - [My Garden by Ralph Waldo Emerson](#my-garden-by-ralph-waldo-emerson)
+  - [I taste a liquor never brewed by Emily Dickinson](#i-taste-a-liquor-never-brewed-by-emily-dickinson)
+  - [O Captain My Captain by Walt Whitman](#o-captain-my-captain-by-walt-whitman)
+  - [The Passionate Shepherd to His Love By Christopher Marlowe](#the-passionate-shepherd-to-his-love-by-christopher-marlowe)
+  - [The Charge of the Light Brigade by Alfred Lord Tennyson](#the-charge-of-the-light-brigade-by-alfred-lord-tennyson)
+  - [The World is Too Much With Us by William Wordsworth](#the-world-is-too-much-with-us-by-william-wordsworth)
+  - [Evening Solace by Charlotte Bronte](#evening-solace-by-charlotte-bronte)
+  - [As She Passes by Fernando Pessoa](#as-she-passes-by-fernando-pessoa)
+  - [The Bride Of The Sea by H.P. Lovecraft](#the-bride-of-the-sea-by-hp-lovecraft)
+  - [After Thought by Alfred Lord Tennyson](#after-thought-by-alfred-lord-tennyson)
+  - [The Day is Done by Henry Wadsworth Longfellow](#the-day-is-done-by-henry-wadsworth-longfellow)
+  - [I Am Tired by Fernando Pessoa](#i-am-tired-by-fernando-pessoa)
+  - [Because I could not stop for Death by Emily Dickinson](#because-i-could-not-stop-for-death-by-emily-dickinson)
+  - [A Dream by Edgar Allan Poe](#a-dream-by-edgar-allan-poe)
+  - [Love’s Secret by William Blake](#loves-secret-by-william-blake)
+  - [The Solitary Reaper by William Wordsworth](#the-solitary-reaper-by-william-wordsworth)
+  - [A Lament by P.B.Shelly](#a-lament-by-pbshelly)
+  - [True Beauty by Francis Beaumont](#true-beauty-by-francis-beaumont)
+  - [When I am dead, My Dearest by Christina Rossetti](#when-i-am-dead-my-dearest-by-christina-rossetti)
+  - [Reconciliation by William Butler Yeats](#reconciliation-by-william-butler-yeats)
+  - [Lines on The Mermaid Tavern by John Keats](#lines-on-the-mermaid-tavern-by-john-keats)
+  - [A Sonnet by Francis Beaumont](#a-sonnet-by-francis-beaumont)
+  - [Despair by H.P.Lovecraft](#despair-by-hplovecraft)
+  - [Think Of It Not Sweet One by John Keats](#think-of-it-not-sweet-one-by-john-keats)
+  - [1914 by Wilfred Owen](#1914-by-wilfred-owen)
+  - [Have You Forgotten by Christina Rossetti](#have-you-forgotten-by-christina-rossetti)
+  - [The Rose by Christina Rossetti](#the-rose-by-christina-rossetti)
+  - [A Complaint by William Wordsworth](#a-complaint-by-william-wordsworth)
+  - [The Land of Dreams by William Blake](#the-land-of-dreams-by-william-blake)
+  - [What Are Heavy by Cristina Rossetti](#what-are-heavy-by-cristina-rossetti)
+  - [The Lily by William Blake](#the-lily-by-william-blake)
+  - [Adam’s Curse by William Butler Yeats](#adams-curse-by-william-butler-yeats)
+  - [From the Greek by Abraham Cowley](#from-the-greek-by-abraham-cowley)
+  - [Hope by Emily Dickinson](#hope-by-emily-dickinson)
+  - [She Walks in Beauty by Lord Byron](#she-walks-in-beauty-by-lord-byron)
+  - [I Wander Lonely as a Cloud by William Wordsworth](#i-wander-lonely-as-a-cloud-by-william-wordsworth)
+  - [So We'll Go No More a Roving by Lord Byron](#so-well-go-no-more-a-roving-by-lord-byron)
+  - [Funeral Blues by W. H. Auden](#funeral-blues-by-w-h-auden)
+  - [I have outlasted all desire by Alexander Pushkin](#i-have-outlasted-all-desire-by-alexander-pushkin)
+  - [When we two parted by Lord Byron](#when-we-two-parted-by-lord-byron)
+  - [The Builders by Henry Wadsworth Longfellow](#the-builders-by-henry-wadsworth-longfellow)
+  - [Love’s Philosophy by P.B. Shelly](#loves-philosophy-by-pb-shelly)
+  - [Guiltless Heart by Sir Francis Bacon](#guiltless-heart-by-sir-francis-bacon)
+  - [Hey, That's No Way To Say Goodbye by Leonard Cohen](#hey-thats-no-way-to-say-goodbye-by-leonard-cohen)
+  - [A dream within a dream by Edgar Allan Poe](#a-dream-within-a-dream-by-edgar-allan-poe)
+  - [Bright Star, Would I Were Steadfast As Thou Art by  John Keats](#bright-star-would-i-were-steadfast-as-thou-art-by--john-keats)
+  - [My Lost Youth by Henry Wadsworth Lingfellow](#my-lost-youth-by-henry-wadsworth-lingfellow)
+  - [Evolutionary Hymn by C.S. Lewis](#evolutionary-hymn-by-cs-lewis)
+  - [The Indian Serenade by Percy Bysshe Shelly](#the-indian-serenade-by-percy-bysshe-shelly)
+  - [Spellbound by Emily Bronte](#spellbound-by-emily-bronte)
+  - [A Farewell by Alfred Lord Tennyson](#a-farewell-by-alfred-lord-tennyson)
+  - [The First Kiss of Love by Lord Byron](#the-first-kiss-of-love-by-lord-byron)
+  - [Song Of The Master And Boatswain by W.H. Auden](#song-of-the-master-and-boatswain-by-wh-auden)
+  - [A Stare's Nest By The Window by WIlliam Butler Yeats](#a-stares-nest-by-the-window-by-william-butler-yeats)
+  - [Invictus by William Ernest Henley](#invictus-by-william-ernest-henley)
+  - [If By Rudyard Kipling](#if-by-rudyard-kipling)
+  - [Annabel Lee By Edgar Allan Poe](#annabel-lee-by-edgar-allan-poe)
+  - [Somewhere I have never travelled,gladly beyond by E.E Cummings](#somewhere-i-have-never-travelledgladly-beyond-by-ee-cummings)
+  - [At the British War Cemetery, Bayeux (From Charles Causley)](#at-the-british-war-cemetery-bayeux-from-charles-causley)
+  - [The Road Not Taken by Robert Frost](#the-road-not-taken-by-robert-frost)
+  - [Gather ye Rosebuds by  Robert Herrick](#gather-ye-rosebuds-by--robert-herrick)
+  - [Psalm of life by William Wordsworth](#psalm-of-life-by-william-wordsworth)
+  - [Fire and Ice By Robert Frost](#fire-and-ice-by-robert-frost)
+  - [Alone by Edgar Allan Poe](#alone-by-edgar-allan-poe)
+  - [Tithonus](#tithonus)
+  - [Tolkien Gateway](#tolkien-gateway)
+  - [A Boundless Moment, By Robert Frost](#a-boundless-moment-by-robert-frost)
+  - [Childe Harold's Pilgrimage by George Gordon Byron](#childe-harolds-pilgrimage-by-george-gordon-byron)
+  - [Do not go gentle into that good night by Dylan Thomas](#do-not-go-gentle-into-that-good-night-by-dylan-thomas)
+  - [The Prowling Bee by Emily Dickinson](#the-prowling-bee-by-emily-dickinson)
+  - [To His Coy Mistress By Andrew Marvell](#to-his-coy-mistress-by-andrew-marvell)
+  - [Ae Fond Kiss By Robert Burns](#ae-fond-kiss-by-robert-burns)
+  - [Mortality by William Knox](#mortality-by-william-knox)
+  - [The Suicide's Soliloquy by Abraham Lincoln](#the-suicides-soliloquy-by-abraham-lincoln)
+  - [To You by Walt Whitman](#to-you-by-walt-whitman)
+  - [A Daughter of Eve By Christina Rossetti](#a-daughter-of-eve-by-christina-rossetti)
+  - [A Legacy by Johann Wolfgang von Goethe](#a-legacy-by-johann-wolfgang-von-goethe)
+  - [Longing is like the seed by Emily Dickinson](#longing-is-like-the-seed-by-emily-dickinson)
+  - [Cosmic Gall by John Updike](#cosmic-gall-by-john-updike)
+  - [I know why the caged bird sings by Maya Angelou](#i-know-why-the-caged-bird-sings-by-maya-angelou)
+  - [My Vocation by Toru Dutt](#my-vocation-by-toru-dutt)
+  - [A Drinking Song By William Butler Yeats](#a-drinking-song-by-william-butler-yeats)
+  - [Blood on the Risers (American Paratrooper Song)](#blood-on-the-risers-american-paratrooper-song)
+  - [The Season of Youth by Wiliam Knox](#the-season-of-youth-by-wiliam-knox)
+  - [Ulysses by Alfred Lord Tennyson](#ulysses-by-alfred-lord-tennyson)
+  - [Sorrow of Love by William Bulter Yeats](#sorrow-of-love-by-william-bulter-yeats)
+  - [There is a solitude of space by Emily Dickinson](#there-is-a-solitude-of-space-by-emily-dickinson)
+  - [Auguries of Innocence by William Blake](#auguries-of-innocence-by-william-blake)
+  - [जब नाव जल में छोड़ दी - हरिवंशराय बच्चन](#जब-नाव-जल-में-छोड़-दी---हरिवंशराय-बच्चन)
+- [Quotes](#quotes)
+
+
+## Inventory by Dorothy Parker
 > 
 > > Four be the things I am wiser to know:\
 > > Idleness, sorrow, a friend, and a foe.
@@ -14,7 +183,7 @@
 
 ---
 
-> ## How Clear, How Lovely Bright by A. E. Housman
+## How Clear, How Lovely Bright by A. E. Housman
 > 
 > > How clear, how lovely bright,\
 > > How beautiful to sight\
@@ -42,7 +211,7 @@
 
 ---
 
-> ## The Gift by Sara Teasdale
+## The Gift by Sara Teasdale
 > 
 > > What can I give you, my lord, my lover,\
 > > You who have given the world to me,\
@@ -61,9 +230,9 @@
 
 ---
 
-> ## A Dialogue of Self and Soul By William Butler Yeats
+## A Dialogue of Self and Soul By William Butler Yeats
 > 
-> > ### I 
+> ### I 
 > >  
 > > My Soul. I summon to the winding ancient stair;\
 > >    Set all your mind upon the steep ascent,\
@@ -110,7 +279,7 @@
 > >    Only the dead can be forgiven;\
 > >    But when I think of that my tongue's a stone.
 > >  
-> > ### II 
+> ### II 
 > >  
 > > My Self. A living man is blind and drinks his drop.\
 > > What matter if the ditches are impure?\
@@ -150,7 +319,7 @@
 
 ---
 
-> ## There Will Come Soft Rains by Sara Teasdale
+## There Will Come Soft Rains by Sara Teasdale
 > 
 > > (War Time)
 > >  
@@ -174,7 +343,7 @@
 
 ---
 
-> ## Dreams by Langston Hughes
+## Dreams by Langston Hughes
 > 
 > > Hold fast to dreams \
 > > For if dreams die\
@@ -188,7 +357,7 @@
 
 ---
 
-> ## Four Winds by Sara Teasdale
+## Four Winds by Sara Teasdale
 > 
 > > "Four winds blowing thro' the sky,\
 > > You have seen poor maidens die,\
@@ -207,7 +376,7 @@
 
 ---
 
-> ## After dark vapors have oppress'd our plains by John Keats
+## After dark vapors have oppress'd our plains by John Keats
 > 
 > > After dark vapors have oppress'd our plains\
 > >    For a long dreary season, comes a day\
@@ -226,7 +395,7 @@
 
 ---
 
-> ## I Love You by Sara Teasdale
+## I Love You by Sara Teasdale
 > 
 > > When April bends above me\
 > > And finds me fast asleep,\
@@ -250,7 +419,7 @@
 
 ---
 
-> ## "I cry your mercy-pity-love! -aye, love!" By John Keats
+## "I cry your mercy-pity-love! -aye, love!" By John Keats
 > 
 > > I cry your mercy—pity—love!—aye, love!\
 > > Merciful love that tantalizes not,\
@@ -269,7 +438,7 @@
 
 ---
 
-> ## In drear nighted December by John Keats
+## In drear nighted December by John Keats
 > 
 > > In drear nighted December, \
 > >    Too happy, happy tree, \
@@ -300,7 +469,7 @@
 
 ---
 
-> ## A Slumber did my Spirit Seal By William Wordsworth
+## A Slumber did my Spirit Seal By William Wordsworth
 > 
 > > A slumber did my spirit seal;\
 > > I had no human fears:\
@@ -314,7 +483,7 @@
 
 ---
 
-> ## Say not the Struggle nought Availeth By Arthur Hugh Clough
+## Say not the Struggle nought Availeth By Arthur Hugh Clough
 > 
 > > Say not the struggle nought availeth,\
 > >      The labour and the wounds are vain,\
@@ -338,7 +507,7 @@
 
 ---
 
-> ## When You Are Old By William Butler Yeats
+## When You Are Old By William Butler Yeats
 >  
 > > When you are old and grey and full of sleep,\
 > > And nodding by the fire, take down this book,\
@@ -357,7 +526,7 @@
 
 ---
 
-> ## The New Colossus By Emma Lazarus
+## The New Colossus By Emma Lazarus
 > 
 > > Not like the brazen giant of Greek fame,\
 > > With conquering limbs astride from land to land;\
@@ -376,7 +545,7 @@
 
 ---
 
-> ## Away by James Whitcomb Riley
+## Away by James Whitcomb Riley
 > 
 > > I cannot say and I will not say\
 > > That she is dead, she is just away.\
@@ -393,7 +562,7 @@
 
 ---
 
-> ## My Shadow By Robert Louis Stevenson
+## My Shadow By Robert Louis Stevenson
 >  
 > > I have a little shadow that goes in and out with me,\
 > > And what can be the use of him is more than I can see.\
@@ -417,7 +586,7 @@
 
 ---
 
-> ## I Am! by John Clare 
+## I Am! by John Clare 
 >  
 > > I am! yet what I am none cares or knows,\
 > > My friends forsake me like a memory lost;\
@@ -442,7 +611,7 @@
 
 ---
 
-> ## Lines Written in Early Spring by William Wordsworth 
+## Lines Written in Early Spring by William Wordsworth 
 >
 > > I heard a thousand blended notes,\
 > > While in a grove I sate reclined,\
@@ -476,7 +645,7 @@
 
 ---
 
-> ## How Did You Die? by Edmund Vance Cooke
+## How Did You Die? by Edmund Vance Cooke
 > 
 > > Did you tackle that trouble that came your way\
 > > With a resolute heart and cheerful?\
@@ -507,7 +676,7 @@
 
 ---
 
-> ## Swimmers by Louis Untermeyer
+## Swimmers by Louis Untermeyer
 >  
 > > I took the crazy short-cut to the bay;\
 > > Over a fence or two and through a hedge,\
@@ -573,7 +742,7 @@
 
 ---
 
-> ## Ode on a Grecian Urn By John Keats
+## Ode on a Grecian Urn By John Keats
 > 
 > > Thou still unravish'd bride of quietness,\
 > >        Thou foster-child of silence and slow time,\
@@ -632,7 +801,7 @@
 
 ---
 
-> ## A Character by William Wordsworth
+## A Character by William Wordsworth
 >  
 > > I marvel how Nature could ever find space\
 > > For so many strange contrasts in one human face:\
@@ -661,7 +830,7 @@
 
 ---
 
-> ## Always Marry An April Girl by Ogden Nash
+## Always Marry An April Girl by Ogden Nash
 > 
 > > Praise the spells and bless the charms,\
 > > I found April in my arms.\
@@ -674,7 +843,7 @@
 
 ---
 
-> ## Remember by Christina Rossetti
+## Remember by Christina Rossetti
 >  
 > > Remember me when I am gone away,\
 > >         Gone far away into the silent land;\
@@ -693,7 +862,7 @@
 
 ---
 
-> ## And Death Shall Have No Dominion by Dylan Thomas
+## And Death Shall Have No Dominion by Dylan Thomas
 >  
 > > And death shall have no dominion.\
 > > Dead men naked they shall be one\
@@ -727,7 +896,7 @@
 
 ---
 
-> ## I broke the spell that held me long by William Cullen Bryant
+## I broke the spell that held me long by William Cullen Bryant
 >  
 > > I broke the spell that held me long,\
 > > The dear, dear witchery of song.\
@@ -752,7 +921,7 @@
 
 ---
 
-> ## Spirits Of The Dead by Edgar Allan Poe
+## Spirits Of The Dead by Edgar Allan Poe
 >  
 > > Thy soul shall find itself alone\
 > > 'Mid dark thoughts of the grey tombstone;\
@@ -789,7 +958,7 @@
 
 ---
 
-> ## Sonnet - To Science by Edgar Allan Poe
+## Sonnet - To Science by Edgar Allan Poe
 >  
 > > Science! true daughter of Old Time thou art!\
 > > Who alterest all things with thy peering eyes.\
@@ -808,7 +977,7 @@
 
 ---
 
-> ## Two Doves upon the selfsame Branch by Christina Rossetti
+## Two Doves upon the selfsame Branch by Christina Rossetti
 >  
 > > Two doves upon the selfsame branch,\
 > >   Two lilies on a single stem,\
@@ -822,7 +991,7 @@
 
 ---
 
-> ## Concord Hymn by Ralph Waldo Emerson
+## Concord Hymn by Ralph Waldo Emerson
 >  
 > > By the rude bridge that arched the flood,\
 > >    Their flag to April’s breeze unfurled,\
@@ -846,7 +1015,7 @@
 
 ---
 
-> ## Carpe Diem by William Shakespeare
+## Carpe Diem by William Shakespeare
 >  
 > > O mistress mine, where are you roaming?\
 > > O stay and hear! your true-love's coming\
@@ -864,7 +1033,7 @@
 
 ---
 
-> ## Brown Penny by William Butler Yeats
+## Brown Penny by William Butler Yeats
 >  
 > > I whispered, 'I am too young,\
 > > 'And then, 'I am old enough';\
@@ -886,7 +1055,7 @@
 
 ---
 
-> ## No more now with jealous complaining by Robert Laurence Binyon
+## No more now with jealous complaining by Robert Laurence Binyon
 >  
 > > No more now with jealous complaining\
 > > Shall you be vext; nor I with fears\
@@ -905,7 +1074,7 @@
 
 ---
 
-> ## A Wish by Matthew Arnold
+## A Wish by Matthew Arnold
 >  
 > > I ask not that my bed of death\
 > > From bands of greedy heirs be free;\
@@ -974,7 +1143,7 @@
 
 ---
 
-> ## The Doubter's Prayer by Anne Bronte
+## The Doubter's Prayer by Anne Bronte
 >  
 > > Eternal Power, of earth and air!\
 > > Unseen, yet seen in all around,\
@@ -1037,7 +1206,7 @@
 
 ---
 
-> ## Farewell by Anne Bronte
+## Farewell by Anne Bronte
 >  
 > > Farewell to thee! but not farewell\
 > > To all my fondest thoughts of thee:\
@@ -1075,7 +1244,7 @@
 
 ---
 
-> ## An Invite to Eternity by John Clare
+## An Invite to Eternity by John Clare
 >  
 > > Wilt thou go with me, sweet maid,\
 > > Say, maiden, wilt thou go with me\
@@ -1115,7 +1284,7 @@
 
 ---
 
-> ## Eternity by Robert Herrick
+## Eternity by Robert Herrick
 >  
 > > O years! and age! farewell:\
 > > Behold I go,\
@@ -1134,7 +1303,7 @@
 
 ---
 
-> ## Dover Beach by Matthew Arnold
+## Dover Beach by Matthew Arnold
 >  
 > > Context: Sophocles is one of three ancient Greek tragedians whose plays have survived. His first plays were written later than, or contemporary with, those of Aeschylus; and earlier than, or contemporary with, those of Euripides
 > >  
@@ -1181,7 +1350,7 @@
 
 ---
 
-> ## The Light of Stars By Henry Wadsworth Longfellow
+## The Light of Stars By Henry Wadsworth Longfellow
 >  
 > > The night is come, but not too soon;\
 > >   And sinking silently,\
@@ -1230,7 +1399,7 @@
 
 ---
 
-> ## Hero And Leander: The First Sestiad by Christopher Marlowe (Partial)
+## Hero And Leander: The First Sestiad by Christopher Marlowe (Partial)
 >  
 > > It lies not in our power to love or hate,\
 > > For will in us is over-rul’d by fate.\
@@ -1245,7 +1414,7 @@
 
 ---
 
-> ## Dying Speech of an Old Philosopher by Walter Savage Landor
+## Dying Speech of an Old Philosopher by Walter Savage Landor
 >  
 > > I strove with none, for none was worth my strife:\
 > > Nature I loved, and, next to Nature, Art:\
@@ -1254,7 +1423,7 @@
 
 ---
 
-> ## Remind Me Not, Remind Me Not by Lord Byron
+## Remind Me Not, Remind Me Not by Lord Byron
 >  
 > > Remind me not, remind me not,\
 > > Of those beloved, those vanish'd hours,\
@@ -1300,7 +1469,7 @@
 
 ---
 
-> ## Vita Nuova by Oscar Wilde
+## Vita Nuova by Oscar Wilde
 >  
 > > I stood by the unvintageable sea\
 > > Till the wet waves drenched face and hair with spray;\
@@ -1319,7 +1488,7 @@
 
 ---
 
-> ## Sea Fever by John Masefield
+## Sea Fever by John Masefield
 >  
 > > I must go down to the seas again, to the lonely sea and the sky,\
 > > And all I ask is a tall ship and a star to steer her by;\
@@ -1338,7 +1507,7 @@
 
 ---
 
-> ## Simon Lee: The Old Huntsman by William Wordsworth
+## Simon Lee: The Old Huntsman by William Wordsworth
 >  
 > > In the sweet shire of Cardigan,\
 > > Not far from pleasant Ivor-hall,\
@@ -1450,7 +1619,7 @@
 
 ---
 
-> ## The Meeting by Henry Wadsworth Longfellow
+## The Meeting by Henry Wadsworth Longfellow
 >  
 > > After so long an absence\
 > >   At last we meet agin:\
@@ -1484,7 +1653,7 @@
 
 ---
 
-> ## A Song of Flight by Christina Rossetti
+## A Song of Flight by Christina Rossetti
 >  
 > > While we slumber and sleep,\
 > > The sun leaps up from the deep,--\
@@ -1506,7 +1675,7 @@
 
 ---
 
-> ## La Fuite De La Lune by Oscar Wilde (The Moon's Escape)
+## La Fuite De La Lune by Oscar Wilde (The Moon's Escape)
 >  
 > > To outer senses there is peace,\
 > > A dreamy peace on either hand\
@@ -1525,7 +1694,7 @@
 
 ---
 
-> ## Time by Percy Bysshe Shelly
+## Time by Percy Bysshe Shelly
 >  
 > > Unfathomable Sea! whose waves are years,\
 > > Ocean of Time, whose waters of deep woe\
@@ -1541,7 +1710,7 @@
 
 ---
 
-> ## The Two Spirits: An Allegory by Percy Bysshe Shelly
+## The Two Spirits: An Allegory by Percy Bysshe Shelly
 >  
 > > FIRST SPIRIT\
 > > O thou, who plum'd with strong desire\
@@ -1603,7 +1772,7 @@
 
 ---
 
-> ## Nemesis by H.P. Lovecraft
+## Nemesis by H.P. Lovecraft
 >  
 > > Through the ghoul-guarded gateways of slumber,\
 > > Past the wan-mooned abysses of night,\
@@ -1673,7 +1842,7 @@
 
 ---
 
-> ## Hymn of Apollo by Percy Bysshe Shelley
+## Hymn of Apollo by Percy Bysshe Shelley
 >  
 > > The sleepless Hours who watch me as I lie,\
 > > Curtained with star-inwoven tapestries,\
@@ -1719,7 +1888,7 @@
 
 ---
 
-> ## Recollections of Love by Samuel Taylor Coleridge
+## Recollections of Love by Samuel Taylor Coleridge
 >  
 > > *__How warm this woodland wild Recess !\
 > > Love surely hath been breathing here ;\
@@ -1759,7 +1928,7 @@
 
 ---
 
-> ## When I have fears by John Keats
+## When I have fears by John Keats
 >  
 > > When I have fears that I may cease to be\
 > > Before my pen has glean'd my teeming brain,\
@@ -1781,7 +1950,7 @@
 
 ---
 
-> ## The Nightingale by Mark Akenside
+## The Nightingale by Mark Akenside
 >  
 > > To-night retired, the queen of heaven\
 > > With young Endymion stays;\
@@ -1855,7 +2024,7 @@
 
 ---
 
-> ## The Tables Turned by William Wordworth
+## The Tables Turned by William Wordworth
 >  
 > > Up! up! my Friend, and quit your books;\
 > > Or surely you’ll grow double:\
@@ -1899,7 +2068,7 @@
 
 ---
 
-> ## Sonnet - Silence by Edgar Allan Poe
+## Sonnet - Silence by Edgar Allan Poe
 >  
 > > There are some qualities- some incorporate things,\
 > > That have a double life, which thus is made\
@@ -1919,7 +2088,7 @@
 
 ---
 
-> ## O Do Not Love Too Long by William Butler Yeats
+## O Do Not Love Too Long by William Butler Yeats
 >  
 > > SWEETHEART, do not love too long:\
 > > I loved long and long,\
@@ -1936,7 +2105,7 @@
 
 ---
 
-> ## The Presence Of Love by Samuel Taylor Coleridge
+## The Presence Of Love by Samuel Taylor Coleridge
 >  
 > > And in Life's noisiest hour,\
 > > There whispers still the ceaseless Love of Thee,\
@@ -1953,7 +2122,7 @@
 
 ---
 
-> ## The Pilgrims by John Mccrae
+## The Pilgrims by John Mccrae
 >  
 > > An uphill path, sun-gleams between the showers,\
 > >     Where every beam that broke the leaden sky\
@@ -1978,7 +2147,7 @@
 
 ---
 
-> ## If I had but Two Little Wings by Samuel Taylor Coleridge
+## If I had but Two Little Wings by Samuel Taylor Coleridge
 >  
 > > If I had but two little wings\
 > > And were a little feathery bird,\
@@ -2000,7 +2169,7 @@
 
 ---
 
-> ## In Flanders fields by John Mccrae
+## In Flanders fields by John Mccrae
 >  
 > > In Flanders fields the poppies blow\
 > > Between the crosses, row on row,\
@@ -2022,7 +2191,7 @@
 
 ---
 
-> ## Her Voice by Oscar Wilde
+## Her Voice by Oscar Wilde
 >  
 > > The wild bee reels from bough to bough\
 > >     With his furry coat and his gauzy wing.\
@@ -2074,7 +2243,7 @@
 
 ---
 
-> ## Roses And Rue by Oscar Wilde
+## Roses And Rue by Oscar Wilde
 >  
 > > *__Could we dig up this long-buried treasure,\
 > > Were it worth the pleasure,\
@@ -2163,7 +2332,7 @@
 
 ---
 
-> ## The Pains of Sleep by Samuel Taylor Coleridge
+## The Pains of Sleep by Samuel Taylor Coleridge
 >
 > > But yester-night I prayed aloud\
 > > In anguish and in agony,\
@@ -2188,7 +2357,7 @@
 
 ---
 
-> ## Her Anxiety by William Butler Yeats
+## Her Anxiety by William Butler Yeats
 >  
 > > Earth in beauty dressed\
 > > Awaits returning spring.\
@@ -2206,7 +2375,7 @@
 
 ---
 
-> ## A Drunken Man's Praise Of Sobriety by William Butler Yeats
+## A Drunken Man's Praise Of Sobriety by William Butler Yeats
 >  
 > > COME swish around, my pretty punk,\
 > > And keep me dancing still\
@@ -2228,7 +2397,7 @@
 
 ---
 
-> ## The Half Moon by Christina Rossetti
+## The Half Moon by Christina Rossetti
 >  
 > > The half moon shows a face of plaintive sweetness\
 > >   Ready and poised to wax or wane;\
@@ -2246,7 +2415,7 @@
 
 ---
 
-> ## A Valediction: Forbidding Mourning By John Donne
+## A Valediction: Forbidding Mourning By John Donne
 >  
 > > As virtuous men pass mildly away,\
 > >    And whisper to their souls to go,\
@@ -2295,7 +2464,7 @@
 
 ---
 
-> ## The Pains Of Sleep by Samuel Taylor Coleridge
+## The Pains Of Sleep by Samuel Taylor Coleridge
 >  
 > > *__Ere on my bed my limbs I lay,\
 > > It hath not been my use to pray\
@@ -2354,7 +2523,7 @@
 
 ---
 
-> ## The Nature by Henry David Thoreau
+## The Nature by Henry David Thoreau
 >  
 > > Mine are the night and morning,\
 > > The pits of air, the gull of space,\
@@ -2463,7 +2632,7 @@
 
 ---
 
-> ## Indeed indeed, I cannot tell by Henry David Thoreau
+## Indeed indeed, I cannot tell by Henry David Thoreau
 >  
 > > Indeed indeed, I cannot tell,\
 > > Though I ponder on it well,\
@@ -2482,7 +2651,7 @@
 
 ---
 
-> ## My Garden by Ralph Waldo Emerson
+## My Garden by Ralph Waldo Emerson
 >  
 > > If I could put my woods in song\
 > > And tell what's there enjoyed,\
@@ -2566,7 +2735,7 @@
 
 ---
 
-> ## I taste a liquor never brewed by Emily Dickinson
+## I taste a liquor never brewed by Emily Dickinson
 >  
 > > I taste a liquor never brewed – \
 > > From Tankards scooped in Pearl – \
@@ -2590,7 +2759,7 @@
 
 ---
 
-> ## O Captain My Captain by Walt Whitman
+## O Captain My Captain by Walt Whitman
 >  
 > > O Captain! my Captain! our fearful trip is done,\
 > > The ship has weather’d every rack, the prize we sought is won,\
@@ -2621,7 +2790,7 @@
 
 ---
 
-> ## The Passionate Shepherd to His Love By Christopher Marlowe
+## The Passionate Shepherd to His Love By Christopher Marlowe
 >  
 > > Come live with me and be my love,\
 > > And we will all the pleasures prove,\
@@ -2655,7 +2824,7 @@
 
 ---
 
-> ## The Charge of the Light Brigade by Alfred Lord Tennyson
+## The Charge of the Light Brigade by Alfred Lord Tennyson
 >  
 > > *__Crimean War__* : It was a military conflict fought from October 1853 to February 1856 in which Russia lost to an alliance made up of the Ottoman Empire, the United Kingdom, Sardinia and France.
 > >  
@@ -2731,7 +2900,7 @@
 
 ---
 
-> ## The World is Too Much With Us by William Wordsworth
+## The World is Too Much With Us by William Wordsworth
 >  
 > > *__The world is too much with us; late and soon,\
 > > Getting and spending, we lay waste our powers;\
@@ -2752,7 +2921,7 @@
 
 ---
 
-> ## Evening Solace by Charlotte Bronte
+## Evening Solace by Charlotte Bronte
 >  
 > > The human heart has hidden treasures,\
 > > In secret kept, in silence sealed;—\
@@ -2792,7 +2961,7 @@
 
 ---
 
-> ## As She Passes by Fernando Pessoa
+## As She Passes by Fernando Pessoa
 >  
 > > When I am sitting at the window,\
 > > Through the panes, which the snow blurs,\
@@ -2810,7 +2979,7 @@
 
 ---
 
-> ## The Bride Of The Sea by H.P. Lovecraft
+## The Bride Of The Sea by H.P. Lovecraft
 >  
 > > Black loom the crags of the uplands behind me;\
 > > Dark are the sands of the far-stretching shore.\
@@ -2894,7 +3063,7 @@
 
 ---
 
-> ## After Thought by Alfred Lord Tennyson
+## After Thought by Alfred Lord Tennyson
 >  
 > > I thought of Thee, my partner and my guide,\
 > > As being past away. -Vain sympathies!\
@@ -2913,7 +3082,7 @@
 
 ---
 
-> ## The Day is Done by Henry Wadsworth Longfellow
+## The Day is Done by Henry Wadsworth Longfellow
 >  
 > > The day is done, and the darkness\
 > > Falls from the wings of night\
@@ -2972,7 +3141,7 @@
 
 ---
 
-> ## I Am Tired by Fernando Pessoa
+## I Am Tired by Fernando Pessoa
 >  
 > > I am tired, that is clear,\
 > > Because, at certain stage, people have to be tired.\
@@ -3000,7 +3169,7 @@
 
 ---
 
-> ## Because I could not stop for Death by Emily Dickinson
+## Because I could not stop for Death by Emily Dickinson
 >  
 > > Because I could not stop for Death,\
 > > He kindly stopped for me;\
@@ -3029,7 +3198,7 @@
 
 ---
 
-> ## A Dream by Edgar Allan Poe
+## A Dream by Edgar Allan Poe
 >  
 > > In visions of the dark night\
 > > I have dreamed of joy departed-\
@@ -3053,7 +3222,7 @@
 
 ---
 
-> ## Love’s Secret by William Blake
+## Love’s Secret by William Blake
 >  
 > > Never seek to tell thy love,\
 > > Love that never told can be;\
@@ -3072,7 +3241,7 @@
 
 ---
 
-> ## The Solitary Reaper by William Wordsworth
+## The Solitary Reaper by William Wordsworth
 >  
 > > Behold her, single in the field,\
 > > Yon solitary Highland Lass!\
@@ -3112,7 +3281,7 @@
 
 ---
 
-> ## A Lament by P.B.Shelly
+## A Lament by P.B.Shelly
 >  
 > > O World! O Life! O Time!\
 > > On whose last steps I climb,\
@@ -3128,7 +3297,7 @@
 
 ---
 
-> ## True Beauty by Francis Beaumont
+## True Beauty by Francis Beaumont
 >  
 > > May I find a woman fair,\
 > > And her mind as clear as air,\
@@ -3157,7 +3326,7 @@
 
 ---
 
-> ## When I am dead, My Dearest by Christina Rossetti
+## When I am dead, My Dearest by Christina Rossetti
 > 
 > > When I am dead, my dearest,\
 > > Sing no sad songs for me;\
@@ -3179,7 +3348,7 @@
 
 ---
 
-> ## Reconciliation by William Butler Yeats
+## Reconciliation by William Butler Yeats
 >  
 > > Some may have blamed you that you took away\
 > > The verses that could move them on the day\
@@ -3196,7 +3365,7 @@
 
 ---
 
-> ## Lines on The Mermaid Tavern by John Keats
+## Lines on The Mermaid Tavern by John Keats
 >  
 > > Souls of Poets dead and gone,\
 > > What Elysium have ye known,\
@@ -3229,7 +3398,7 @@
 
 ---
 
-> ## A Sonnet by Francis Beaumont
+## A Sonnet by Francis Beaumont
 >  
 > > Flattering Hope, away and leave me,\
 > > She'll not come, thou dost deceive me;\
@@ -3261,7 +3430,7 @@
 
 ---
 
-> ## Despair by H.P.Lovecraft
+## Despair by H.P.Lovecraft
 >  
 > > O’er the midnight moorlands crying,\
 > > Thro’ the cypress forests sighing,\
@@ -3310,7 +3479,7 @@
 
 ---
 
-> ## Think Of It Not Sweet One by John Keats
+## Think Of It Not Sweet One by John Keats
 >  
 > > Think not of it, sweet one, so;---\
 > >       Give it not a tear;\
@@ -3339,7 +3508,7 @@
 
 ---
 
-> ## 1914 by Wilfred Owen
+## 1914 by Wilfred Owen
 >  
 > > War broke: and now the Winter of the world\
 > > With perishing great darkness closes in.\
@@ -3359,7 +3528,7 @@
 
 ---
 
-> ## Have You Forgotten by Christina Rossetti
+## Have You Forgotten by Christina Rossetti
 >  
 > > Have you forgotten how one Summer night\
 > >   We wandered forth together with the moon,\
@@ -3378,7 +3547,7 @@
 
 ---
 
-> ## The Rose by Christina Rossetti
+## The Rose by Christina Rossetti
 >  
 > > The lily has a smooth stalk,\
 > >   Will never hurt your hand;\
@@ -3397,7 +3566,7 @@
 
 ---
 
-> ## A Complaint by William Wordsworth
+## A Complaint by William Wordsworth
 >  
 > > There is a change—and I am poor;\
 > > Your love hath been, nor long ago,\
@@ -3422,7 +3591,7 @@
 
 ---
 
-> ## The Land of Dreams by William Blake
+## The Land of Dreams by William Blake
 >  
 > > Awake, awake, my little boy!\
 > > Thou wast thy mother's only joy;\
@@ -3451,7 +3620,7 @@
 
 ---
 
-> ##  What Are Heavy by Cristina Rossetti
+##  What Are Heavy by Cristina Rossetti
 >  
 > > What are heavy? sea-sand and sorrow:\
 > > What are brief? today and tomorrow:\
@@ -3460,7 +3629,7 @@
 
 ---
 
-> ## The Lily by William Blake
+## The Lily by William Blake
 >  
 > > The modest Rose puts forth a thorn:\
 > > The humble Sheep. a threatning horn:\
@@ -3469,7 +3638,7 @@
 
 ---
 
-> ## Adam’s Curse by William Butler Yeats
+## Adam’s Curse by William Butler Yeats
 >  
 > > We sat together at one summer's end,\
 > > That beautiful mild woman, your close friend,\
@@ -3515,7 +3684,7 @@
 
 ---
 
-> ## From the Greek by Abraham Cowley
+## From the Greek by Abraham Cowley
 >  
 > > Fill the bowl with rosy wine! \
 > > Around our temples roses twine!  \
@@ -3568,7 +3737,7 @@
 
 ---
 
-> ## Hope by Emily Dickinson
+## Hope by Emily Dickinson
 >  
 > > 'Hope' is the thing with feathers -\
 > > That perches in the soul -\
@@ -3587,7 +3756,7 @@
 
 ---
 
-> ## She Walks in Beauty by Lord Byron
+## She Walks in Beauty by Lord Byron
 >  
 > > She walks in beauty, like the night\
 > > Of cloudless climes and starry skies;\
@@ -3612,7 +3781,7 @@
 
 ---
 
-> ## I Wander Lonely as a Cloud by William Wordsworth
+## I Wander Lonely as a Cloud by William Wordsworth
 >  
 > > I wandered lonely as a cloud\
 > > That floats on high o'er vales and hills,\
@@ -3644,7 +3813,7 @@
 
 ---
 
-> ## So We'll Go No More a Roving by Lord Byron
+## So We'll Go No More a Roving by Lord Byron
 >  
 > > So, we'll go no more a roving\
 > >    So late into the night,\
@@ -3663,7 +3832,7 @@
 
 ---
 
-> ## Funeral Blues by W. H. Auden
+## Funeral Blues by W. H. Auden
 >  
 > > Stop all the clocks, cut off the telephone,\
 > > Prevent the dog from barking with a juicy bone,\
@@ -3685,7 +3854,7 @@
 > > Pour away the ocean and sweep up the wood;\
 > > For nothing now can ever come to any good.
 
-> ## I have outlasted all desire by Alexander Pushkin
+## I have outlasted all desire by Alexander Pushkin
 >  
 > > I have outlasted all desire,\
 > > My dreams and I have grown apart;\
@@ -3704,7 +3873,7 @@
 
 ---
 
-> ## When we two parted by Lord Byron
+## When we two parted by Lord Byron
 >  
 > > When we two parted\
 > >    In silence and tears,\
@@ -3744,7 +3913,7 @@
 
 ---
 
-> ## The Builders by Henry Wadsworth Longfellow
+## The Builders by Henry Wadsworth Longfellow
 >  
 > > *__All are architects of Fate,\
 > > Working in these walls of Time;\
@@ -3793,7 +3962,7 @@
 
 ---
 
-> ## Love’s Philosophy by P.B. Shelly
+## Love’s Philosophy by P.B. Shelly
 >  
 > > The fountains mingle with the river\
 > > And the rivers with the ocean,\
@@ -3815,7 +3984,7 @@
 
 ---
 
-> ## Guiltless Heart by Sir Francis Bacon
+## Guiltless Heart by Sir Francis Bacon
 >  
 > > The man of life upright, whose guiltless heart is free\
 > > From all dishonest deeds and thoughts of vanity:\
@@ -3834,7 +4003,7 @@
 
 ---
 
-> ## Hey, That's No Way To Say Goodbye by Leonard Cohen
+## Hey, That's No Way To Say Goodbye by Leonard Cohen
 >  
 > > I loved you in the morning, our kisses deep and warm,\
 > > your hair upon the pillow like a sleepy golden storm,\
@@ -3854,7 +4023,7 @@
 
 ---
 
-> ## A dream within a dream by Edgar Allan Poe
+## A dream within a dream by Edgar Allan Poe
 >  
 > > Take this kiss upon the brow!\
 > > And, in parting from you now,\
@@ -3884,7 +4053,7 @@
 
 ---
 
-> ## Bright Star, Would I Were Steadfast As Thou Art by  John Keats
+## Bright Star, Would I Were Steadfast As Thou Art by  John Keats
 >  
 > > Bright star, would I were stedfast as thou art—\
 > >          Not in lone splendour hung aloft the night\
@@ -3903,7 +4072,7 @@
 
 ---
 
-> ## My Lost Youth by Henry Wadsworth Lingfellow
+## My Lost Youth by Henry Wadsworth Lingfellow
 >  
 > > Often I think of the beautiful town\
 > > That is seated by the sea;\
@@ -4007,7 +4176,7 @@
 
 ---
 
-> ## Evolutionary Hymn by C.S. Lewis
+## Evolutionary Hymn by C.S. Lewis
 >  
 > > Lead us, Evolution, lead us\
 > >  Up the future's endless stair;\
@@ -4053,7 +4222,7 @@
 
 ---
 
-> ## The Indian Serenade by Percy Bysshe Shelly
+## The Indian Serenade by Percy Bysshe Shelly
 >  
 > > *__I arise from dreams of thee\
 > > In the first sweet sleep of night,\
@@ -4084,7 +4253,7 @@
 
 ---
 
-> ## Spellbound by Emily Bronte
+## Spellbound by Emily Bronte
 >  
 > > The night is darkening round me,\
 > > The wild winds coldly blow;\
@@ -4103,7 +4272,7 @@
 
 ---
 
-> ## A Farewell by Alfred Lord Tennyson
+## A Farewell by Alfred Lord Tennyson
 >  
 > > Flow down, cold rivulet, to the sea,\
 > > Thy tribute wave deliver:\
@@ -4127,7 +4296,7 @@
 
 ---
 
-> ## The First Kiss of Love by Lord Byron
+## The First Kiss of Love by Lord Byron
 >  
 > > Away with your fictions of flimsy romance,\
 > >   Those tissues of falsehood which Folly has wove;\
@@ -4166,7 +4335,7 @@
 
 ---
 
-> ## Song Of The Master And Boatswain by W.H. Auden
+## Song Of The Master And Boatswain by W.H. Auden
 >  
 > > At Dirty Dick's and Sloppy Joe's\
 > >    We drank our liquor straight,\
@@ -4191,7 +4360,7 @@
 
 ---
 
-> ## A Stare's Nest By The Window by WIlliam Butler Yeats
+## A Stare's Nest By The Window by WIlliam Butler Yeats
 >  
 > > The bees build in the crevices\
 > > Of loosening masonry, and there\
@@ -4219,7 +4388,7 @@
 
 ---
 
-> ## Invictus by William Ernest Henley 
+## Invictus by William Ernest Henley 
 >  
 > > Out of the night that covers me,  \
 > > Black as the Pit from pole to pole,   \
@@ -4243,7 +4412,7 @@
 
 ---
 
-> ## If By Rudyard Kipling
+## If By Rudyard Kipling
 >
 > > If you can keep your head when all about you\
 > > Are losing theirs and blaming it on you,\
@@ -4283,7 +4452,7 @@
 
 ---
 
-> ##  Annabel Lee By Edgar Allan Poe
+##  Annabel Lee By Edgar Allan Poe
 >  
 > 
 > > It was many and many a year ago,\
@@ -4335,7 +4504,7 @@
 
 ---
 
-> ## Somewhere I have never travelled,gladly beyond by E.E Cummings
+## Somewhere I have never travelled,gladly beyond by E.E Cummings
 > 
 >
 > > *__Somewhere i have never travelled,gladly beyond\
@@ -4365,7 +4534,7 @@
 
 ---
 
-> ## At the British War Cemetery, Bayeux (From Charles Causley)
+## At the British War Cemetery, Bayeux (From Charles Causley)
 >
 > > I walked where in their talking graves\
 > > And shirts of earth five thousand lay,\
@@ -4399,7 +4568,7 @@
 
 ---
 
-> ## The Road Not Taken by Robert Frost
+## The Road Not Taken by Robert Frost
 >
 > > Two roads diverged in a yellow wood,\
 > > And sorry I could not travel both\
@@ -4427,7 +4596,7 @@
 
 ---
 
-> ## Gather ye Rosebuds by  Robert Herrick
+## Gather ye Rosebuds by  Robert Herrick
 >
 > > "Gather ye rose-buds while ye may,\
 > > Old Time is still a-flying;\
@@ -4451,7 +4620,7 @@
 
 ---
 
-> ## Psalm of life by William Wordsworth
+## Psalm of life by William Wordsworth
 >
 > > Tell me not, in mournful numbers,\
 > >               “Life is but an empty dream”!\
@@ -4500,7 +4669,7 @@
 
 ---
 
-> ##  Fire and Ice By Robert Frost
+##  Fire and Ice By Robert Frost
 >
 > > Some say the world will end in fire,\
 > > Some say in ice.\
@@ -4514,7 +4683,7 @@
 
 ---
 
-> ##  Alone by Edgar Allan Poe
+##  Alone by Edgar Allan Poe
 >
 > > From childhood's hour I have not been\
 > > As others were—I have not seen\
@@ -4541,7 +4710,7 @@
 
 ---
 
-> ##  Tithonus
+##  Tithonus
 > > Tithonus was a Trojan prince in Greek mythology, son of King Laomedon of Troy and the water nymph Strymo.
 > Eos, the Titan goddess of dawn, kidnapped Tithonus along with Ganymede, in order to make them her lovers. She then asked Zeus to grant Tithonus immortality, but did not think of asking to grant him eternal youth too.
 > As a result, Tithonus aged and did not die, resulting in his strength wilting away to the point that he could no longer move his arms. All he could do was babble continuously; in the end, he turned into a cicada, hoping that death would come for him as well.
@@ -4633,7 +4802,7 @@
 
 ---
 
-> ##  Tolkien Gateway
+##  Tolkien Gateway
 >
 > > “I sit beside the fire and think\
 > > Of all that I have seen\
@@ -4667,7 +4836,7 @@
 
 ---
 
-> ##   A Boundless Moment, By Robert Frost 
+##   A Boundless Moment, By Robert Frost 
 >
 > > He halted in the wind, and - what was that\
 > > Far in the maples, pale, but not a ghost?\
@@ -4686,7 +4855,7 @@
 
 ---
 
-> ##  Childe Harold's Pilgrimage by George Gordon Byron
+##  Childe Harold's Pilgrimage by George Gordon Byron
 >
 > > There is a pleasure in the pathless woods,\
 > >    There is a rapture on the lonely shore,\
@@ -4720,7 +4889,7 @@
 
 ---
 
-> ##  Do not go gentle into that good night by Dylan Thomas
+##  Do not go gentle into that good night by Dylan Thomas
 >
 > > "Do not go gentle into that good night,\
 > > Old age should burn and rave at close of day;\
@@ -4749,7 +4918,7 @@
 
 ---
 
-> ##  The Prowling Bee by Emily Dickinson
+##  The Prowling Bee by Emily Dickinson
 >
 > > Cocoon above! Cocoon below!\
 > > Stealthy Cocoon, why hide you so\
@@ -4767,7 +4936,7 @@
 
 ---
 
-> ##   To His Coy Mistress By Andrew Marvell
+##   To His Coy Mistress By Andrew Marvell
 >
 > > Had we but world enough and time,\
 > > This coyness, lady, were no crime.\
@@ -4821,7 +4990,7 @@
 
 ---
 
-> ##    Ae Fond Kiss By Robert Burns
+##    Ae Fond Kiss By Robert Burns
 >
 > > Ae fond kiss, and then we sever;\
 > > Ae fareweel, and then forever!\
@@ -4852,7 +5021,7 @@
 
 ---
 
-> ##  Mortality by William Knox
+##  Mortality by William Knox
 >  
 > > Oh, why should the spirit of mortal be proud?\
 > > Like a swift-fleeting meteor, a fast-flying cloud,\
@@ -4926,7 +5095,7 @@
 
 ---
 
-> ##  The Suicide's Soliloquy by Abraham Lincoln
+##  The Suicide's Soliloquy by Abraham Lincoln
 >  
 > > Here, where the lonely hooting owl\
 > > Sends forth his midnight moans,\
@@ -4975,7 +5144,7 @@
 
 ---
 
-> ##  To You by Walt Whitman
+##  To You by Walt Whitman
 >  
 > > Whoever you are, I fear you are walking the walks of dreams,\
 > > I fear these supposed realities are to melt from under your feet and hands\
@@ -5036,7 +5205,7 @@
 
 ---
 
-> ##   A Daughter of Eve By Christina Rossetti
+##   A Daughter of Eve By Christina Rossetti
 >  
 > > A fool I was to sleep at noon,\
 > > And wake when night is chilly\
@@ -5058,7 +5227,7 @@
 
 ---
 
-> ##  A Legacy by Johann Wolfgang von Goethe
+##  A Legacy by Johann Wolfgang von Goethe
 >  
 > > *__No living atom comes at last to naught!\
 > > Active in each is still the eternal Thought:\
@@ -5107,7 +5276,7 @@
 
 ---
 
-> ## Longing is like the seed by Emily Dickinson
+## Longing is like the seed by Emily Dickinson
 >  
 > > Longing is like the Seed\
 > > That wrestles in the Ground,\
@@ -5121,7 +5290,7 @@
 
 ---
 
-> ## Cosmic Gall by John Updike
+## Cosmic Gall by John Updike
 >  
 > > "Neutrinos, they are very small.\
 > > They have no charge and have no mass\
@@ -5148,7 +5317,7 @@
 
 ---
 
-> ## I know why the caged bird sings by Maya Angelou
+## I know why the caged bird sings by Maya Angelou
 >  
 > > A free bird leaps on the back\
 > > Of the wind and floats downstream\
@@ -5185,7 +5354,7 @@
 
 ---
 
-> ## My Vocation by Toru Dutt
+## My Vocation by Toru Dutt
 >  
 > > *__A waif on this earth,\
 > > Sick, ugly and small,\
@@ -5238,7 +5407,7 @@
 
 ---
 
-> ##  A Drinking Song By William Butler Yeats
+##  A Drinking Song By William Butler Yeats
 >  
 > > Wine comes in at the mouth\
 > > And love comes in at the eye;\
@@ -5249,7 +5418,7 @@
 
 ---
 
-> ##  Blood on the Risers (American Paratrooper Song)
+##  Blood on the Risers (American Paratrooper Song)
 >  
 > > He was just a rookie trooper and he surely shook with fright.\
 > > He checked off his equipment and made sure his pack was tight.\
@@ -5299,7 +5468,7 @@
 
 ---
 
-> ##  The Season of Youth by Wiliam Knox
+##  The Season of Youth by Wiliam Knox
 >  
 > > Rejoice, mortal man, in the noon of thy prime!\
 > > Ere thy brow shall be traced by the ploughshare of time,\
@@ -5323,7 +5492,7 @@
 
 ---
 
-> ##  Ulysses by Alfred Lord Tennyson
+##  Ulysses by Alfred Lord Tennyson
 >  
 > > It little profits that an idle king,\
 > > By this still hearth, among these barren crags,\
@@ -5400,7 +5569,7 @@
 
 ---
 
-> ## Sorrow of Love by William Bulter Yeats
+## Sorrow of Love by William Bulter Yeats
 >  
 > > The quarrel of the sparrows in the eaves, \
 > > The full round moon and the star-laden sky, \
@@ -5419,7 +5588,7 @@
 
 ---
 
-> ## There is a solitude of space by Emily Dickinson
+## There is a solitude of space by Emily Dickinson
 >  
 > > "There is a solitude of space\
 > > A solitude of sea\
@@ -5432,7 +5601,7 @@
 
 ---
 
-> ## Auguries of Innocence by William Blake
+## Auguries of Innocence by William Blake
 >  
 > > *__To see a World in a Grain of Sand\
 > > And a Heaven in a Wild Flower\
@@ -5600,7 +5769,7 @@
 
 ---
 
-> ## जब नाव जल में छोड़ दी - हरिवंशराय बच्चन
+## जब नाव जल में छोड़ दी - हरिवंशराय बच्चन
 > 
 > > जब नाव जल में छोड़ दी\
 > > तूफ़ान में ही मोड़ दी\
@@ -6085,7 +6254,7 @@
 ---
 
 
-> # Quotes
+# Quotes
 >
 > > "And that is the way of the world, that some men put errors into circulation and others afterwards try to eradicate those same errors. And so both sorts of men have something to do." - Árni Magnússon
 >
