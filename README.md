@@ -164,6 +164,7 @@
   - [Auguries of Innocence by William Blake](#auguries-of-innocence-by-william-blake)
   - [जब नाव जल में छोड़ दी - हरिवंशराय बच्चन](#जब-नाव-जल-में-छोड़-दी---हरिवंशराय-बच्चन)
 - [Quotes](#quotes)
+- [Shayari](#shayari)
 
 
 ## Inventory by Dorothy Parker
@@ -5804,7 +5805,7 @@
 
 ---
 
-> # Shayari
+# Shayari
 >
 > > ये सारा जिस्म झुक कर बोझ से दोहरा हुआ होगा \
 > > मैं सज्दे में नहीं था आप को धोका हुआ होगा 
