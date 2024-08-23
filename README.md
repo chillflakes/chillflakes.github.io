@@ -1,5 +1,6 @@
 
 - [List of Poems](#list-of-poems)
+  - [Infirmity by Theodore Roethke](#infirmity-by-theodore-roethke)
   - [Inventory by Dorothy Parker](#inventory-by-dorothy-parker)
   - [How Clear, How Lovely Bright by A. E. Housman](#how-clear-how-lovely-bright-by-a-e-housman)
   - [The Gift by Sara Teasdale](#the-gift-by-sara-teasdale)
@@ -167,6 +168,49 @@
 - [Quotes](#quotes)
 - [Shayari](#shayari)
 
+## Infirmity by Theodore Roethke
+>
+> > In purest song one plays the constant fool\
+> > As changes shimmer in the inner eye.\
+> > I stare and stare into a deepening pool\
+> > And tell myself my image cannot die.\
+> > I love myself: that’s my one constancy.\
+> > Oh, to be something else, yet still to be!
+> >  
+> > Sweet Christ, rejoice in my infirmity;\
+> > There’s little left I care to call my own.\
+> > Today they drained the fluid from a knee\
+> > And pumped a shoulder full of cortisone;\
+> > Thus I conform to my divinity\
+> > By dying inward, like an aging tree.
+> >  
+> > The instant ages on the living eye;\
+> > Light on its rounds, a pure extreme of light\
+> > Breaks on me as my meager flesh breaks down—\
+> > The soul delights in that extremity.\
+> > Blessed the meek; they shall inherit wrath;\
+> > I’m son and father of my only death.
+> >  
+> > A mind too active is no mind at all;\
+> > The deep eye sees the shimmer on the stone;\
+> > The eternal seeks, and finds, the temporal,\
+> > The change from dark to light of the slow moon,\
+> > Dead to myself, and all I hold most dear,\
+> > I move beyond the reach of wind and fire.
+> >  
+> > Deep in the greens of summer sing the lives\
+> > I’ve come to love. A vireo whets its bill.\
+> > The great day balances upon the leaves;\
+> > My ears still hear the bird when all is still;\
+> > My soul is still my soul, and still the Son,\
+> > And knowing this, I am not yet undone.
+> >  
+> > Things without hands take hands: there is no choice,—\
+> > Eternity’s not easily come by.\
+> > When opposites come suddenly in place,\
+> > I teach my eyes to hear, my ears to see\
+> > How body from spirit slowly does unwind\
+> > Until we are pure spirit at the end.
 
 ## Inventory by Dorothy Parker
 > 
