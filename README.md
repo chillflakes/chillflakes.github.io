@@ -164,9 +164,30 @@
   - [There is a solitude of space by Emily Dickinson](#there-is-a-solitude-of-space-by-emily-dickinson)
   - [Auguries of Innocence by William Blake](#auguries-of-innocence-by-william-blake)
   - [जब नाव जल में छोड़ दी - हरिवंशराय बच्चन](#जब-नाव-जल-में-छोड़-दी---हरिवंशराय-बच्चन)
+  - [Say Not They Die Those Splendid Souls](#say-not-they-die-those-splendid-souls)
 - [Multi-Part poems](#multi-part-poems)
 - [Quotes](#quotes)
 - [Shayari](#shayari)
+
+## Say Not They Die Those Splendid Souls
+> 
+> > Say not, they die, those splendid souls,\
+> > Whose life is winged with purpose fine;\
+> > Who leave us, pointed to the goals;\
+> > Who learn to conquer and resign.\
+> > Such cannot die; they vanquish time,\
+> > And fill the world with glowing light,\
+> > Making the human life sublime\
+> > With memories of their secret might.\
+> > They cannot die whose lives are part\
+> > Of the great life that is to be;\
+> > Whose hearts beat with the world's great heart,\
+> > And throb with its high intensity.\
+> > Those souls are great, who, dying, gave\
+> > A gift of greater life to man;\
+> > Death stands abashed before the brave;\
+> > They own a life death cannot ban.
+
 
 ## Infirmity by Theodore Roethke
 >
@@ -7236,7 +7257,7 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 > >  
 > > Geoffrey: You fool! As if the way one falls down matters!
 > >  
-> > Richard: Well, when the fall is all that's left, it matters a great deal.
+> > Richard: Well, when the fall is all that's left, it matters a great deal. - Richard (The Lion in Winter)
 > >
 >
 > ---
@@ -7325,3 +7346,8 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 >
 > ---
 >
+> > I’m sorry, but I don’t want to be an emperor. That’s not my business. I don’t want to rule or conquer anyone. I should like to help everyone - if possible - Jew, Gentile - black man - white. We all want to help one another. Human beings are like that. We want to live by each other’s happiness - not by each other’s misery. We don’t want to hate and despise one another. In this world there is room for everyone. And the good earth is rich and can provide for everyone. The way of life can be free and beautiful, but we have lost the way.
+> >  
+> > Greed has poisoned men’s souls, has barricaded the world with hate, has goose-stepped us into misery and bloodshed. We have developed speed, but we have shut ourselves in. Machinery that gives abundance has left us in want. Our knowledge has made us cynical. Our cleverness, hard and unkind. We think too much and feel too little. More than machinery we need humanity. More than cleverness we need kindness and gentleness. Without these qualities, life will be violent and all will be lost…
+> >  
+> > The aeroplane and the radio have brought us closer together. The very nature of these inventions cries out for the goodness in men - cries out for universal brotherhood - for the unity of us all. Even now my voice is reaching millions throughout the world - millions of despairing men, women, and little children - victims of a system that makes men torture and imprison innocent people. - Charlie Chaplin (The Great Dictator)
