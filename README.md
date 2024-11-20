@@ -7354,7 +7354,7 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 >
 > ---
 >
-> > Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind that looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago. - John Maynard Keynes
+> > "Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind that looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago." - John Maynard Keynes
 >
 > ---
 >
