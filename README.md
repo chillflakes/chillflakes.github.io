@@ -1,5 +1,6 @@
 
 - [List of Poems](#list-of-poems)
+  - [The Famine Year](#the-famine-year)
   - [Say Not They Die Those Splendid Souls](#say-not-they-die-those-splendid-souls)
   - [Infirmity by Theodore Roethke](#infirmity-by-theodore-roethke)
   - [Inventory by Dorothy Parker](#inventory-by-dorothy-parker)
@@ -168,6 +169,27 @@
 - [Multi-Part poems](#multi-part-poems)
 - [Quotes](#quotes)
 - [Shayari](#shayari)
+
+
+## The Famine Year
+> 
+> > Weary men, what reap ye? — Golden corn for the stranger.
+> > What sow ye? — Human corpses that wait for the avenger.
+> > Fainting forms, hunger-stricken, what see you in the offing?
+> > Stately ships to bear our food away, amid the stranger's scoffing.
+> > There's a proud array of soldiers — what do they round your door?
+> > They guard our masters' granaries from the thin hands of the poor.
+> > Pale mothers, wherefore weeping — Would to God that we were dead;
+> > Our children swoon before us, and we cannot give them bread.
+> > 
+> > We are wretches, famished, scorned, human tools to build your pride, 
+> > But God will yet take vengeance for the souls for whom Christ died.
+> > Now is your hour of pleasure — bask ye in the world's caress;
+> > But our whitening bones against ye will rise as witnesses,
+> > From the cabins and the ditches, in their charred, uncoffin'd masses,
+> > For the Angel of the Trumpet will know them as he passes.
+> > A ghastly, spectral army, before the great God we'll stand,
+> > And arraign ye as our murderers, the spoilers of our land.
 
 ## Say Not They Die Those Splendid Souls
 > 
@@ -7355,6 +7377,14 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 > ---
 >
 > > "Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind that looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10,000 years ago." - John Maynard Keynes
+>
+> ---
+>
+> > “I never saw a wild thing sorry for itself. A small bird will drop frozen dead from a bough without ever having felt sorry for itself.” ― D.H. Lawrence,
+>
+> ---
+>
+> > "Fantasy is escapist, and that is its glory. If a soldier is imprisoned by the enemy, don't we consider it his duty to escape?. . .If we value the freedom of mind and soul, if we're partisans of liberty, then it's our plain duty to escape, and to take as many people with us as we can! " ― J.R.R. Tolkien
 >
 > ---
 >
