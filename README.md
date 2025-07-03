@@ -173,22 +173,22 @@
 
 ## The Famine Year
 > 
-> > Weary men, what reap ye? — Golden corn for the stranger.
-> > What sow ye? — Human corpses that wait for the avenger.
-> > Fainting forms, hunger-stricken, what see you in the offing?
-> > Stately ships to bear our food away, amid the stranger's scoffing.
-> > There's a proud array of soldiers — what do they round your door?
-> > They guard our masters' granaries from the thin hands of the poor.
-> > Pale mothers, wherefore weeping — Would to God that we were dead;
+> > Weary men, what reap ye? — Golden corn for the stranger.\
+> > What sow ye? — Human corpses that wait for the avenger.\
+> > Fainting forms, hunger-stricken, what see you in the offing?\
+> > Stately ships to bear our food away, amid the stranger's scoffing.\
+> > There's a proud array of soldiers — what do they round your door?\
+> > They guard our masters' granaries from the thin hands of the poor.\
+> > Pale mothers, wherefore weeping — Would to God that we were dead;\
 > > Our children swoon before us, and we cannot give them bread.
 > > 
-> > We are wretches, famished, scorned, human tools to build your pride, 
-> > But God will yet take vengeance for the souls for whom Christ died.
-> > Now is your hour of pleasure — bask ye in the world's caress;
-> > But our whitening bones against ye will rise as witnesses,
-> > From the cabins and the ditches, in their charred, uncoffin'd masses,
-> > For the Angel of the Trumpet will know them as he passes.
-> > A ghastly, spectral army, before the great God we'll stand,
+> > We are wretches, famished, scorned, human tools to build your pride, \
+> > But God will yet take vengeance for the souls for whom Christ died.\
+> > Now is your hour of pleasure — bask ye in the world's caress;\
+> > But our whitening bones against ye will rise as witnesses,\
+> > From the cabins and the ditches, in their charred, uncoffin'd masses,\
+> > For the Angel of the Trumpet will know them as he passes.\
+> > A ghastly, spectral army, before the great God we'll stand,\
 > > And arraign ye as our murderers, the spoilers of our land.
 
 ## Say Not They Die Those Splendid Souls
