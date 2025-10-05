@@ -1,5 +1,6 @@
 
 - [List of Poems](#list-of-poems)
+  - [Continuities by Walt Whitman](#continuities-by-walt-whitman)
   - [This Be The Verse by Philip Larkin](#this-be-the-verse-by-philip-larkin)
   - [The Famine Year by Jane Francesca Wilde](#the-famine-year)
   - [Say Not They Die Those Splendid Souls](#say-not-they-die-those-splendid-souls)
@@ -170,6 +171,19 @@
 - [Multi-Part poems](#multi-part-poems)
 - [Quotes](#quotes)
 - [Shayari](#shayari)
+
+## Continuities by Walt Whitman
+> 
+> > Nothing is ever really lost, or can be lost,\
+> > No birth, identity, form—no object of the world.\
+> > Nor life, nor force, nor any visible thing;\
+> > Appearance must not foil, nor shifted sphere confuse thy brain.\
+> > Ample are time and space—ample the fields of Nature.\
+> > The body, sluggish, aged, cold—the embers left from earlier fires,\
+> > The light in the eye grown dim, shall duly flame again;\
+> > The sun now low in the west rises for mornings and for noons continual;\
+> > To frozen clods ever the spring's invisible law returns,\
+> > With grass and flowers and summer fruits and corn.
 
 ## This Be The Verse by Philip Larkin
 >
