@@ -1,6 +1,6 @@
 
 - [List of Poems](#list-of-poems)
-  - [The Famine Year](#the-famine-year)
+  - [The Famine Year by Jane Francesca Wilde](#the-famine-year)
   - [Say Not They Die Those Splendid Souls](#say-not-they-die-those-splendid-souls)
   - [Infirmity by Theodore Roethke](#infirmity-by-theodore-roethke)
   - [Inventory by Dorothy Parker](#inventory-by-dorothy-parker)
@@ -170,8 +170,24 @@
 - [Quotes](#quotes)
 - [Shayari](#shayari)
 
+## This Be The Verse by Philip Larkin
+>
+> > They fuck you up, your mum and dad.   \
+> >     They may not mean to, but they do.   \
+> > They fill you with the faults they had\
+> >     And add some extra, just for you.
+> >
+> > But they were fucked up in their turn\
+> >     By fools in old-style hats and coats,   \
+> > Who half the time were soppy-stern\
+> >     And half at one another’s throats.
+> >
+> > Man hands on misery to man.\
+> >     It deepens like a coastal shelf.\
+> > Get out as early as you can,\
+> >     And don’t have any kids yourself.
 
-## The Famine Year
+## The Famine Year by Jane Francesca Wilde
 > 
 > > Weary men, what reap ye? — Golden corn for the stranger.\
 > > What sow ye? — Human corpses that wait for the avenger.\
