@@ -7419,7 +7419,7 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 >
 > ---
 >
-> > "Malo periculosam, libertatem quam quietam servitutem."
+> > "Malo periculosam, libertatem quam quietam servitutem."\
 > > (I prefer dangerous freedom over peaceful slavery)
 >
 > ---
