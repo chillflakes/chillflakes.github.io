@@ -1,6 +1,14 @@
 
 - [List of Poems](#list-of-poems)
+  - 
+  - [An Old Sweetheart Of Mine by James Whitcomb Riley](#an-old-sweetheart-of-mine-by-james-whitcomb-riley)
+  - [Of a War with Spain, And Fight At Sea by Edmund Waller](#of-a-war-with-spain-and-fight-at-sea-by-edmund-waller)
+  - [The Female Patriots, Address’d to the Daughters of Liberty in America, 1768 by Hannah Griffitts](#the-female-patriots-addressd-to-the-daughters-of-liberty-in-america-1768-by-hannah-griffitts)
+  - [Whaleman's Prayer](#whalemans-prayer)
+  - [The Circus Animals’ Desertion By William Butler Yeats](#the-circus-animals-desertion-by-william-butler-yeats)
+  - [An Irish Airman foresees his Death By William Butler Yeats](#an-irish-airman-foresees-his-death-by-william-butler-yeats)
   - [Continuities by Walt Whitman](#continuities-by-walt-whitman)
+  - [Lord, Guard and Guide the Men Who Fly by Mary C. D. Hamilton](#lord-guard-and-guide-the-men-who-fly-by-mary-c-d-hamilton)
   - [This Be The Verse by Philip Larkin](#this-be-the-verse-by-philip-larkin)
   - [The Famine Year by Jane Francesca Wilde](#the-famine-year)
   - [Say Not They Die Those Splendid Souls](#say-not-they-die-those-splendid-souls)
@@ -173,7 +181,7 @@
 - [Shayari](#shayari)
 
 
-## Free
+## Free by Eugene O Neill 
 > 
 > > WEARY am I of the tumult, sick of the staring crowd,\
 > > Pining for wild sea places where the soul may think aloud.\
