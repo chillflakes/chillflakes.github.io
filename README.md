@@ -172,6 +172,134 @@
 - [Quotes](#quotes)
 - [Shayari](#shayari)
 
+## Of a War with Spain, And Fight At Sea by Edmund Waller
+> 
+> > Bold were the Men who on the Ocean first \
+> > Spread the new Sails, when Ship wreck was the worst: \
+> > More Dangers Now from MAN alone we find, \
+> > Than from the Rocks, the Billows, and the Wind.
+
+## The Female Patriots, Address’d to the Daughters of Liberty in America, 1768 by Hannah Griffitts
+> 
+> > Since the Men from a Party, on fear of a Frown,\
+> > Are kept by a Sugar-Plumb, quietly down.\
+> > Supinely asleep, & deprived of their Sight\
+> > Are stripped of their Freedom, and robbed of their Right.\
+> > If the Sons (so degenerate) the Blessing despise,\
+> > Let the Daughters of Liberty, nobly arise,\
+> > And tho’ we’ve no Voice, but a negative here.\
+> > The use of the Taxables, let us forebear,\
+> > (Then Merchants import till yr. Stores are all full\
+> > May the Buyers be few & yr. Traffic be dull.)\
+> > Stand firmly resolved & bid Grenville [English Minister George] to see\
+> > That rather than Freedom, we’ll part with our Tea.\
+> > And well as we love the dear Draught when a dry,\
+> > As American Patriots, our Taste we deny,\
+> > Sylvania’s, gay Meadows, can richly afford,\
+> > To pamper our Fancy, or furnish our Board,\
+> > And Paper sufficient (at home) still we have,\
+> > To assure the Wise-acre, we will not sign Slave.\
+> > When this Homespun shall fail, to remonstrate our Grief\
+> > We can speak with the Tongue or scratch on a Leaf.\
+> > Refuse all their Colors, the richest of Dye,\
+> > The juice of a Berry – our Paint can supply,\
+> > To humour our Fancy – and as for our Houses,\
+> > They’ll do without painting as well as our Spouses,\
+> > While to keep out the Cold of a keen winter Morn\
+> > We can screen the Northwest, with a well polished Horn,\
+> > And trust me a Woman by honest Invention\
+> > Might give this State Doctor a Dose of Prevention.\
+> > Join mutual in this, & but small as it seems\
+> > We may Jostle a Grenville & puzzle his Schemes\
+> > But a motive more worthy our patriot Pen,\
+> > Thus acting – we point out their Duty to Men,\
+> > And should the bound Pensioners, tell us to hush\
+> > We can throw back the Satire by biding them blush.
+
+## Whaleman's Prayer
+> 
+> > Thou didst, O Lord, create the mighty whale,\
+> > That wondrous monster of a mighty length; \
+> > Vast is his head and body, vast his tail, \
+> > Beyond conception his unmeasured strength.
+> >  
+> > But, everlasting God, thou dost ordain \
+> > That we, poor feeble mortals should engage\
+> > Ourselves, our wives and children to maintain, \
+> > This dreadful monster with a martial rage.
+
+## The Circus Animals’ Desertion By William Butler Yeats
+> 
+> > I 
+> >  
+> > I sought a theme and sought for it in vain,\
+> > I sought it daily for six weeks or so.\
+> > Maybe at last being but a broken man\
+> > I must be satisfied with my heart, although\
+> > Winter and summer till old age began\
+> > My circus animals were all on show,\
+> > Those stilted boys, that burnished chariot,\
+> > Lion and woman and the Lord knows what.
+> > 
+> > II 
+> >  
+> > What can I but enumerate old themes,\
+> > First that sea-rider Oisin led by the nose\
+> > Through three enchanted islands, allegorical dreams,\
+> > Vain gaiety, vain battle, vain repose,\
+> > Themes of the embittered heart, or so it seems,\
+> > That might adorn old songs or courtly shows;\
+> > But what cared I that set him on to ride,\
+> > I, starved for the bosom of his fairy bride.
+> >  
+> > And then a counter-truth filled out its play,\
+> > `The Countess Cathleen' was the name I gave it,\
+> > She, pity-crazed, had given her soul away\
+> > But masterful Heaven had intervened to save it.\
+> > I thought my dear must her own soul destroy\
+> > So did fanaticism and hate enslave it,\
+> > And this brought forth a dream and soon enough\
+> > This dream itself had all my thought and love.
+> >  
+> > And when the Fool and Blind Man stole the bread\
+> > Cuchulain fought the ungovernable sea;\
+> > Heart mysteries there, and yet when all is said\
+> > It was the dream itself enchanted me:\
+> > Character isolated by a deed\
+> > To engross the present and dominate memory.\
+> > Players and painted stage took all my love\
+> > And not those things that they were emblems of.
+> >  
+> > III
+> >  
+> > Those masterful images because complete\
+> > Grew in pure mind but out of what began?\
+> > A mound of refuse or the sweepings of a street,\
+> > Old kettles, old bottles, and a broken can,\
+> > Old iron, old bones, old rags, that raving slut\
+> > Who keeps the till. Now that my ladder's gone\
+> > I must lie down where all the ladders start\
+> > In the foul rag and bone shop of the heart.
+
+## An Irish Airman foresees his Death By William Butler Yeats
+>
+> > I know that I shall meet my fate\
+> > Somewhere among the clouds above;\
+> > Those that I fight I do not hate,\
+> > Those that I guard I do not love;\
+> > My country is Kiltartan Cross,\
+> > My countrymen Kiltartan’s poor,\
+> > No likely end could bring them loss\
+> > Or leave them happier than before.\
+> > Nor law, nor duty bade me fight,\
+> > Nor public men, nor cheering crowds,\
+> > A lonely impulse of delight\
+> > Drove to this tumult in the clouds;\
+> > I balanced all, brought all to mind,\
+> > The years to come seemed waste of breath,\
+> > A waste of breath the years behind\
+> > In balance with this life, this death.
+
 ## Continuities by Walt Whitman
 > 
 > > Nothing is ever really lost, or can be lost,\
@@ -184,6 +312,28 @@
 > > The sun now low in the west rises for mornings and for noons continual;\
 > > To frozen clods ever the spring's invisible law returns,\
 > > With grass and flowers and summer fruits and corn.
+
+## Lord, Guard and Guide the Men Who Fly by Mary C. D. Hamilton
+> 
+> > Lord,guard and guide the men who fly\
+> > Thro' the great spaces of the sky;\
+> > Be with them traversing the air\
+> > In darkening storms or sunshine fair.
+> > 
+> > Thou who doth keep with tender might\
+> > The balanced birds in all their flight,\
+> > Thou of the tempered winds, be near,\
+> > That, having thee, they know no fear.
+> > 
+> > Control their minds with instinct fit\
+> > What time, adventuring, they quit\
+> > The firm security of land;\
+> > Grant steadfast eye and skillful hand.
+> > 
+> > Aloft in solitudes of space,\
+> > Uphold them with thy saving grace.\
+> > O God,protect the men that fly\
+> > Thro'lonely ways beneath the sky. 
 
 ## This Be The Verse by Philip Larkin
 >
@@ -7429,6 +7579,10 @@ Is seldom glad (Norse Wisdom)” ― Edith Hamilton, Mythology
 > > 2. Under governments wherein the will of every one has a just influence, as is the case in England in a slight degree, and in our states in a great one.
 > > 3. Under governments of force: as is the case in all other monarchies and in most of the other republics.\
 > > To have an idea of the curse of existence under these last, they must be seen. It is a government of wolves over sheep. It is a problem, not clear in my mind, that the 1st. condition is not the best. But I believe it to be inconsistent with any great degree of population. The second state has a great deal of good in it. The mass of mankind under that enjoys a precious degree of liberty and happiness. It has it’s evils too: the principal of which is the turbulence to which it is subject. But weigh this against the oppressions of monarchy, and it becomes nothing. *__Malo periculosam, libertatem quam quietam servitutem.__* Even this evil is productive of good. It prevents the degeneracy of government, and nourishes a general attention to the public affairs. I hold it that a little rebellion now and then is a good thing, and as necessary in the political world as storms in the physical. Unsuccesful rebellions indeed generally establish the incroachments on the rights of the people which have produced them. An observation of this truth should render honest republican governors so mild in their punishment of rebellions, as not to discourage them too much. It is a medecine necessary for the sound health of government." - Thomas Jefferson to James Madison, January 30, 1787
+>
+> ---
+>
+> > "Never fear to deliberately walk through dark places, for that is how you reach the light on the other side." - Vernon Howard
 >
 > ---
 >
